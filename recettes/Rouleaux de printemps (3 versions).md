@@ -98,3 +98,18 @@ Le rouleau de printemps est en fait une enveloppe qu'on peut garnir de ce qu'on 
 18. Couper l'avocat en fines tranches régulières avec une lame droite, puis appuyer doucement pour les étaler en éventail. Couper la pomme en fines lamelles. Effeuiller le basilic.
 19. Façonner les rouleaux avec le sésame, le lard, la salade, un demi-avocat, la pomme, le basilic, un peu de mayonnaise et une bonne quantité de nouilles.
 20. *Sauce cacahuète :* mélanger le beurre de cacahuète, la sauce soja, le vinaigre et l'huile pimentée. Le mélange épaissit vite : ajouter de l'eau froide petit à petit jusqu'à ce que la sauce soit nappante.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 2 rouleaux et un peu de sauce (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 685 kcal | 34 % |
+| Protéines | 24 g | 48 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 9,9 g | 11 % |
+| Lipides | 33 g | 47 % |
+| dont acides gras saturés | 6,6 g | 33 % |
+| Fibres | 6,6 g | 26 % |
+| Sel | 2,8 g | 47 % |

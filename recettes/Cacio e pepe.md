@@ -38,3 +38,18 @@ La recette de pâtes la plus simple et peut-être la plus technique : seulement 
 7. **Couper le feu** et laisser la poêle tiédir un peu.
 8. Ajouter le fromage progressivement en mélangeant vigoureusement et en soulevant les pâtes pour incorporer de l'air. Ajouter de l'eau de cuisson si c'est trop sec, ou laisser réduire si c'est trop liquide. **Ne pas remettre le feu**, sinon le fromage coagule.
 9. *Dressage :* enrouler les pâtes à la pince dans une louche tenue à la verticale, les déposer en dôme dans l'assiette, puis napper de sauce. Ajouter du poivre frais et un peu de fromage râpé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 616 kcal | 31 % |
+| Protéines | 32 g | 64 % |
+| Glucides | 66 g | 25 % |
+| dont sucres | 2,1 g | 2 % |
+| Lipides | 24 g | 34 % |
+| dont acides gras saturés | 15 g | 73 % |
+| Fibres | 3,0 g | 12 % |
+| Sel | 3,0 g | 50 % |

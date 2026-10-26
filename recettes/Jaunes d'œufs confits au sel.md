@@ -53,3 +53,18 @@ Des jaunes d'œufs enfouis 48 heures dans un mélange sel-sucre-piment, puis sé
 7. Cuire les tagliolini frais 1 à 2 minutes dans l'eau bouillante salée.
 8. Les égoutter dans une poêle où mousse une belle noisette de beurre, ajouter de l'eau de cuisson et encore un peu de beurre, et mélanger vigoureusement jusqu'à une sauce liée et onctueuse.
 9. Dresser en nid (en enroulant les pâtes dans une louche), verser un peu de sauce et râper le jaune confit par-dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 jaune confit. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 59 kcal | 3 % |
+| Protéines | 2,8 g | 6 % |
+| Glucides | 1,2 g | 0 % |
+| dont sucres | 1,1 g | 1 % |
+| Lipides | 4,8 g | 7 % |
+| dont acides gras saturés | 1,5 g | 8 % |
+| Fibres | 0,0 g | 0 % |
+| Sel | 1,5 g | 25 % |

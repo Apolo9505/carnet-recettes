@@ -54,3 +54,18 @@ Un pesto inspiré du pesto alla genovese, fait au mortier avec de l'ail, des pig
 10. Servir dans des assiettes chaudes, avec un filet d'huile d'olive, une pointe de fleur de sel, des feuilles de basilic et du parmesan.
 
 > **Variantes :** remplacer une partie du basilic par de la roquette, des épinards ou de l'ail des ours.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 637 kcal | 32 % |
+| Protéines | 21 g | 41 % |
+| Glucides | 68 g | 26 % |
+| dont sucres | 2,7 g | 3 % |
+| Lipides | 31 g | 44 % |
+| dont acides gras saturés | 7,8 g | 39 % |
+| Fibres | 4,1 g | 16 % |
+| Sel | 1,0 g | 16 % |

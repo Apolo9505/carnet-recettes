@@ -47,3 +47,18 @@ La ventrèche, partie la plus grasse du thon (le « magret de la mer »), juste 
 4. Hors du feu, ajouter les câpres, les segments de citron, la cébette, une partie des croûtons et un peu de sauce piquante ; la ciboulette au dernier moment, pour qu'elle ne cuise pas.
 5. Couper la ventrèche en tranches dans la longueur, les assaisonner de fleur de sel et d'huile d'olive.
 6. Verser la sauce dans l'assiette et y poser les tranches de ventrèche. Finir avec des croûtons.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 386 kcal | 19 % |
+| Protéines | 30 g | 59 % |
+| Glucides | 8,9 g | 3 % |
+| dont sucres | 0,7 g | 1 % |
+| Lipides | 25 g | 36 % |
+| dont acides gras saturés | 6,2 g | 31 % |
+| Fibres | 0,9 g | 3 % |
+| Sel | 1,6 g | 27 % |

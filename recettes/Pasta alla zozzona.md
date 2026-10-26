@@ -54,3 +54,18 @@ La « crado » des pâtes romaines, qui réunit amatriciana et carbonara : guanc
 11. Transférer les pâtes dans la sauce à l'écumoire, ajouter le guanciale et encore un peu d'eau de cuisson, et finir la cuisson en faisant sauter jusqu'à ce que la sauce nappe. Les pâtes doivent rester al dente.
 12. **Couper le feu**, puis incorporer la pâte de jaunes et de pecorino en mélangeant vivement, sans que les œufs ne coagulent. Ajuster avec un peu d'eau de cuisson si c'est trop sec. Si la sauce ne lie pas, remettre la poêle quelques secondes sur la casserole d'eau chaude, comme un bain-marie.
 13. Servir immédiatement, avec encore du pecorino râpé par-dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1207 kcal | 60 % |
+| Protéines | 41 g | 82 % |
+| Glucides | 77 g | 30 % |
+| dont sucres | 5,8 g | 6 % |
+| Lipides | 79 g | 112 % |
+| dont acides gras saturés | 30 g | 151 % |
+| Fibres | 4,9 g | 20 % |
+| Sel | 5,4 g | 90 % |

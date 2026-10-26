@@ -39,3 +39,18 @@ Un tartare prêt en sept minutes, avec la chair grattée entre les arêtes du th
 2. Ajouter l'échalote et la fleur de sel, et bien mélanger en appuyant pour que le sel infuse.
 3. Dresser le tartare de manière bien nette au centre d'une assiette creuse et le recouvrir d'une couche d'œufs de truite (une cuillère en corne ou en plastique évite l'oxydation).
 4. Verser l'eau de tomate autour, ajouter quelques perles d'huile pimentée et servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 230 kcal | 12 % |
+| Protéines | 29 g | 58 % |
+| Glucides | 3,4 g | 1 % |
+| dont sucres | 2,2 g | 2 % |
+| Lipides | 11 g | 16 % |
+| dont acides gras saturés | 1,9 g | 9 % |
+| Fibres | 1,2 g | 5 % |
+| Sel | 1,0 g | 17 % |

@@ -44,3 +44,18 @@ La salade d'été préférée de Hugo, et une leçon pour bien construire une sa
 6. Fouetter la ricotta avec le jus du demi-citron, un filet d'huile d'olive et de la fleur de sel, jusqu'à ce qu'elle soit légère.
 7. Dans un saladier, réunir les tomates, le fenouil, la roquette, les herbes et les pêches encore tièdes. Assaisonner : huile d'olive, fleur de sel, poivre, piment d'Espelette, les pickles et le vinaigre. Mélanger délicatement.
 8. Étaler la ricotta en nid au fond des assiettes, poser la salade au centre, et finir avec un filet d'huile d'olive et quelques feuilles de basilic.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 230 kcal | 12 % |
+| Protéines | 6,0 g | 12 % |
+| Glucides | 14 g | 6 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 15 g | 22 % |
+| dont acides gras saturés | 4,6 g | 23 % |
+| Fibres | 4,2 g | 17 % |
+| Sel | 0,7 g | 12 % |

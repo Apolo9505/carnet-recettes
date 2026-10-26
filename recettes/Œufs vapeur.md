@@ -38,3 +38,18 @@ Une recette chinoise très simple : des œufs battus avec une fois et demie leur
 3. Facultatif : passer le mélange au tamis pour retirer les impuretés, et enlever les bulles en surface pour un flan bien lisse.
 4. Verser dans un récipient et cuire à la vapeur **10 à 15 minutes** : dans un panier vapeur, au four vapeur, ou dans une grande casserole sur une grille, sans contact avec l'eau. Le temps dépend de la hauteur du récipient.
 5. Quadriller la surface à la cuillère, verser un peu de sauce soja et d'huile pimentée, et parsemer de ciboulette ou de cébette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 130 kcal | 6 % |
+| Protéines | 10,0 g | 20 % |
+| Glucides | 0,8 g | 0 % |
+| dont sucres | 0,3 g | 0 % |
+| Lipides | 9,6 g | 14 % |
+| dont acides gras saturés | 2,2 g | 11 % |
+| Fibres | 0,2 g | 1 % |
+| Sel | 1,7 g | 28 % |

@@ -64,3 +64,18 @@ La soupe vietnamienne de nouilles au bœuf. Un bouillon clair est mijoté 8 heur
 11. Porter le bouillon à forte ébullition, y réchauffer le jarret coupé (et les boulettes).
 12. Dans chaque bol : nouilles, tranches de filet cru, jarret effiloché, puis une louche de bouillon **brûlant** qui cuit légèrement le filet.
 13. Ajouter l'oignon, la coriandre, le basilic thaï, un piment entier à laisser infuser, la cébette frisée et beaucoup de jus de citron vert.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 488 kcal | 24 % |
+| Protéines | 29 g | 57 % |
+| Glucides | 71 g | 27 % |
+| dont sucres | 4,0 g | 4 % |
+| Lipides | 9,2 g | 13 % |
+| dont acides gras saturés | 2,9 g | 14 % |
+| Fibres | 2,4 g | 10 % |
+| Sel | 2,0 g | 34 % |

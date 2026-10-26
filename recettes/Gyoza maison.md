@@ -89,3 +89,18 @@ Des raviolis japonais faits entièrement maison. La pâte est préparée à l'ea
 17. Quand le dessous est bien doré, verser un petit fond d'eau et couvrir aussitôt.
 18. Laisser cuire jusqu'à ce que l'eau soit complètement évaporée. Le dessous reste croustillant.
 19. Servir aussitôt, arrosé de sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 7 à 8 gyozas avec la sauce (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 635 kcal | 32 % |
+| Protéines | 22 g | 44 % |
+| Glucides | 67 g | 26 % |
+| dont sucres | 3,8 g | 4 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 8,3 g | 41 % |
+| Fibres | 3,3 g | 13 % |
+| Sel | 4,0 g | 67 % |

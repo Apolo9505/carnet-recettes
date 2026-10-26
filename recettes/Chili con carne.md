@@ -87,3 +87,18 @@ Un chili pour recevoir, loin de la version au bœuf haché et aux haricots en bo
 15. *Cébette frisée :* fendre le vert de cébette dans la longueur, le tailler en fines lanières et le plonger dans de l'eau glacée pour qu'il frise.
 16. *Chips de tortilla :* couper les tortillas en triangles et les frire environ 1 minute dans l'huile chaude en remuant.
 17. Servir le chili bien chaud avec une cuillère de crème fraîche, la cébette frisée, des pickles d'oignon rouge, de la coriandre, du citron vert et les chips.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 690 kcal | 34 % |
+| Protéines | 51 g | 102 % |
+| Glucides | 48 g | 19 % |
+| dont sucres | 6,6 g | 7 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 9,6 g | 48 % |
+| Fibres | 12 g | 46 % |
+| Sel | 3,1 g | 52 % |

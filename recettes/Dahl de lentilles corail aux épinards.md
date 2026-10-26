@@ -44,3 +44,18 @@ Un plat réconfortant et végétarien, fait presque entièrement avec des produi
 6. Laisser mijoter une vingtaine de minutes en remuant de temps en temps, jusqu'à ce que les lentilles soient cuites et que le liquide ait réduit. Le dahl doit être onctueux et épais, pas comme une soupe.
 7. Ajouter les épinards et les laisser tomber 1 à 2 minutes dans la chaleur du dahl.
 8. Servir chaud dans des assiettes creuses, avec un peu d'huile pimentée, beaucoup de coriandre et un filet de citron. On peut l'accompagner d'un pain plat.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 483 kcal | 24 % |
+| Protéines | 21 g | 43 % |
+| Glucides | 36 g | 14 % |
+| dont sucres | 4,2 g | 5 % |
+| Lipides | 25 g | 35 % |
+| dont acides gras saturés | 17 g | 87 % |
+| Fibres | 15 g | 58 % |
+| Sel | 1,6 g | 26 % |

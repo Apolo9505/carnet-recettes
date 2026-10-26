@@ -75,3 +75,18 @@ Un ragù où la viande n'est pas hachée : du plat de côtes de bœuf, bien sais
 19. Cuire les pappardelle à l'eau bouillante salée, 1 à 2 minutes : elles remontent vite à la surface.
 20. Les transférer à la pince dans une poêle avec le ragù chaud et un peu d'eau de cuisson. Enrober délicatement, sans casser les pâtes.
 21. Dresser en nid dans des assiettes chaudes, napper de ragù et de son jus, puis servir avec du parmesan et un filet d'huile d'olive.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1028 kcal | 51 % |
+| Protéines | 51 g | 102 % |
+| Glucides | 67 g | 26 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 59 g | 84 % |
+| dont acides gras saturés | 24 g | 120 % |
+| Fibres | 5,1 g | 20 % |
+| Sel | 3,2 g | 53 % |

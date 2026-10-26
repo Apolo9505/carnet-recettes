@@ -64,3 +64,18 @@ Le classique bourguignon en version « restaurant », avec des ustensiles et des
 12. Remettre le jus dans la cocotte et le faire réduire à feu vif 10 à 15 minutes, jusqu'à ce qu'il soit nappant.
 13. Remettre la garniture lard-oignons-champignons, le persil, puis les morceaux de poulet pour les réchauffer dans la sauce.
 14. Servir avec des pommes de terre vapeur, un morceau de filet et un de cuisse par personne, la garniture et beaucoup de sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 986 kcal | 49 % |
+| Protéines | 69 g | 138 % |
+| Glucides | 62 g | 24 % |
+| dont sucres | 8,1 g | 9 % |
+| Lipides | 46 g | 66 % |
+| dont acides gras saturés | 13 g | 67 % |
+| Fibres | 10 g | 40 % |
+| Sel | 2,9 g | 49 % |

@@ -63,3 +63,18 @@ Un plat d'Afrique du Nord et du Moyen-Orient, simple, pas cher, végétarien et 
 **Le service**
 
 12. Servir chaque œuf entouré de sauce, sans le casser. Ajouter un filet d'huile d'olive, de la fleur de sel et du poivre sur le jaune, un peu de zeste de citron et les herbes fraîches au dernier moment. Accompagner de pain.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 412 kcal | 21 % |
+| Protéines | 21 g | 42 % |
+| Glucides | 15 g | 6 % |
+| dont sucres | 9,0 g | 10 % |
+| Lipides | 28 g | 40 % |
+| dont acides gras saturés | 12 g | 58 % |
+| Fibres | 7,2 g | 29 % |
+| Sel | 2,6 g | 43 % |

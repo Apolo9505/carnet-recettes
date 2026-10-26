@@ -40,3 +40,18 @@ Un gratin dauphinois qui se tient, et sans fromage. Des pommes de terre à chair
 5. Poser quelques noisettes de beurre sur le dessus.
 6. Cuire 1 h à 1 h 30 à 160 °C, selon le four, l'épaisseur et le plat.
 7. Laisser reposer 10 à 15 minutes avant de servir, pour que la crème fige un peu.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 436 kcal | 22 % |
+| Protéines | 7,9 g | 16 % |
+| Glucides | 38 g | 15 % |
+| dont sucres | 4,9 g | 5 % |
+| Lipides | 26 g | 37 % |
+| dont acides gras saturés | 18 g | 90 % |
+| Fibres | 5,0 g | 20 % |
+| Sel | 1,3 g | 21 % |

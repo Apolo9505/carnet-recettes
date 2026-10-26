@@ -50,3 +50,18 @@ Un plat très simple et difficile à rater, prêt en 20 minutes vaisselle compri
 10. Mouler le riz dans un petit bol et le démouler dans un bol plus grand ou une assiette creuse. Ajouter le bœuf aux poireaux, du sésame et de la cébette. Servir bien chaud.
 
 > **Astuce :** pour réchauffer le plat, ajouter un peu d'eau afin de retrouver la sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 710 kcal | 36 % |
+| Protéines | 40 g | 80 % |
+| Glucides | 68 g | 26 % |
+| dont sucres | 6,8 g | 8 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 9,7 g | 49 % |
+| Fibres | 5,3 g | 21 % |
+| Sel | 6,1 g | 102 % |

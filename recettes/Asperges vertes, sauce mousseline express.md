@@ -47,3 +47,18 @@ Une « fausse » mousseline, plus simple que la vraie (une hollandaise montée) 
 6. Monter la mayonnaise en versant l'huile d'abord goutte à goutte, puis en filet quand elle commence à prendre, jusqu'à une texture bien ferme.
 7. Monter les blancs en neige. En incorporer d'abord une partie pour détendre la mayonnaise, puis le reste délicatement, en deux ou trois fois.
 8. Saler encore un peu les asperges tièdes et les napper de sauce. À manger tout de suite.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 577 kcal | 29 % |
+| Protéines | 8,8 g | 18 % |
+| Glucides | 3,7 g | 1 % |
+| dont sucres | 2,7 g | 3 % |
+| Lipides | 58 g | 82 % |
+| dont acides gras saturés | 7,1 g | 35 % |
+| Fibres | 3,6 g | 14 % |
+| Sel | 1,5 g | 24 % |

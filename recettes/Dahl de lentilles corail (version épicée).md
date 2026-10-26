@@ -52,3 +52,18 @@ Un dahl vegan et réconfortant, cuit dans une seule cocotte. On fait revenir de 
 8. Laisser frémir 20 à 25 minutes en remuant régulièrement, jusqu'à ce que les lentilles soient cuites (elles peuvent rester un peu fermes) et que le liquide ait réduit. Le dahl doit être crémeux sans être liquide.
 9. *Riz à la casserole :* mettre 1 volume de riz et 1 volume d'eau froide sur feu vif. Aux premiers bouillons, couvrir et baisser le feu au minimum 1 minute, puis couper le feu et laisser reposer 10 minutes.
 10. Servir le dahl bien chaud dans des assiettes creuses, avec un filet d'huile pimentée, beaucoup de coriandre et du riz ou un naan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 624 kcal | 31 % |
+| Protéines | 25 g | 50 % |
+| Glucides | 82 g | 32 % |
+| dont sucres | 3,4 g | 4 % |
+| Lipides | 19 g | 27 % |
+| dont acides gras saturés | 9,5 g | 48 % |
+| Fibres | 13 g | 54 % |
+| Sel | 1,2 g | 21 % |

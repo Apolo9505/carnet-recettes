@@ -49,3 +49,18 @@ Une salade d'été fraîche et croquante : des cubes de pastèque et de concombr
 4. Émincer l'oignon jeune très finement et le plonger dans l'eau glacée.
 5. Assaisonner la pastèque et le concombre avec l'huile d'olive, le vinaigre (et le citron), la fleur de sel et le piment, en mélangeant délicatement.
 6. Dresser : roquette, mélange pastèque-concombre, feta émiettée, oignon égoutté, feuilles de menthe et une poignée de quinoa croustillant.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 495 kcal | 25 % |
+| Protéines | 14 g | 29 % |
+| Glucides | 43 g | 17 % |
+| dont sucres | 26 g | 28 % |
+| Lipides | 28 g | 40 % |
+| dont acides gras saturés | 11 g | 53 % |
+| Fibres | 4,7 g | 19 % |
+| Sel | 1,7 g | 28 % |

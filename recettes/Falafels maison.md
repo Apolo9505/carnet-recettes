@@ -72,3 +72,18 @@ Des falafels croustillants dehors et moelleux dedans, très verts grâce à beau
 11. Les frire en petites quantités pour qu'ils ne collent pas, en les remuant à l'araignée, jusqu'à ce qu'ils soient bien bruns.
 12. Les égoutter sur du papier absorbant et les saler légèrement.
 13. Servir chaud avec la sauce, un quartier de citron et un filet d'huile d'olive.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 5 falafels et un peu de sauce (recette pour 20). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 450 kcal | 22 % |
+| Protéines | 15 g | 30 % |
+| Glucides | 35 g | 13 % |
+| dont sucres | 5,7 g | 6 % |
+| Lipides | 26 g | 37 % |
+| dont acides gras saturés | 4,5 g | 23 % |
+| Fibres | 10 g | 41 % |
+| Sel | 1,7 g | 28 % |

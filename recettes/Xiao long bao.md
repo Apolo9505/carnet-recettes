@@ -65,3 +65,18 @@ source: Perso
 11. Cuire 8 min à la vapeur à feu vif et servir aussitôt avec la sauce.
 
 > Se congèlent crus et se cuisent directement congelés (environ 15 min).
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 6 xiao long bao (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 381 kcal | 19 % |
+| Protéines | 19 g | 39 % |
+| Glucides | 26 g | 10 % |
+| dont sucres | 2,1 g | 2 % |
+| Lipides | 22 g | 31 % |
+| dont acides gras saturés | 7,9 g | 40 % |
+| Fibres | 0,9 g | 4 % |
+| Sel | 2,1 g | 35 % |

@@ -58,3 +58,18 @@ Des œufs mollets marinés quelques heures dans un mélange soja, ail, piment, c
 
 8. Couper les œufs d'un geste vif (le jaune est très coulant) et les poser froids sur le riz tiède.
 9. Arroser généreusement de marinade, sur les œufs et sur le riz, et ajouter quelques rondelles de piment.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 233 kcal | 12 % |
+| Protéines | 16 g | 31 % |
+| Glucides | 7,1 g | 3 % |
+| dont sucres | 3,9 g | 4 % |
+| Lipides | 15 g | 22 % |
+| dont acides gras saturés | 3,4 g | 17 % |
+| Fibres | 2,1 g | 8 % |
+| Sel | 2,6 g | 44 % |

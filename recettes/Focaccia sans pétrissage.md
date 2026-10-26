@@ -68,3 +68,18 @@ Une focaccia très aérée et croustillante, sans pétrissage. On mélange à la
 15. Étaler du pesto, ajouter beaucoup de mortadelle, puis la burrata.
 16. Assaisonner avec du poivre, de la fleur de sel, un filet d'huile d'olive, un peu de réduction balsamique et une pointe de piment d'Espelette. Ajouter une grosse poignée de roquette.
 17. Refermer, appuyer légèrement et couper en portions.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1/8 de focaccia (sans garniture). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 446 kcal | 22 % |
+| Protéines | 9,2 g | 18 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 1,4 g | 2 % |
+| Lipides | 14 g | 19 % |
+| dont acides gras saturés | 2,1 g | 11 % |
+| Fibres | 3,3 g | 13 % |
+| Sel | 1,9 g | 32 % |

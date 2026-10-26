@@ -65,3 +65,18 @@ Une ancienne vidéo, plus courte, sur le même principe que le ragù effiloché 
 12. Cuire les pappardelle environ 2 minutes dans une grande eau bien salée.
 13. Dans une poêle chaude, mettre deux louches de ragoût et une louche d'eau de cuisson, puis les pâtes. Bien mélanger pour que la sauce nappe, en rajoutant du ragoût si besoin.
 14. Dresser en nid, ajouter encore un peu de ragoût et beaucoup de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 776 kcal | 39 % |
+| Protéines | 46 g | 93 % |
+| Glucides | 86 g | 33 % |
+| dont sucres | 8,6 g | 10 % |
+| Lipides | 24 g | 35 % |
+| dont acides gras saturés | 8,4 g | 42 % |
+| Fibres | 7,4 g | 29 % |
+| Sel | 2,5 g | 42 % |

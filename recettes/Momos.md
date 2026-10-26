@@ -50,3 +50,18 @@ source: Perso
 7. Servir chaud avec les deux sauces.
 
 > Variante dessert : momos fourrés d'un morceau de Snickers.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1/10 de la recette (avec les sauces). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 569 kcal | 28 % |
+| Protéines | 19 g | 38 % |
+| Glucides | 85 g | 33 % |
+| dont sucres | 7,0 g | 8 % |
+| Lipides | 15 g | 21 % |
+| dont acides gras saturés | 5,5 g | 28 % |
+| Fibres | 9,4 g | 38 % |
+| Sel | 1,3 g | 22 % |

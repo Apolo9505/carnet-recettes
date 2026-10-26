@@ -56,3 +56,18 @@ L'institution britannique, la pomme de terre « en veste » : une grosse bintje 
 3. **La crème :** émincer finement les champignons de Paris, l'oignon et l'ail, et les faire revenir dans le beurre jusqu'à une légère caramélisation. Déglacer au mirin, saler et poivrer, ajouter la crème et le miso, puis laisser frémir. Mixer en une crème lisse.
 4. Faire rôtir les pleurotes et les shiitakés à la poêle. Ciseler la ciboulette.
 5. Inciser les pommes de terre au centre, écraser un peu la chair, puis garnir de crème de champignons, de champignons rôtis, de pickles d'échalotes, de parmesan et de ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 560 kcal | 28 % |
+| Protéines | 14 g | 28 % |
+| Glucides | 67 g | 26 % |
+| dont sucres | 15 g | 17 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 13 g | 65 % |
+| Fibres | 8,6 g | 34 % |
+| Sel | 1,7 g | 28 % |

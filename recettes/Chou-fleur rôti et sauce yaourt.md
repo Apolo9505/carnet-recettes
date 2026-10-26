@@ -72,3 +72,18 @@ Un chou-fleur entier massé au beurre et aux épices torréfiées (coriandre, cu
 11. Étaler la sauce sur un grand plat, de façon irrégulière.
 12. Couper le chou-fleur en deux ou en quatre et le disposer dessus.
 13. Ajouter un peu d'huile pimentée si on veut, beaucoup d'herbes fraîches et les oignons au sumac. Servir tiède.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 330 kcal | 17 % |
+| Protéines | 9,2 g | 18 % |
+| Glucides | 13 g | 5 % |
+| dont sucres | 7,2 g | 8 % |
+| Lipides | 25 g | 36 % |
+| dont acides gras saturés | 7,9 g | 40 % |
+| Fibres | 8,3 g | 33 % |
+| Sel | 1,1 g | 19 % |

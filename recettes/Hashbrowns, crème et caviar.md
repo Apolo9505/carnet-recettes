@@ -59,3 +59,18 @@ Un amuse-bouche qui marie la pomme de terre et le caviar : des pommes de terre r
 
 8. Sur les palets **tièdes** (sinon la crème fond), déposer une petite quenelle de crème crue.
 9. Ajouter un peu de sel et de zeste de citron, puis du caviar en quinconce sur la crème, et finir avec la ciboulette très finement ciselée. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 358 kcal | 18 % |
+| Protéines | 5,6 g | 11 % |
+| Glucides | 26 g | 10 % |
+| dont sucres | 1,7 g | 2 % |
+| Lipides | 25 g | 35 % |
+| dont acides gras saturés | 6,5 g | 33 % |
+| Fibres | 2,9 g | 12 % |
+| Sel | 1,0 g | 17 % |

@@ -42,3 +42,18 @@ Un classique belge trop méconnu, prêt en 20 minutes : des asperges blanches cu
 6. Mélanger les œufs, la cébette, le persil, le zeste et un peu de jus de citron, la muscade, le sel, le poivre blanc et le piment.
 7. Ajouter le beurre fondu **encore chaud** et mélanger vigoureusement pour que le jaune et le beurre se lient en une sauce presque comme une béarnaise.
 8. Disposer les asperges tièdes et napper les pieds de sauce, en laissant les têtes visibles.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 374 kcal | 19 % |
+| Protéines | 12 g | 24 % |
+| Glucides | 4,9 g | 2 % |
+| dont sucres | 3,6 g | 4 % |
+| Lipides | 33 g | 47 % |
+| dont acides gras saturés | 20 g | 100 % |
+| Fibres | 4,6 g | 18 % |
+| Sel | 1,2 g | 21 % |

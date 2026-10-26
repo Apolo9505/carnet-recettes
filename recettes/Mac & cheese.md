@@ -43,3 +43,18 @@ Le classique américain, végétarien et pas cher. Des coquillettes sous-cuites 
 7. Les mettre dans un plat allant au four, verser la sauce chaude, mélanger et lisser la surface.
 8. Mélanger le panko avec le parmesan réservé et en couvrir le plat.
 9. Passer 5 minutes sous le gril du four, juste pour dorer le dessus. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 757 kcal | 38 % |
+| Protéines | 34 g | 67 % |
+| Glucides | 74 g | 29 % |
+| dont sucres | 9,5 g | 11 % |
+| Lipides | 35 g | 50 % |
+| dont acides gras saturés | 21 g | 107 % |
+| Fibres | 3,6 g | 15 % |
+| Sel | 2,1 g | 34 % |

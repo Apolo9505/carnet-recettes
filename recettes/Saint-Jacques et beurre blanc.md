@@ -68,3 +68,18 @@ Une entrée de fête : des noix de Saint-Jacques saisies (dorées dehors, nacré
 10. Redonner un coup de mixeur au beurre blanc.
 11. Dans des assiettes creuses, disposer 3 noix par personne, ajouter les œufs de truite, un peu de poivre blanc et beaucoup de beurre blanc.
 12. Finir avec quelques gouttes d'huile verte et un peu de cressonnette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 558 kcal | 28 % |
+| Protéines | 20 g | 40 % |
+| Glucides | 3,1 g | 1 % |
+| dont sucres | 0,8 g | 1 % |
+| Lipides | 51 g | 73 % |
+| dont acides gras saturés | 31 g | 153 % |
+| Fibres | 0,3 g | 1 % |
+| Sel | 2,3 g | 39 % |

@@ -53,3 +53,18 @@ Un ragoût d'agneau de printemps, idéal pour Pâques. L'épaule désossée est 
 11. Sortir les légumes de la cocotte. Faire réduire le jus à feu vif en arrosant la viande et en remuant, jusqu'à ce qu'il soit épais et nappant.
 12. Remettre les légumes et les pois gourmands pour les réchauffer, sans les casser.
 13. Servir dans des assiettes creuses : viande, pommes de terre, navets, carottes, pois gourmands, et beaucoup de sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 672 kcal | 34 % |
+| Protéines | 51 g | 101 % |
+| Glucides | 42 g | 16 % |
+| dont sucres | 14 g | 15 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 9,9 g | 50 % |
+| Fibres | 8,9 g | 36 % |
+| Sel | 3,1 g | 52 % |

@@ -45,3 +45,18 @@ L'huile pimentée qui sert de base aux nouilles dan dan, et qu'on finit par mett
 6. Laisser refroidir, puis conserver au frigo plusieurs mois.
 
 *Version express :* verser l'huile infusée bouillante et filtrée sur du piment en poudre grossièrement moulu et une cuillère à café de sel.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 c. à soupe (environ 12 g). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 99 kcal | 5 % |
+| Protéines | 0,2 g | 0 % |
+| Glucides | 0,6 g | 0 % |
+| dont sucres | 0,1 g | 0 % |
+| Lipides | 11 g | 15 % |
+| dont acides gras saturés | 1,2 g | 6 % |
+| Fibres | 0,4 g | 2 % |
+| Sel | 0,1 g | 2 % |

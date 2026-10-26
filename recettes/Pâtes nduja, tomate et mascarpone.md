@@ -40,3 +40,18 @@ Les pâtes que Hugo fait plusieurs fois par mois : de la nduja (saucisse calabra
 7. Assaisonner la sauce, puis ajouter le mascarpone et laisser sur le feu en remuant.
 8. Ajouter une généreuse louche d'eau de cuisson, puis les pâtes à l'écumoire et le parmesan. Mélanger vivement (feu coupé si ça accroche) jusqu'à ce que la sauce soit très crémeuse.
 9. Servir aussitôt dans des assiettes creuses, avec encore un peu de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 714 kcal | 36 % |
+| Protéines | 25 g | 51 % |
+| Glucides | 87 g | 33 % |
+| dont sucres | 4,9 g | 5 % |
+| Lipides | 28 g | 39 % |
+| dont acides gras saturés | 13 g | 66 % |
+| Fibres | 5,3 g | 21 % |
+| Sel | 1,8 g | 30 % |

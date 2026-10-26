@@ -84,3 +84,18 @@ Un hachis parmentier au canard plutôt qu'au bœuf. On effiloche des cuisses de 
 **Le service**
 
 20. Servir le hachis bien chaud avec la salade et la sauce au vin rouge.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 747 kcal | 37 % |
+| Protéines | 29 g | 58 % |
+| Glucides | 40 g | 16 % |
+| dont sucres | 5,9 g | 7 % |
+| Lipides | 50 g | 71 % |
+| dont acides gras saturés | 25 g | 123 % |
+| Fibres | 5,8 g | 23 % |
+| Sel | 3,3 g | 54 % |

@@ -59,3 +59,18 @@ Le grand classique de bistrot, dans la version du restaurant Bilili à Paris : d
 6. Couper les pommes de terre froides en rondelles fines, de la taille des œufs. Écaler les œufs (surface bien lisse) et les couper en deux.
 7. Disposer 4 rondelles de pomme de terre et poser un demi-œuf sur chacune, jaune vers le bas.
 8. Napper généreusement de mayonnaise, puis parsemer de croûtons, de chips de jambon brisées et d'herbes fraîches. Quelques gouttes d'huile verte, si on en a.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 629 kcal | 31 % |
+| Protéines | 27 g | 55 % |
+| Glucides | 23 g | 9 % |
+| dont sucres | 1,7 g | 2 % |
+| Lipides | 47 g | 67 % |
+| dont acides gras saturés | 11 g | 53 % |
+| Fibres | 1,5 g | 6 % |
+| Sel | 3,5 g | 58 % |

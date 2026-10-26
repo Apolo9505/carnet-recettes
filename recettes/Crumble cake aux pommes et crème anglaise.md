@@ -79,3 +79,18 @@ Un gâteau aux pommes moelleux à la cannelle, couvert d'un crumble en gros morc
 **Le service**
 
 13. Servir une part de gâteau avec **beaucoup** de crème anglaise froide (filtrée si on veut retirer la gousse).
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 623 kcal | 31 % |
+| Protéines | 8,0 g | 16 % |
+| Glucides | 61 g | 24 % |
+| dont sucres | 37 g | 41 % |
+| Lipides | 38 g | 54 % |
+| dont acides gras saturés | 24 g | 120 % |
+| Fibres | 2,5 g | 10 % |
+| Sel | 0,4 g | 7 % |

@@ -38,3 +38,18 @@ La purée de restaurant, très riche en beurre, sur le principe de celle de Joë
 5. Passer la purée au tamis à mailles fines (fastidieux, mais c'est ce qui la rend parfaitement lisse).
 6. La remettre dans la casserole et la détendre avec un peu de lait chaud, jusqu'à ce qu'elle soit fluide mais pas trop.
 7. Assaisonner : beaucoup de muscade, du poivre blanc, du sel. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 546 kcal | 27 % |
+| Protéines | 5,5 g | 11 % |
+| Glucides | 34 g | 13 % |
+| dont sucres | 2,8 g | 3 % |
+| Lipides | 42 g | 60 % |
+| dont acides gras saturés | 28 g | 141 % |
+| Fibres | 3,6 g | 14 % |
+| Sel | 1,8 g | 30 % |

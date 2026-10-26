@@ -60,3 +60,18 @@ La tatin du chef William Lamagnère : les pommes sont taillées en longues bande
 
 9. Poser le disque de pâte sur les pommes et retourner la tatin.
 10. Si elle a été faite à l'avance, la réchauffer un peu au four pour la servir tiède, avec de la crème fraîche.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 381 kcal | 19 % |
+| Protéines | 2,2 g | 4 % |
+| Glucides | 51 g | 20 % |
+| dont sucres | 40 g | 44 % |
+| Lipides | 17 g | 25 % |
+| dont acides gras saturés | 11 g | 53 % |
+| Fibres | 3,1 g | 12 % |
+| Sel | 0,6 g | 10 % |

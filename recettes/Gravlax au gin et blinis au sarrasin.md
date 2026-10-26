@@ -67,3 +67,18 @@ Une version plus ancienne du gravlax. Un filet de saumon est mariné 24 heures s
 8. Rincer abondamment le saumon à l'eau très froide, l'éponger, puis le trancher finement en biais.
 9. Mélanger la crème avec le sel, le zeste de citron et le poivre.
 10. Sur chaque blini (éventuellement toasté) : une cuillère de crème, une tranche de saumon, quelques pluches d'aneth et un peu de zeste de citron.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 9). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 437 kcal | 22 % |
+| Protéines | 28 g | 56 % |
+| Glucides | 18 g | 7 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 28 g | 40 % |
+| dont acides gras saturés | 9,3 g | 46 % |
+| Fibres | 1,4 g | 5 % |
+| Sel | 3,6 g | 60 % |

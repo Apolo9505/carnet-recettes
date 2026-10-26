@@ -42,3 +42,18 @@ Des udon enrobés d'une sauce crue au beurre de cacahuète, sauce soja, huile pi
 6. Ajouter une généreuse louche d'eau de cuisson dans chaque bol et mélanger pour détendre la sauce.
 7. Transférer les nouilles directement dans les bols à la pince, et ajuster avec un peu d'eau de cuisson si besoin.
 8. Bien mélanger pour enrober, ajouter une à deux cuillères d'huile pimentée, du sésame et un petit tas de cébette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 376 kcal | 19 % |
+| Protéines | 8,8 g | 18 % |
+| Glucides | 37 g | 14 % |
+| dont sucres | 2,2 g | 2 % |
+| Lipides | 20 g | 29 % |
+| dont acides gras saturés | 2,9 g | 15 % |
+| Fibres | 3,8 g | 15 % |
+| Sel | 3,6 g | 59 % |

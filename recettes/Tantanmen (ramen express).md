@@ -86,3 +86,18 @@ Une version express du ramen, à mi-chemin entre les nouilles dan dan et le rame
 11. Cuire les nouilles al dente et les égoutter.
 12. Verser le bouillon sur la tare et mélanger aux baguettes, puis ajouter les nouilles.
 13. Garnir de pak-choï, de trois cuillerées de porc, de pousses de soja, d'un œuf mariné coupé en deux, de cébette, d'un peu d'huile pimentée et de sésame noir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1063 kcal | 53 % |
+| Protéines | 47 g | 93 % |
+| Glucides | 72 g | 28 % |
+| dont sucres | 6,1 g | 7 % |
+| Lipides | 63 g | 90 % |
+| dont acides gras saturés | 14 g | 71 % |
+| Fibres | 8,0 g | 32 % |
+| Sel | 12 g | 202 % |

@@ -25,3 +25,18 @@ source: Perso
 3. Garnir les tranches d'aubergine de ce mélange.
 
 > Variante testée : noix de cajou, basilic et persil, toujours liés à la mayonnaise.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 336 kcal | 17 % |
+| Protéines | 4,7 g | 9 % |
+| Glucides | 5,5 g | 2 % |
+| dont sucres | 4,3 g | 5 % |
+| Lipides | 32 g | 45 % |
+| dont acides gras saturés | 3,9 g | 19 % |
+| Fibres | 5,7 g | 23 % |
+| Sel | 0,1 g | 2 % |

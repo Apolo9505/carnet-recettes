@@ -89,3 +89,18 @@ Des lasagnes du dimanche, faites entièrement maison, en trois préparations. Le
 20. Pour la dernière couche, mettre le ragù dessous et la béchamel dessus, ajouter beaucoup de parmesan et mélanger grossièrement en surface pour que ça croustille.
 21. Enfourner 30 à 45 minutes selon la taille du plat.
 22. Couper en parts avec une large spatule pour garder les étages intacts.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1128 kcal | 56 % |
+| Protéines | 61 g | 123 % |
+| Glucides | 67 g | 26 % |
+| dont sucres | 11 g | 12 % |
+| Lipides | 66 g | 94 % |
+| dont acides gras saturés | 31 g | 154 % |
+| Fibres | 4,6 g | 18 % |
+| Sel | 4,2 g | 70 % |

@@ -48,3 +48,18 @@ source: Perso
 10. Verser l'appareil encore très chaud dans le fond de tarte froid.
 11. Cuire 45 min à 165 °C. Le flan semble pas cuit à la sortie : c'est normal.
 12. Laisser refroidir au moins 3 h avant de retirer le cercle. Conserver au frais et servir à température ambiante.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 483 kcal | 24 % |
+| Protéines | 7,9 g | 16 % |
+| Glucides | 45 g | 17 % |
+| dont sucres | 25 g | 27 % |
+| Lipides | 30 g | 42 % |
+| dont acides gras saturés | 17 g | 87 % |
+| Fibres | 1,3 g | 5 % |
+| Sel | 0,4 g | 6 % |

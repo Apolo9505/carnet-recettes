@@ -39,3 +39,18 @@ Un tarama fait maison, bien plus pâle que celui du commerce et beaucoup moins c
 3. Essorer légèrement le pain (bien imbibé, mais pas détrempé) et l'ajouter.
 4. Mixer à pleine puissance jusqu'à une pâte homogène, puis monter en versant d'abord l'huile de tournesol, puis l'huile d'olive (que de l'huile d'olive donnerait un goût trop fort). Ajouter le jus de citron et mixer jusqu'à une texture épaisse.
 5. Servir bien frais dans un ramequin, avec un filet d'huile d'olive et du pain tout juste grillé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 384 kcal | 19 % |
+| Protéines | 8,2 g | 16 % |
+| Glucides | 19 g | 7 % |
+| dont sucres | 1,6 g | 2 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 4,4 g | 22 % |
+| Fibres | 0,8 g | 3 % |
+| Sel | 0,8 g | 13 % |

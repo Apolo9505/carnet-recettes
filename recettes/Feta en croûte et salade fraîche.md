@@ -68,3 +68,18 @@ Un bloc de feta emballé dans de la pâte filo, nappé de miel et de sésame, pu
 **Service**
 
 12. Servir un demi-bloc de feta par assiette avec la salade, ou toute la feta prédécoupée dans un grand plat à partager. Les bords de la pâte sont croustillants, mais le centre reste moelleux à cause de la feta et du miel : c'est normal.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 523 kcal | 26 % |
+| Protéines | 19 g | 37 % |
+| Glucides | 24 g | 9 % |
+| dont sucres | 11 g | 12 % |
+| Lipides | 38 g | 54 % |
+| dont acides gras saturés | 19 g | 95 % |
+| Fibres | 2,5 g | 10 % |
+| Sel | 2,8 g | 46 % |

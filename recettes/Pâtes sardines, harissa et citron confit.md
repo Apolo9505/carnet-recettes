@@ -61,3 +61,18 @@ Un plat de pâtes fait presque entièrement avec des produits du placard. La sau
 
 10. Égoutter les pâtes al dente et les mettre dans la sauce avec un peu d'eau de cuisson. Mélanger sans arrêt pendant 1 minute pour finir la cuisson.
 11. Servir avec un peu de zeste de citron jaune, un filet d'huile d'olive, beaucoup de pangrattato et de la ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 758 kcal | 38 % |
+| Protéines | 31 g | 61 % |
+| Glucides | 107 g | 41 % |
+| dont sucres | 6,2 g | 7 % |
+| Lipides | 20 g | 28 % |
+| dont acides gras saturés | 3,6 g | 18 % |
+| Fibres | 7,0 g | 28 % |
+| Sel | 3,7 g | 62 % |

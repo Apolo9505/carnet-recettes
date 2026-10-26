@@ -69,3 +69,18 @@ Une soupe d'hiver lisse et veloutée. Le potimarron cuit avec sa peau dans un bo
 14. Retirer le thym et le laurier. Mettre les légumes dans le blender avec **une partie seulement** du bouillon, en gardant le reste pour ajuster la texture.
 15. Mixer à vitesse moyenne, puis à pleine vitesse quelques minutes, en tenant bien le couvercle à cause de la pression. Ajouter du bouillon petit à petit jusqu'à obtenir une soupe lisse et onctueuse. Goûter.
 16. Servir bien chaud avec les croûtons, des morceaux de chips de jambon et un filet d'huile d'olive ou d'huile pimentée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 456 kcal | 23 % |
+| Protéines | 13 g | 26 % |
+| Glucides | 53 g | 21 % |
+| dont sucres | 1,8 g | 2 % |
+| Lipides | 19 g | 27 % |
+| dont acides gras saturés | 7,2 g | 36 % |
+| Fibres | 8,4 g | 34 % |
+| Sel | 4,2 g | 69 % |

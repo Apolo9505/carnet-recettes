@@ -58,3 +58,18 @@ Le classique français. Des oignons doux sont confits lentement pendant 45 minut
 
 12. Verser la soupe dans des bols allant au four. Ajouter les croûtons et couvrir généreusement de comté, puis poivrer.
 13. Passer quelques minutes sous le gril du four, en surveillant, jusqu'à ce que le fromage soit gratiné. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 552 kcal | 28 % |
+| Protéines | 22 g | 43 % |
+| Glucides | 45 g | 17 % |
+| dont sucres | 2,3 g | 3 % |
+| Lipides | 30 g | 42 % |
+| dont acides gras saturés | 18 g | 88 % |
+| Fibres | 7,7 g | 31 % |
+| Sel | 3,5 g | 59 % |

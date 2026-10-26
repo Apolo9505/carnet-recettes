@@ -56,3 +56,18 @@ Un grand carpaccio de saumon à partager, en tranches plutôt épaisses pour gar
 5. Badigeonner toute la surface d'huile d'olive, puis ajouter la fleur de sel et le poivre.
 6. Déposer de petits points de crème au raifort, puis l'échalote, les radis, les kumquats (sur la crème, pour le volume), les câpres et l'aneth.
 7. Finir avec un peu de piment d'Espelette et un filet de jus de citron.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 310 kcal | 15 % |
+| Protéines | 19 g | 39 % |
+| Glucides | 4,3 g | 2 % |
+| dont sucres | 1,9 g | 2 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 9,3 g | 47 % |
+| Fibres | 2,5 g | 10 % |
+| Sel | 0,8 g | 13 % |

@@ -64,3 +64,18 @@ Une salade fraîche et relevée. La bavette est saisie en tataki, c'est-à-dire 
 10. Mélanger la roquette, les carottes et l'échalote, puis les répartir dans les assiettes. Mettre la viande à part, sinon elle rend du sang dans le saladier.
 11. Disposer les tranches de viande sur la salade, en créant du volume.
 12. Arroser de sauce et ajouter les herbes fraîches et les cacahuètes concassées.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 463 kcal | 23 % |
+| Protéines | 40 g | 80 % |
+| Glucides | 18 g | 7 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 24 g | 35 % |
+| dont acides gras saturés | 5,5 g | 27 % |
+| Fibres | 6,6 g | 26 % |
+| Sel | 9,4 g | 157 % |

@@ -64,3 +64,18 @@ Un grand plat à partager : de fines tranches de truite crue disposées en volum
 7. Disposer les tranches de truite sur un grand plat en créant du volume (on peut le faire à l'avance et garder au frais).
 8. Au dernier moment, ajouter les suprêmes, puis arroser de vinaigrette (chaque morceau doit en avoir, sans noyer le plat ; servir le reste à table).
 9. Finir avec la fleur de sel et les herbes fraîches.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 204 kcal | 10 % |
+| Protéines | 13 g | 27 % |
+| Glucides | 6,4 g | 2 % |
+| dont sucres | 5,7 g | 6 % |
+| Lipides | 13 g | 19 % |
+| dont acides gras saturés | 2,2 g | 11 % |
+| Fibres | 1,2 g | 5 % |
+| Sel | 0,4 g | 7 % |

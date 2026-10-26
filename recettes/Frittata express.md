@@ -37,3 +37,18 @@ L'omelette italienne garnie de légumes, commencée à la poêle et finie au fou
 3. Essuyer la poêle, la faire chauffer avec un filet d'huile d'olive et y verser le mélange. Répartir les légumes au début, puis ne plus y toucher.
 4. Cuire 2 à 3 minutes sur le feu, puis finir **4 à 5 minutes au four à 180 °C**. (Plus épaisse, elle demandera un peu plus de cuisson.)
 5. La glisser sur une planche, côté baveux vers le haut : elle doit rester souple.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 229 kcal | 11 % |
+| Protéines | 15 g | 31 % |
+| Glucides | 5,6 g | 2 % |
+| dont sucres | 1,8 g | 2 % |
+| Lipides | 15 g | 22 % |
+| dont acides gras saturés | 3,5 g | 17 % |
+| Fibres | 3,2 g | 13 % |
+| Sel | 1,4 g | 24 % |

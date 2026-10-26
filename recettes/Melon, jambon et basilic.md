@@ -36,3 +36,18 @@ Le melon-jambon transformé en vraie salade en quelques minutes : de fines tranc
 2. Disposer les tranches dans un grand plat.
 3. Assaisonner d'huile d'olive, de fleur de sel et de piment d'Espelette.
 4. Ajouter le jambon cru en chiffonnade, en donnant du volume, puis des feuilles de basilic.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 195 kcal | 10 % |
+| Protéines | 7,9 g | 16 % |
+| Glucides | 26 g | 10 % |
+| dont sucres | 19 g | 21 % |
+| Lipides | 7,2 g | 10 % |
+| dont acides gras saturés | 1,7 g | 9 % |
+| Fibres | 2,3 g | 9 % |
+| Sel | 1,6 g | 27 % |

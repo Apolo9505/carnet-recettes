@@ -86,3 +86,18 @@ La version de la moussaka du chef. Le plat se monte en couches : une base de pom
 21. Napper de sauce Mornay, lisser et parsemer d'un peu d'Ossau-Iraty râpé.
 22. Enfourner environ 45 minutes à 180 °C, en surveillant.
 23. **Laisser reposer 5 à 10 minutes** avant de servir, pour que les parts se tiennent.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 789 kcal | 39 % |
+| Protéines | 35 g | 71 % |
+| Glucides | 50 g | 19 % |
+| dont sucres | 14 g | 15 % |
+| Lipides | 47 g | 68 % |
+| dont acides gras saturés | 22 g | 112 % |
+| Fibres | 7,8 g | 31 % |
+| Sel | 2,4 g | 40 % |

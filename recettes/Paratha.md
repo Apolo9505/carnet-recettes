@@ -26,3 +26,18 @@ source: Perso
 4. Plier en demi-cercle, badigeonner encore, plier en triangle et étaler délicatement.
 5. Cuire 1 à 2 min par face dans une poêle chaude, jusqu'à l'apparition de taches brunes.
 6. Empiler dans un torchon pour garder chaleur et souplesse.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 paratha. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 207 kcal | 10 % |
+| Protéines | 5,0 g | 10 % |
+| Glucides | 28 g | 11 % |
+| dont sucres | 0,8 g | 1 % |
+| Lipides | 7,3 g | 10 % |
+| dont acides gras saturés | 4,2 g | 21 % |
+| Fibres | 4,4 g | 18 % |
+| Sel | 0,8 g | 14 % |

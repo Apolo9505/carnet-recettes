@@ -63,3 +63,18 @@ Un plat de nouilles du Sichuan. La sauce, onctueuse et pimentée, est à base de
 11. Cuire les nouilles selon les indications du paquet.
 12. Dans chaque bol, mettre une partie de la sauce (la moitié pour 2 personnes) et une bonne quantité d'eau de cuisson des nouilles. Ajouter les nouilles et mélanger vigoureusement pour lier la sauce. Goûter.
 13. Ajouter la viande chaude, beaucoup de vert de ciboule et les cacahuètes.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 777 kcal | 39 % |
+| Protéines | 31 g | 62 % |
+| Glucides | 62 g | 24 % |
+| dont sucres | 4,0 g | 4 % |
+| Lipides | 43 g | 62 % |
+| dont acides gras saturés | 11 g | 55 % |
+| Fibres | 5,6 g | 23 % |
+| Sel | 4,0 g | 66 % |

@@ -44,3 +44,18 @@ Des pâtes d'hiver très réconfortantes. On fait caraméliser longuement de la 
 8. Ajouter la crème et beaucoup de poivre dans la poêle, et laisser compoter doucement. Ajouter le piment d'Espelette, une belle louche d'eau de cuisson et le parmesan. Allonger avec un peu d'eau de cuisson pour que la sauce soit très onctueuse.
 9. Ajouter les pâtes al dente, sorties à l'écumoire, et mélanger vigoureusement.
 10. Servir aussitôt dans des assiettes creuses, avec un peu de truffe râpée si on en a.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 694 kcal | 35 % |
+| Protéines | 27 g | 54 % |
+| Glucides | 71 g | 27 % |
+| dont sucres | 4,9 g | 5 % |
+| Lipides | 32 g | 45 % |
+| dont acides gras saturés | 13 g | 67 % |
+| Fibres | 4,6 g | 18 % |
+| Sel | 2,1 g | 35 % |

@@ -46,3 +46,18 @@ Plus qu'une tomate-burrata : un carpaccio de tomates de couleurs différentes et
 4. Mixer grossièrement le mélange torréfié (au moulin à épices ou au mortier), sans le réduire en poudre. Ajouter le sel et le piment.
 5. Déchirer la burrata sur les tomates et les pêches, et l'arroser d'une goutte d'huile d'olive.
 6. Couvrir généreusement de dukkah et finir avec du basilic.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 407 kcal | 20 % |
+| Protéines | 15 g | 29 % |
+| Glucides | 15 g | 6 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 12 g | 58 % |
+| Fibres | 5,5 g | 22 % |
+| Sel | 0,8 g | 14 % |

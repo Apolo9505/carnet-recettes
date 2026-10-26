@@ -42,3 +42,18 @@ Une entrée de fête crue et rapide : des noix de Saint-Jacques tranchées finem
 5. Disposer les tranches sur les assiettes froides.
 6. Ajouter l'huile d'aneth à la marinade, mélanger légèrement (l'huile doit perler), et en arroser les Saint-Jacques.
 7. Ajouter les suprêmes de citron vert, les œufs de saumon, le mélange zeste-sésame et l'aneth frais. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 155 kcal | 8 % |
+| Protéines | 20 g | 40 % |
+| Glucides | 1,8 g | 1 % |
+| dont sucres | 0,2 g | 0 % |
+| Lipides | 7,0 g | 10 % |
+| dont acides gras saturés | 1,1 g | 5 % |
+| Fibres | 0,7 g | 3 % |
+| Sel | 1,0 g | 17 % |

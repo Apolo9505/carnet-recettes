@@ -66,3 +66,18 @@ Une soupe japonaise prête en moins de 20 minutes. Des nouilles udon baignent da
 11. Disposer les shiitakés et les girolles d'un côté, et les enokis contre la paroi du bol. Ajouter l'œuf coupé en deux au centre, la cébette égouttée, un filet d'huile pimentée et le sésame.
 
 > **Astuce :** les étapes peuvent se faire en même temps (bouillon, œufs et udon) pour aller plus vite.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 423 kcal | 21 % |
+| Protéines | 18 g | 36 % |
+| Glucides | 41 g | 16 % |
+| dont sucres | 5,0 g | 6 % |
+| Lipides | 19 g | 28 % |
+| dont acides gras saturés | 3,4 g | 17 % |
+| Fibres | 4,3 g | 17 % |
+| Sel | 6,8 g | 114 % |

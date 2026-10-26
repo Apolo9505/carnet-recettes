@@ -87,3 +87,18 @@ Des pâtes fraîches farcies, très gourmandes. La farce mélange de la butternu
 
 19. Sortir les pâtes à l'écumoire et les mettre dans le beurre à la sauge. Baisser le feu, ajouter beaucoup de parmesan et une louche d'eau de cuisson, puis mélanger quelques secondes pour lier la sauce.
 20. Servir aussitôt dans des assiettes creuses, nappées de sauce, avec du poivre du moulin, du parmesan et quelques noix concassées.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 568 kcal | 28 % |
+| Protéines | 19 g | 38 % |
+| Glucides | 59 g | 23 % |
+| dont sucres | 5,0 g | 6 % |
+| Lipides | 27 g | 38 % |
+| dont acides gras saturés | 11 g | 54 % |
+| Fibres | 6,0 g | 24 % |
+| Sel | 1,4 g | 23 % |

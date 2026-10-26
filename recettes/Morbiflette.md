@@ -42,3 +42,18 @@ La version franc-comtoise de la tartiflette. Le morbier remplace le reblochon, e
 8. Préchauffer le four à 180 °C. Dans un plat, alterner une couche de pommes de terre, la moitié de la sauce, une deuxième couche de pommes de terre et le reste de la sauce. Poivrer.
 9. Couvrir entièrement de morbier et ajouter une petite lampée de vin.
 10. Enfourner environ 30 minutes, jusqu'à ce que le fromage forme une belle croûte. Servir avec une salade bien vinaigrée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 880 kcal | 44 % |
+| Protéines | 33 g | 66 % |
+| Glucides | 40 g | 15 % |
+| dont sucres | 3,3 g | 4 % |
+| Lipides | 63 g | 90 % |
+| dont acides gras saturés | 22 g | 111 % |
+| Fibres | 6,3 g | 25 % |
+| Sel | 3,6 g | 60 % |

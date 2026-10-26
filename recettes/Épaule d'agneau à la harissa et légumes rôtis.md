@@ -88,3 +88,18 @@ Une épaule d'agneau marinée à la harissa fumée et aux épices (coriandre, fe
 **Le service**
 
 11. Dans un grand plat, mettre les légumes rôtis de chaque côté et l'agneau au centre, avec un peu de jus et de légumes de cuisson. Servir la sauce au yaourt froide à côté.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 712 kcal | 36 % |
+| Protéines | 45 g | 90 % |
+| Glucides | 47 g | 18 % |
+| dont sucres | 16 g | 18 % |
+| Lipides | 36 g | 51 % |
+| dont acides gras saturés | 12 g | 59 % |
+| Fibres | 8,5 g | 34 % |
+| Sel | 2,6 g | 44 % |

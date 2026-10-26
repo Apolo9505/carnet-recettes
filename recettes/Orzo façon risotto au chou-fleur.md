@@ -42,3 +42,18 @@ Des orzo (ou risoni, ou « langues d'oiseau »), de petites pâtes en forme de g
 7. Après environ 8 minutes, ajouter les épinards, puis continuer avec le bouillon les dernières minutes.
 8. Hors du feu, ajouter le fromage, beaucoup de poivre et du piment d'Espelette. Garder une texture encore un peu coulante (ajouter du bouillon si besoin).
 9. Servir avec un filet d'huile d'olive, de la fleur de sel, du poivre et encore du fromage.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 358 kcal | 18 % |
+| Protéines | 14 g | 29 % |
+| Glucides | 48 g | 19 % |
+| dont sucres | 4,2 g | 5 % |
+| Lipides | 9,8 g | 14 % |
+| dont acides gras saturés | 3,1 g | 15 % |
+| Fibres | 6,0 g | 24 % |
+| Sel | 2,6 g | 44 % |

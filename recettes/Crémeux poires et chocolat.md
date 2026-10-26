@@ -77,3 +77,18 @@ Un dessert gourmand mais léger, peu sucré : une ganache au chocolat noir parfu
 11. Pocher la ganache au centre de l'assiette en forme de nid.
 12. Y déposer les dés de poire bien égouttés (pas trop de sirop), puis pocher un dôme de chantilly par-dessus, en tenant la poche près du dessert.
 13. Finir avec une tuile ou des éclats de tuile.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 650 kcal | 33 % |
+| Protéines | 7,0 g | 14 % |
+| Glucides | 40 g | 16 % |
+| dont sucres | 37 g | 42 % |
+| Lipides | 50 g | 71 % |
+| dont acides gras saturés | 33 g | 164 % |
+| Fibres | 7,0 g | 28 % |
+| Sel | 0,1 g | 1 % |

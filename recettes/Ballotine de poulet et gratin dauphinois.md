@@ -92,3 +92,18 @@ Des cuisses de poulet désossées aplaties en rectangle sur leur peau, garnies d
 **Le service**
 
 18. Couper les ballotines en tranches de 2 à 3 cm, les dresser sur un plat et les napper de jus chaud. Servir avec le gratin.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 588 kcal | 29 % |
+| Protéines | 27 g | 54 % |
+| Glucides | 28 g | 11 % |
+| dont sucres | 3,7 g | 4 % |
+| Lipides | 39 g | 56 % |
+| dont acides gras saturés | 20 g | 102 % |
+| Fibres | 4,9 g | 20 % |
+| Sel | 1,8 g | 29 % |

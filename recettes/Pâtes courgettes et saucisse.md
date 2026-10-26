@@ -49,3 +49,18 @@ Des pâtes d'été sans crème : des petits dés de courgettes saisis al dente, 
 9. 1 à 2 minutes avant la fin de la cuisson, ajouter une autre louche d'eau, puis les pâtes à l'écumoire.
 10. Ajouter le parmesan, beaucoup de poivre, le zeste de citron, puis les courgettes. Mélanger vigoureusement pour créer la sauce, en rajoutant de l'eau de cuisson si besoin.
 11. Servir bien chaud, avec encore un peu de zeste de citron et de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 706 kcal | 35 % |
+| Protéines | 27 g | 54 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 4,5 g | 5 % |
+| Lipides | 34 g | 49 % |
+| dont acides gras saturés | 13 g | 64 % |
+| Fibres | 4,1 g | 16 % |
+| Sel | 2,5 g | 41 % |

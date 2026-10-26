@@ -81,3 +81,18 @@ Une vraie pâte napolitaine, légère et pleine d'alvéoles. On met très peu de
 19. Ajouter le basilic frais sur la pizza tomate, ou un peu de parmesan sur la blanche, et manger immédiatement.
 
 > **Astuce :** une version de la pâte avec une fermentation plus courte est indiquée dans la description de la vidéo, mais le chef recommande la version longue.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 pizza tomate-mozzarella (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 845 kcal | 42 % |
+| Protéines | 31 g | 62 % |
+| Glucides | 114 g | 44 % |
+| dont sucres | 4,5 g | 5 % |
+| Lipides | 27 g | 39 % |
+| dont acides gras saturés | 13 g | 66 % |
+| Fibres | 6,0 g | 24 % |
+| Sel | 5,5 g | 92 % |

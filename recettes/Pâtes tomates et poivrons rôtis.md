@@ -45,3 +45,18 @@ La version estivale des pâtes à la crème de courge. Tomates, poivrons et oign
 6. Verser la sauce dans le gras de la pancetta (avec le reste des cubes).
 7. Une minute avant la fin de la cuisson, ajouter les pâtes, une louche d'eau de cuisson et le parmesan, et mélanger une bonne minute.
 8. Servir avec encore du parmesan et la pancetta grillée réservée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 654 kcal | 33 % |
+| Protéines | 23 g | 46 % |
+| Glucides | 68 g | 26 % |
+| dont sucres | 9,5 g | 11 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 13 g | 65 % |
+| Fibres | 7,2 g | 29 % |
+| Sel | 2,2 g | 37 % |

@@ -41,3 +41,18 @@ Un accompagnement trop méconnu, qui ressemble à un gratin dauphinois plus lég
 5. Couvrir d'un disque de papier sulfurisé percé au centre, puis d'une assiette de la taille du plat.
 6. Cuire 1 heure à 130 °C, puis 20 à 25 minutes à 160 °C sans l'assiette (et un peu de gril si besoin).
 7. Servir en parts au couteau, ou à la cuillère.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 362 kcal | 18 % |
+| Protéines | 7,7 g | 15 % |
+| Glucides | 52 g | 20 % |
+| dont sucres | 2,5 g | 3 % |
+| Lipides | 11 g | 16 % |
+| dont acides gras saturés | 5,3 g | 26 % |
+| Fibres | 8,8 g | 35 % |
+| Sel | 1,8 g | 29 % |

@@ -55,3 +55,18 @@ Une vidéo « 2 en 1 » : la cuisson d'une belle pièce de bœuf (un T-bone dans
 
 9. Retirer l'aluminium et les herbes, détacher la viande le long de l'os et la trancher dans le sens inverse des fibres.
 10. Napper de sauce, ou la servir à part.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1110 kcal | 56 % |
+| Protéines | 61 g | 122 % |
+| Glucides | 5,3 g | 2 % |
+| dont sucres | 2,3 g | 3 % |
+| Lipides | 92 g | 131 % |
+| dont acides gras saturés | 49 g | 246 % |
+| Fibres | 2,0 g | 8 % |
+| Sel | 2,8 g | 47 % |

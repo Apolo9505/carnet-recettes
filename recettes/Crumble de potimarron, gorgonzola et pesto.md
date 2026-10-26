@@ -56,3 +56,18 @@ Un crumble salé pour l'automne. Le potimarron, rôti avec sa peau, devient fond
 9. Couvrir généreusement de pâte à crumble.
 10. Enfourner 25 à 30 minutes à 180 °C, jusqu'à ce que le dessus soit bien croustillant. Ajuster selon le four et le plat.
 11. Servir chaud.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 895 kcal | 45 % |
+| Protéines | 15 g | 30 % |
+| Glucides | 53 g | 21 % |
+| dont sucres | 2,3 g | 3 % |
+| Lipides | 67 g | 95 % |
+| dont acides gras saturés | 28 g | 141 % |
+| Fibres | 9,0 g | 36 % |
+| Sel | 1,9 g | 32 % |

@@ -63,3 +63,18 @@ Une entrée de fête qui se prépare la veille. Un filet de saumon est mariné 1
 10. Toaster des tranches de pain.
 11. Trancher le saumon finement, en biais, avec un long couteau bien aiguisé, et le disposer en mosaïque.
 12. Servir sur du pain chaud tartiné de beurre fouetté, avec un peu de cébette frisée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 9). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 516 kcal | 26 % |
+| Protéines | 26 g | 53 % |
+| Glucides | 28 g | 11 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 33 g | 47 % |
+| dont acides gras saturés | 15 g | 74 % |
+| Fibres | 1,5 g | 6 % |
+| Sel | 4,1 g | 68 % |

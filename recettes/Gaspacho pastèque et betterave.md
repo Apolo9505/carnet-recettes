@@ -38,3 +38,18 @@ Une soupe glacée sans cuisson, conseillée par un abonné. La pastèque apporte
 2. Mixer longuement jusqu'à une texture très onctueuse. Goûter et rectifier l'assaisonnement.
 3. Pour la servir tout de suite, ajouter quelques glaçons et mixer encore.
 4. Servir avec de la feta émiettée, quelques feuilles de menthe et un filet d'huile d'olive.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 267 kcal | 13 % |
+| Protéines | 7,1 g | 14 % |
+| Glucides | 31 g | 12 % |
+| dont sucres | 29 g | 32 % |
+| Lipides | 12 g | 17 % |
+| dont acides gras saturés | 5,1 g | 25 % |
+| Fibres | 3,5 g | 14 % |
+| Sel | 1,5 g | 25 % |

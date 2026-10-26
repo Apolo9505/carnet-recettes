@@ -51,3 +51,18 @@ Des pâtes au poulet et à la crème, version méditerranéenne. Les cubes de cu
 8. Ajouter la crème dans la sauteuse, puis le zeste et le jus du citron et une bonne quantité de parmesan. Ajouter le basilic.
 9. Sortir les pâtes al dente à l'écumoire et les mettre directement dans la sauce avec un peu d'eau de cuisson. Faire sauter pour rendre la sauce onctueuse et généreuse.
 10. Ajouter encore un peu de parmesan et servir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 897 kcal | 45 % |
+| Protéines | 55 g | 109 % |
+| Glucides | 96 g | 37 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 12 g | 61 % |
+| Fibres | 8,3 g | 33 % |
+| Sel | 2,4 g | 40 % |

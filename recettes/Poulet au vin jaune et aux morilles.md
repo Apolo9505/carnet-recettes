@@ -68,3 +68,18 @@ Le plat de fin d'année rituel de Hugo. Un poulet de Bresse est découpé, farin
 
 13. Faire dorer les spätzle dans du beurre moussant avec du poivre, en remuant, jusqu'à ce qu'ils soient croustillants dehors et moelleux dedans.
 14. Couper les filets en deux. Servir les spätzle dans des assiettes creuses avec le poulet et beaucoup de sauce aux morilles.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1309 kcal | 65 % |
+| Protéines | 70 g | 140 % |
+| Glucides | 74 g | 29 % |
+| dont sucres | 5,6 g | 6 % |
+| Lipides | 78 g | 111 % |
+| dont acides gras saturés | 38 g | 188 % |
+| Fibres | 6,2 g | 25 % |
+| Sel | 2,7 g | 45 % |

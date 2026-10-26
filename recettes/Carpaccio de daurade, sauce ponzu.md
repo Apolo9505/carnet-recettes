@@ -60,3 +60,18 @@ Plus une technique qu'une recette figée. On lève les filets d'une daurade enti
 
 8. Disposer les tranches dans un grand plat, napper de ponzu (sans en faire une piscine), ajouter les suprêmes d'agrumes.
 9. Ajouter les légumes en créant du volume, un trait d'huile d'olive, la fleur de sel, le poivre, le piment d'Espelette et les herbes.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 200 kcal | 10 % |
+| Protéines | 20 g | 40 % |
+| Glucides | 8,2 g | 3 % |
+| dont sucres | 7,3 g | 8 % |
+| Lipides | 8,4 g | 12 % |
+| dont acides gras saturés | 1,6 g | 8 % |
+| Fibres | 1,4 g | 5 % |
+| Sel | 3,0 g | 49 % |

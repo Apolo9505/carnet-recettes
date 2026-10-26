@@ -65,3 +65,18 @@ Une épaule d'agneau entière, colorée puis confite 3 h 30 à 4 h à 120 °C da
 12. Filtrer le jus de cuisson dans une sauteuse en pressant bien la garniture, et le faire réduire à feu vif.
 13. Délayer la fécule dans une louche de jus, la verser dans la sauteuse et continuer à réduire en remuant, 20 à 30 minutes au total, jusqu'à ce que la sauce soit sirupeuse.
 14. Dresser : un nid de purée, des morceaux d'agneau effilochés à la cuillère (avec un peu de peau croustillante), beaucoup de sauce et de la ciboulette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 818 kcal | 41 % |
+| Protéines | 53 g | 105 % |
+| Glucides | 55 g | 21 % |
+| dont sucres | 10 g | 11 % |
+| Lipides | 40 g | 57 % |
+| dont acides gras saturés | 17 g | 86 % |
+| Fibres | 6,5 g | 26 % |
+| Sel | 3,3 g | 54 % |

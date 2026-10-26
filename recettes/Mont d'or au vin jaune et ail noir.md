@@ -37,3 +37,18 @@ Un Mont d'or au four à partager, garni de gousses d'ail noir (un ail cuit très
 3. Mettre le Mont d'or dans un plat avec les pommes de terre grenaille, arrosées d'huile d'olive et salées.
 4. Enfourner dans le four préchauffé à 200 °C, baisser aussitôt à **180 °C** et cuire **20 à 25 minutes**, jusqu'à ce que la croûte soit dorée et le fromage fondu.
 5. Mélanger pour répartir l'ail et servir avec les pommes de terre à tremper.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 276 kcal | 14 % |
+| Protéines | 17 g | 34 % |
+| Glucides | 0,6 g | 0 % |
+| dont sucres | 0,1 g | 0 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 15 g | 73 % |
+| Fibres | 0,1 g | 0 % |
+| Sel | 1,2 g | 21 % |

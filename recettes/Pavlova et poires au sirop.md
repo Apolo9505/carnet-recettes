@@ -69,3 +69,18 @@ Des pavlovas individuelles pour finir le repas sur une note fraîche : une merin
 
 8. Poser une meringue dans chaque assiette, y mettre des dés de poire égouttés et des noisettes concassées.
 9. Ajouter une quenelle de glace (faite avec une cuillère chaude), puis coiffer de crème montée. Servir aussitôt.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 361 kcal | 18 % |
+| Protéines | 3,6 g | 7 % |
+| Glucides | 62 g | 24 % |
+| dont sucres | 61 g | 68 % |
+| Lipides | 10 g | 15 % |
+| dont acides gras saturés | 7,1 g | 36 % |
+| Fibres | 2,4 g | 9 % |
+| Sel | 0,1 g | 2 % |

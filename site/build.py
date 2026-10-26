@@ -152,6 +152,11 @@ ICON_PLAY = '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M8
 ICON_SEARCH = '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16 16 4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>'
 
 
+def kcal(r):
+    m = re.search(r"^\| Énergie \| (\d+) kcal", r["body"], re.M)
+    return m.group(1) if m else ""
+
+
 def card(r, prefix):
     search = norm(" ".join([r["titre"], CAT_LABEL.get(r["categorie"], ""), r["body"]]))
     search = re.sub(r"https?://\S+", "", search)
@@ -164,7 +169,7 @@ def card(r, prefix):
   <div class="card-body">
     <span class="card-cat">{esc(CAT_LABEL.get(r['categorie'], r['categorie']))}</span>
     <h3>{esc(r['titre'])}</h3>
-    <div class="card-meta"><span class="tag">{ICON_CLOCK}{esc(temps_court(r['temps']))}</span>{veg}</div>
+    <div class="card-meta"><span class="tag">{ICON_CLOCK}{esc(temps_court(r['temps']))}</span>{f'<span class="tag">{kcal(r)} kcal</span>' if kcal(r) else ''}{veg}</div>
   </div>
 </a>"""
 
@@ -281,7 +286,7 @@ def category_page(key, recipes):
 def recipe_page(r, recipes):
     prefix = "../../"
     intro, secs = split_sections(r["body"])
-    video_html, pres, ingr, steps, other = "", "", "", "", []
+    video_html, pres, ingr, steps, nutri, other = "", "", "", "", "", []
     for title, txt in secs:
         t = title.lower()
         if "vidéo" in t:
@@ -296,6 +301,8 @@ def recipe_page(r, recipes):
             pres = md(txt)
         elif "ingrédient" in t:
             ingr = md(txt)
+        elif "nutritionnelles" in t:
+            nutri = md(txt)
         elif "étape" in t:
             steps = md(txt)
         else:
@@ -308,6 +315,8 @@ def recipe_page(r, recipes):
     if repos(r["temps"]):
         chips.append(f'<span class="tag">+ repos {esc(repos(r["temps"]))}</span>')
     chips.append(f'<span class="tag">{esc(r["saison"])}</span>')
+    if kcal(r):
+        chips.append(f'<span class="tag">≈ {kcal(r)} kcal / portion</span>')
     if r.get("vegetarien"):
         chips.append(f'<span class="tag veg">{ICON_LEAF}Végétarien</span>')
     if r.get("source") == "Perso":
@@ -325,7 +334,10 @@ def recipe_page(r, recipes):
   {f'<figure class="r-img"><img src="{esc(big)}" alt="{esc(r["titre"])}"></figure>' if big else ''}
   <div class="r-intro">{intro and md(intro)}{pres}{video_html}</div>
   <div class="r-cols">
+    <div class="r-side">
     {f'<aside class="r-ingr"><h2>Ingrédients</h2><p class="hint">Touchez un ingrédient pour le cocher.</p>{ingr}</aside>' if ingr else ''}
+    {f'<aside class="r-nutri"><h2>Valeurs nutritionnelles</h2>{nutri}</aside>' if nutri else ''}
+    </div>
     <section class="r-steps">{'<h2>Étapes</h2>' if steps else ''}{steps}{''.join(other)}</section>
   </div>
 </article>

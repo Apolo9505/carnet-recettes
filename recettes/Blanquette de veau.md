@@ -72,3 +72,18 @@ Le grand classique familial. Le veau (collier et poitrine, plus moelleux grâce 
 **Le service**
 
 14. Servir bien chaud avec du riz blanc, une bonne louche de sauce, du poivre du moulin et de la ciboulette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 966 kcal | 48 % |
+| Protéines | 61 g | 122 % |
+| Glucides | 80 g | 31 % |
+| dont sucres | 8,9 g | 10 % |
+| Lipides | 43 g | 61 % |
+| dont acides gras saturés | 22 g | 110 % |
+| Fibres | 6,6 g | 26 % |
+| Sel | 3,8 g | 63 % |

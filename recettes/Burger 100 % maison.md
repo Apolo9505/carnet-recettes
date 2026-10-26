@@ -72,3 +72,18 @@ Le burger classique, fait de A à Z : des buns briochés maison (une recette plu
 11. Poêle à feu maximum avec un peu d'huile : saler la boule de viande, la poser, ajouter une poignée d'oignons dessus et l'écraser à la spatule (à travers un papier cuisson), un peu plus large que le bun.
 12. Laisser bien griller, puis gratter les sucs avec la spatule et retourner. Poser le cheddar, couvrir pour le faire fondre.
 13. Monter : sauce sur le bun, salade, tomate assaisonnée, steak, cornichons, sauce sous le chapeau. Écraser légèrement et servir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 782 kcal | 39 % |
+| Protéines | 41 g | 83 % |
+| Glucides | 54 g | 21 % |
+| dont sucres | 9,8 g | 11 % |
+| Lipides | 44 g | 62 % |
+| dont acides gras saturés | 17 g | 86 % |
+| Fibres | 3,3 g | 13 % |
+| Sel | 3,2 g | 53 % |

@@ -90,3 +90,18 @@ Un poulet en croûte, inspiré d'un restaurant du Somerset : un blanc de poulet 
 
 16. Couper le pithiviers au couteau-scie pour la pâte, puis au couteau bien aiguisé pour la viande, en tranches épaisses.
 17. Dans une assiette chaude : une tranche de pithiviers, la purée, une bonne quantité de jus réduit, quelques gouttes d'huile verte, des herbes fraîches (oseille, cerfeuil) et un peu de fleur de sel.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 898 kcal | 45 % |
+| Protéines | 42 g | 84 % |
+| Glucides | 61 g | 23 % |
+| dont sucres | 13 g | 14 % |
+| Lipides | 52 g | 74 % |
+| dont acides gras saturés | 30 g | 152 % |
+| Fibres | 8,2 g | 33 % |
+| Sel | 4,0 g | 67 % |

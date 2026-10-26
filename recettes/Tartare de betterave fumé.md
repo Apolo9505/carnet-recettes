@@ -57,3 +57,18 @@ Un tartare végétarien assaisonné comme un tartare de bœuf classique : de la 
 **Le dressage**
 
 7. Dresser à l'emporte-pièce sur une assiette, en tassant légèrement. Creuser un petit puits à la cuillère, y poser le jaune d'œuf et finir avec un peu de fleur de sel.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 140 kcal | 7 % |
+| Protéines | 5,5 g | 11 % |
+| Glucides | 12 g | 5 % |
+| dont sucres | 11 g | 12 % |
+| Lipides | 6,5 g | 9 % |
+| dont acides gras saturés | 1,9 g | 9 % |
+| Fibres | 4,4 g | 18 % |
+| Sel | 1,3 g | 22 % |

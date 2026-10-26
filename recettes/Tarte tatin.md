@@ -70,3 +70,18 @@ La tarte aux pommes renversée. Les pommes, bien serrées à la verticale dans u
 15. Remettre au four 15 à 20 minutes, jusqu'à ce que la pâte soit bien cuite.
 16. **Attendre 2 à 3 minutes**, puis retourner la tarte sur un plat.
 17. Servir tiède avec de la crème crue.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 515 kcal | 26 % |
+| Protéines | 3,9 g | 8 % |
+| Glucides | 71 g | 27 % |
+| dont sucres | 44 g | 49 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 15 g | 76 % |
+| Fibres | 3,6 g | 14 % |
+| Sel | 0,2 g | 3 % |

@@ -84,3 +84,18 @@ Un hachis parmentier maison, très éloigné de celui de la cantine. On hache so
 
 17. Assaisonner le mesclun avec l'huile d'olive, le vinaigre, le sel, le poivre et le piment d'Espelette, puis ajouter les pickles.
 18. Servir une belle part de hachis avec la salade.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 868 kcal | 43 % |
+| Protéines | 43 g | 85 % |
+| Glucides | 44 g | 17 % |
+| dont sucres | 7,6 g | 8 % |
+| Lipides | 55 g | 78 % |
+| dont acides gras saturés | 28 g | 142 % |
+| Fibres | 9,0 g | 36 % |
+| Sel | 3,1 g | 51 % |

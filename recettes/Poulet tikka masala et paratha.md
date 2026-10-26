@@ -91,3 +91,18 @@ Un plat crémeux et épicé, cousin du butter chicken, qui serait né à Glasgow
 **Le service**
 
 22. Servir avec le riz, des parathas et de la coriandre fraîche.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1215 kcal | 61 % |
+| Protéines | 49 g | 98 % |
+| Glucides | 140 g | 54 % |
+| dont sucres | 6,6 g | 7 % |
+| Lipides | 48 g | 69 % |
+| dont acides gras saturés | 24 g | 118 % |
+| Fibres | 9,1 g | 36 % |
+| Sel | 4,6 g | 76 % |

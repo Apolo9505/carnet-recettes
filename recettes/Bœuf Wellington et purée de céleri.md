@@ -88,3 +88,18 @@ Le grand classique en croûte : un filet de bœuf saisi et badigeonné de moutar
 **Le service**
 
 15. Couper au couteau-scie pour la pâte, puis au couteau de cuisine pour la viande. Servir chaque tranche à cheval sur une cuillerée de purée de céleri chaude, avec un filet d'huile d'olive et de la ciboulette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 915 kcal | 46 % |
+| Protéines | 52 g | 104 % |
+| Glucides | 60 g | 23 % |
+| dont sucres | 13 g | 14 % |
+| Lipides | 50 g | 72 % |
+| dont acides gras saturés | 28 g | 140 % |
+| Fibres | 10 g | 41 % |
+| Sel | 4,5 g | 74 % |

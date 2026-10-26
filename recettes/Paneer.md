@@ -24,3 +24,18 @@ source: Perso
 5. Suspendre le baluchon 10 min pour égoutter.
 6. Presser sous un poids d'environ 1 kg pendant 30 min.
 7. Démouler, couper en cubes, ou conserver au frais dans de l'eau salée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 50 g de paneer. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 150 kcal | 8 % |
+| Protéines | 9,0 g | 18 % |
+| Glucides | 1,5 g | 1 % |
+| dont sucres | 1,0 g | 1 % |
+| Lipides | 12 g | 17 % |
+| dont acides gras saturés | 7,5 g | 38 % |
+| Fibres | 0,0 g | 0 % |
+| Sel | 0,1 g | 1 % |

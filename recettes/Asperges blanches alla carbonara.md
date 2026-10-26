@@ -41,3 +41,18 @@ Une carbonara où les asperges remplacent les pâtes. Des asperges blanches cuit
 6. Retirer un peu de gras de la poêle et **couper le feu** (ou déplacer la poêle). Ajouter les asperges et la pâte de fromage, et mélanger.
 7. Jouer avec la chaleur en posant la poêle quelques instants sur la casserole d'eau chaude, comme un bain-marie, jusqu'à obtenir une sauce lisse et nappante, sans grains.
 8. Servir aussitôt avec encore du pecorino et du poivre.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 933 kcal | 47 % |
+| Protéines | 28 g | 57 % |
+| Glucides | 5,5 g | 2 % |
+| dont sucres | 3,9 g | 4 % |
+| Lipides | 88 g | 125 % |
+| dont acides gras saturés | 34 g | 168 % |
+| Fibres | 5,4 g | 22 % |
+| Sel | 5,5 g | 91 % |

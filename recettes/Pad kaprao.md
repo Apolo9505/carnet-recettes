@@ -61,3 +61,18 @@ Un monument de la cuisine de rue thaïlandaise : du poulet haché au couteau, sa
 **Le service**
 
 10. Mouler le riz dans un bol tassé et le retourner sur l'assiette. Ajouter deux grosses cuillères de poulet, l'œuf au plat, un quartier de citron vert et un piment.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 625 kcal | 31 % |
+| Protéines | 38 g | 77 % |
+| Glucides | 64 g | 25 % |
+| dont sucres | 3,0 g | 3 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 4,2 g | 21 % |
+| Fibres | 1,9 g | 8 % |
+| Sel | 5,9 g | 99 % |

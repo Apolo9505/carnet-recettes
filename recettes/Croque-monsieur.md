@@ -57,3 +57,18 @@ Le grand classique des bistrots français, préparé dans les règles : du pain 
 14. Couper en deux et servir bien chaud.
 
 > **Astuce :** l'intérieur ne cuit pas complètement à la poêle, c'est normal : le passage au four termine la cuisson et fait fondre le fromage.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 860 kcal | 43 % |
+| Protéines | 55 g | 110 % |
+| Glucides | 58 g | 22 % |
+| dont sucres | 14 g | 15 % |
+| Lipides | 45 g | 64 % |
+| dont acides gras saturés | 25 g | 125 % |
+| Fibres | 1,8 g | 7 % |
+| Sel | 4,4 g | 74 % |

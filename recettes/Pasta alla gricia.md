@@ -38,3 +38,18 @@ Un classique romain avec seulement quatre ingrédients : des pâtes, du guancial
 7. **Couper le feu** et laisser la poêle tiédir une minute si elle est très chaude. Sinon, le pecorino fait une boule de fromage fondu qu'on ne peut plus rattraper.
 8. Ajouter le pecorino petit à petit en remuant vivement pour incorporer de l'air, jusqu'à ce que la sauce soit crémeuse. Ajouter un peu d'eau de cuisson si c'est trop sec.
 9. *Dressage :* enrouler les pâtes en nid avec une pince, puis ajouter la sauce, le guanciale et beaucoup de poivre du moulin.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 909 kcal | 45 % |
+| Protéines | 34 g | 67 % |
+| Glucides | 66 g | 25 % |
+| dont sucres | 2,1 g | 2 % |
+| Lipides | 56 g | 80 % |
+| dont acides gras saturés | 25 g | 126 % |
+| Fibres | 3,0 g | 12 % |
+| Sel | 5,2 g | 87 % |

@@ -43,3 +43,18 @@ Une tarte sans précuisson : un rectangle de pâte feuilletée, une crème de ri
 6. Ajouter un filet d'huile d'olive et un peu de sel.
 7. Enfourner environ 15 minutes, puis ajuster : la pâte doit être bien levée et dorée, les asperges al dente.
 8. Laisser 1 à 2 minutes sur une grille, puis couper en parts. On peut ajouter un peu de zeste et de parmesan au moment de servir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 461 kcal | 23 % |
+| Protéines | 16 g | 32 % |
+| Glucides | 34 g | 13 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 28 g | 40 % |
+| dont acides gras saturés | 18 g | 88 % |
+| Fibres | 3,6 g | 14 % |
+| Sel | 2,1 g | 35 % |

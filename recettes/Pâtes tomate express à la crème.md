@@ -44,3 +44,18 @@ Des pâtes de semaine sans viande, prêtes en 15 minutes : une sauce faite penda
 6. Ajouter le zeste et le jus du citron, beaucoup de parmesan et du poivre. Rectifier le sel.
 7. Transférer les pâtes al dente dans la sauce (1 minute avant le temps du paquet), ajuster avec de l'eau de cuisson, puis ajouter le basilic au dernier moment.
 8. Servir dans des assiettes creuses avec encore du parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 770 kcal | 38 % |
+| Protéines | 19 g | 39 % |
+| Glucides | 74 g | 28 % |
+| dont sucres | 5,1 g | 6 % |
+| Lipides | 42 g | 60 % |
+| dont acides gras saturés | 25 g | 126 % |
+| Fibres | 6,7 g | 27 % |
+| Sel | 1,3 g | 22 % |

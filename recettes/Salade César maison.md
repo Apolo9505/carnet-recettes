@@ -89,3 +89,18 @@ Une salade César entièrement maison. La sauce est mixée au robot avec des jau
 14. Retirer la base de la romaine, séparer les feuilles et couper les plus grandes en morceaux.
 15. Dans un saladier, mettre la salade, la plupart des croûtons et du poulet (en garder un peu pour le dessus), et la sauce, en quantité généreuse sans excès. Ajouter les pickles, du parmesan et des herbes. Mélanger délicatement.
 16. Dresser en volume. Ajouter des copeaux de parmesan (à l'économe), quelques pickles, de l'aneth, puis le reste des croûtons et du poulet.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 817 kcal | 41 % |
+| Protéines | 29 g | 58 % |
+| Glucides | 39 g | 15 % |
+| dont sucres | 2,9 g | 3 % |
+| Lipides | 59 g | 84 % |
+| dont acides gras saturés | 11 g | 56 % |
+| Fibres | 3,2 g | 13 % |
+| Sel | 2,8 g | 47 % |

@@ -78,3 +78,18 @@ Des tacos 100 % maison. Un mélange de joue et de jarret de bœuf est confit 5 �
 
 11. Sortir la viande, écraser la moelle dedans et l'effilocher à la fourchette, en l'humidifiant de jus de cuisson. Saler si besoin.
 12. Garnir les tortillas chaudes de viande (avec un peu de jus), de salsa verde, d'oignon blanc émincé et de coriandre. Servir avec un quartier de citron vert à presser juste avant de manger.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 3 tacos (recette pour 15). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 588 kcal | 29 % |
+| Protéines | 51 g | 101 % |
+| Glucides | 55 g | 21 % |
+| dont sucres | 5,2 g | 6 % |
+| Lipides | 18 g | 25 % |
+| dont acides gras saturés | 5,2 g | 26 % |
+| Fibres | 7,8 g | 31 % |
+| Sel | 3,0 g | 51 % |

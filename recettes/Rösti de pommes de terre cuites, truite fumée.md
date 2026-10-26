@@ -46,3 +46,18 @@ Un rösti suisse pour le petit-déjeuner (ou le brunch), fait avec des pommes de
 4. La retourner (en la glissant sur une assiette) et dorer l'autre face, en surveillant le feu. On peut la retourner plusieurs fois, ou finir la cuisson au four si la poêle le permet.
 5. Mélanger la crème avec le zeste de citron, l'aneth ciselé, le sel et le poivre.
 6. Servir le rösti avec la truite fumée, la crème et les cornichons.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 607 kcal | 30 % |
+| Protéines | 23 g | 46 % |
+| Glucides | 46 g | 18 % |
+| dont sucres | 3,0 g | 3 % |
+| Lipides | 35 g | 50 % |
+| dont acides gras saturés | 18 g | 88 % |
+| Fibres | 6,3 g | 25 % |
+| Sel | 3,9 g | 65 % |

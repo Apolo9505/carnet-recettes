@@ -57,3 +57,18 @@ La version simplifiée, façon traiteur, du porc au caramel (ce n'est pas le *th
 **Le service**
 
 11. Servir sur du riz blanc bien chaud avec un peu de sauce, du vert de cébette émincé et un peu de sésame.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 749 kcal | 37 % |
+| Protéines | 38 g | 77 % |
+| Glucides | 83 g | 32 % |
+| dont sucres | 26 g | 29 % |
+| Lipides | 29 g | 41 % |
+| dont acides gras saturés | 10 g | 50 % |
+| Fibres | 1,4 g | 5 % |
+| Sel | 5,9 g | 98 % |

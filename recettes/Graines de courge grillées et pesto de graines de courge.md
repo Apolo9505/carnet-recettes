@@ -58,3 +58,18 @@ Deux façons anti-gaspi d'utiliser les graines d'une courge (butternut, potimarr
 8. Ajouter les graines de courge, un bon filet d'huile d'olive, du sel et du poivre.
 9. Mixer. Ajouter un peu de jus de citron ou d'huile si besoin pour ajuster la texture.
 10. Se conserve au frais, couvert d'un filet d'huile d'olive. On peut l'utiliser dans le crumble de potimarron.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 30 g de pesto et une poignée de graines. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 236 kcal | 12 % |
+| Protéines | 7,7 g | 15 % |
+| Glucides | 2,3 g | 1 % |
+| dont sucres | 0,4 g | 0 % |
+| Lipides | 23 g | 32 % |
+| dont acides gras saturés | 4,6 g | 23 % |
+| Fibres | 1,8 g | 7 % |
+| Sel | 0,5 g | 8 % |

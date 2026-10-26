@@ -49,3 +49,18 @@ Un risotto de printemps bien crémeux, avec des asperges vertes, de la pancetta 
 9. À mi-cuisson, ajouter les rondelles d'asperges. Ajouter les pointes environ 5 minutes avant la fin.
 10. Quand le riz est al dente et encore souple, couper le feu. Incorporer vivement le parmesan et le pecorino râpés avec un filet d'huile d'olive pour rendre le risotto crémeux. Poivrer et saler si besoin (les fromages et la pancetta sont déjà salés).
 11. Servir aussitôt avec la pancetta croustillante par-dessus et un peu de fromage râpé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 745 kcal | 37 % |
+| Protéines | 32 g | 64 % |
+| Glucides | 75 g | 29 % |
+| dont sucres | 3,8 g | 4 % |
+| Lipides | 33 g | 47 % |
+| dont acides gras saturés | 15 g | 73 % |
+| Fibres | 4,2 g | 17 % |
+| Sel | 5,9 g | 99 % |

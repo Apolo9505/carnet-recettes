@@ -80,3 +80,18 @@ La saucisse purée des bons bistrots, entièrement faite maison : une saucisse d
 
 14. Couper les saucisses aux intersections. Les cuire dans une poêle à feu moyen avec très peu de matière grasse : bien les marquer, puis baisser le feu pour finir la cuisson.
 15. Dans des assiettes chaudes : une grosse cuillère de purée en volcan, la saucisse, une cascade de jus et une cuillère de pickles de graines de moutarde.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1036 kcal | 52 % |
+| Protéines | 55 g | 111 % |
+| Glucides | 52 g | 20 % |
+| dont sucres | 6,7 g | 7 % |
+| Lipides | 65 g | 93 % |
+| dont acides gras saturés | 32 g | 158 % |
+| Fibres | 6,4 g | 25 % |
+| Sel | 5,4 g | 91 % |

@@ -40,3 +40,18 @@ Le dessert classique, avec peu d'ingrédients : une crème entière infusée à 
 6. Cuire environ 20 minutes à 120 °C (plus si les ramequins sont hauts). La crème doit être prise mais encore tremblotante au centre.
 7. Laisser refroidir à température ambiante, puis filmer et réserver 3 à 4 heures au frais.
 8. Au moment de servir, couvrir toute la surface d'une couche de sucre et la caraméliser au chalumeau zone par zone, sans rester trop longtemps au même endroit.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 431 kcal | 22 % |
+| Protéines | 5,8 g | 12 % |
+| Glucides | 19 g | 7 % |
+| dont sucres | 19 g | 21 % |
+| Lipides | 36 g | 52 % |
+| dont acides gras saturés | 23 g | 116 % |
+| Fibres | 1,5 g | 6 % |
+| Sel | 0,1 g | 1 % |

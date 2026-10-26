@@ -33,3 +33,18 @@ Une huile d'un vert intense, parfumée à l'aneth, pour finir les plats : carpac
 3. Le mettre dans le blender, couvrir d'huile et mixer 5 à 8 minutes à pleine puissance, jusqu'à ce que le mélange soit homogène et chaud (il fume légèrement).
 4. Filtrer dans une passoire fine garnie d'une ou deux feuilles d'essuie-tout, en plusieurs fois. Filtrer une seconde fois si on veut une huile parfaitement limpide.
 5. Conserver dans un flacon pipette hermétique : quelques semaines à température ambiante, ou plus longtemps au frigo.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 c. à soupe (environ 10 g). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 90 kcal | 5 % |
+| Protéines | 0,0 g | 0 % |
+| Glucides | 0,0 g | 0 % |
+| dont sucres | 0,0 g | 0 % |
+| Lipides | 10 g | 14 % |
+| dont acides gras saturés | 1,1 g | 6 % |
+| Fibres | 0,0 g | 0 % |
+| Sel | 0,0 g | 0 % |

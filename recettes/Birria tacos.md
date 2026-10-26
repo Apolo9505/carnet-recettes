@@ -74,3 +74,18 @@ Le birria tacos, découvert par Hugo à Los Angeles et à New York. Du paleron m
 **Le service**
 
 13. Servir le jus de cuisson (en prenant le moins de gras possible) dans un petit bol, avec de l'oignon, de la coriandre et du jus de citron vert. Tremper chaque taco dedans avant de croquer.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 3 tacos (recette pour 15). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 846 kcal | 42 % |
+| Protéines | 72 g | 145 % |
+| Glucides | 58 g | 22 % |
+| dont sucres | 4,4 g | 5 % |
+| Lipides | 34 g | 49 % |
+| dont acides gras saturés | 13 g | 64 % |
+| Fibres | 6,0 g | 24 % |
+| Sel | 4,3 g | 72 % |

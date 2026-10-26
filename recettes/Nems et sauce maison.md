@@ -77,3 +77,18 @@ Des nems maison avec une farce au porc haché, carotte, oignon, vermicelles de h
 13. Chauffer l'huile entre 160 et 170 °C. Frire les nems par petites quantités, **sans qu'ils se touchent**, sinon ils collent et se déchirent. Compter 6 à 8 minutes en les retournant, jusqu'à ce qu'ils soient bien dorés.
 14. Les égoutter sur du papier absorbant. En couper un pour vérifier la cuisson.
 15. Servir chaud : enrouler chaque nem dans une feuille de laitue avec de la menthe, puis le tremper dans la sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 4 nems avec la sauce (recette pour 20). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 681 kcal | 34 % |
+| Protéines | 21 g | 42 % |
+| Glucides | 52 g | 20 % |
+| dont sucres | 7,9 g | 9 % |
+| Lipides | 43 g | 61 % |
+| dont acides gras saturés | 10 g | 52 % |
+| Fibres | 2,1 g | 9 % |
+| Sel | 3,4 g | 56 % |

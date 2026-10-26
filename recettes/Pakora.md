@@ -28,3 +28,18 @@ source: Perso
 4. Chauffer l'huile à 170 °C.
 5. Frire des petites portions 2 min de chaque côté, jusqu'à ce qu'elles soient dorées.
 6. Égoutter et servir chaud avec un chutney de coriandre, une sauce au yaourt ou du citron vert.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 448 kcal | 22 % |
+| Protéines | 15 g | 31 % |
+| Glucides | 37 g | 14 % |
+| dont sucres | 8,1 g | 9 % |
+| Lipides | 25 g | 35 % |
+| dont acides gras saturés | 2,7 g | 14 % |
+| Fibres | 8,9 g | 36 % |
+| Sel | 1,6 g | 27 % |

@@ -62,3 +62,18 @@ Un classique du Sichuan : du porc haché bien grillé, une sauce relevée au dou
 11. Ajouter le mélange fécule-eau froide : la sauce épaissit tout de suite.
 12. Ajouter délicatement les cubes de tofu et un filet d'huile de sésame.
 13. Servir dans des bols, parsemer du vert de ciboule, avec le riz et les concombres saupoudrés de sésame.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 337 kcal | 17 % |
+| Protéines | 17 g | 33 % |
+| Glucides | 12 g | 4 % |
+| dont sucres | 1,3 g | 1 % |
+| Lipides | 24 g | 35 % |
+| dont acides gras saturés | 7,1 g | 35 % |
+| Fibres | 1,2 g | 5 % |
+| Sel | 3,3 g | 54 % |

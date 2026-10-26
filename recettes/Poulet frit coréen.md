@@ -69,3 +69,18 @@ Du poulet frit à la coréenne : des morceaux de cuisse avec la peau, marinés �
 8. Monter l'huile à 180 °C et refaire frire le poulet 1 à 2 minutes, jusqu'à une couleur cuivrée. Égoutter sur du papier absorbant.
 9. Dans un saladier, enrober le poulet chaud de sauce.
 10. Servir avec un filet de mayonnaise, des graines de sésame et la cébette frisée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 782 kcal | 39 % |
+| Protéines | 35 g | 70 % |
+| Glucides | 35 g | 13 % |
+| dont sucres | 12 g | 14 % |
+| Lipides | 55 g | 79 % |
+| dont acides gras saturés | 11 g | 53 % |
+| Fibres | 1,4 g | 6 % |
+| Sel | 3,7 g | 62 % |

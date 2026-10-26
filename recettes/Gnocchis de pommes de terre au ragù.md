@@ -67,3 +67,18 @@ Des gnocchis légers comme des nuages : des bintjes cuites au four sur un lit de
 
 10. Dorer les gnocchis au beurre ou à l'huile d'olive, ajouter une louche de ragù et un peu d'eau de cuisson pour lier.
 11. Finir avec de la fleur de sel, un filet d'huile d'olive et du parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 882 kcal | 44 % |
+| Protéines | 40 g | 80 % |
+| Glucides | 97 g | 37 % |
+| dont sucres | 6,4 g | 7 % |
+| Lipides | 34 g | 48 % |
+| dont acides gras saturés | 14 g | 72 % |
+| Fibres | 8,2 g | 33 % |
+| Sel | 4,2 g | 70 % |

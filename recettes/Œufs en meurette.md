@@ -60,3 +60,18 @@ Le classique bourguignon en version express : des œufs pochés posés sur des t
 
 10. Poser l'œuf poché sur les toasts, répartir les lardons, les champignons et les oignons autour.
 11. Napper de quelques cuillères de sauce, qui imbibe le pain. Finir avec de la ciboulette et du poivre noir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 559 kcal | 28 % |
+| Protéines | 25 g | 51 % |
+| Glucides | 38 g | 14 % |
+| dont sucres | 5,0 g | 6 % |
+| Lipides | 28 g | 40 % |
+| dont acides gras saturés | 8,4 g | 42 % |
+| Fibres | 3,2 g | 13 % |
+| Sel | 4,8 g | 81 % |

@@ -80,3 +80,18 @@ Un plat de fête qui cuit tout seul. Des joues de bœuf saisies sont confites 6 
 17. Faire griller les girolles 2 à 3 minutes dans du beurre, ajouter l'échalote 1 minute, couper le feu et ajouter le persil.
 18. Remettre les joues dans le jus réduit pour les réchauffer et les lustrer.
 19. Dresser : purée, un morceau de joue, beaucoup de jus et les girolles par-dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 628 kcal | 31 % |
+| Protéines | 64 g | 127 % |
+| Glucides | 23 g | 9 % |
+| dont sucres | 9,9 g | 11 % |
+| Lipides | 29 g | 41 % |
+| dont acides gras saturés | 13 g | 63 % |
+| Fibres | 11 g | 45 % |
+| Sel | 3,3 g | 55 % |

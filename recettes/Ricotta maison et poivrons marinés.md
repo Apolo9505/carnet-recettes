@@ -60,3 +60,18 @@ Un apéritif frais et coloré. On fait cailler du lait entier et un peu de crèm
 
 11. Ciseler la ciboulette.
 12. Disposer deux cuillerées de ricotta en volume, puis les poivrons de différentes couleurs. Ajouter du piment d'Espelette, de la fleur de sel, du poivre, la ciboulette et un filet de marinade.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 229 kcal | 11 % |
+| Protéines | 6,4 g | 13 % |
+| Glucides | 6,5 g | 3 % |
+| dont sucres | 4,5 g | 5 % |
+| Lipides | 19 g | 27 % |
+| dont acides gras saturés | 6,9 g | 35 % |
+| Fibres | 2,1 g | 8 % |
+| Sel | 0,9 g | 15 % |

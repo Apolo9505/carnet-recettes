@@ -74,3 +74,18 @@ Un rouleau coréen de riz et de nori, bien garni : bœuf mariné façon bulgogi 
 11. Aligner la viande, un bâtonnet de radis, les carottes, les épinards, l'omelette et des brins de ciboulette entiers.
 12. Rouler en serrant avec la natte, humidifier la bande de nori libre pour sceller, puis tasser le rouleau pour qu'il soit bien rond.
 13. Badigeonner d'huile de sésame (et parsemer de sésame), puis couper en tranches avec un couteau bien aiguisé et mouillé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 673 kcal | 34 % |
+| Protéines | 32 g | 63 % |
+| Glucides | 74 g | 28 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 26 g | 38 % |
+| dont acides gras saturés | 8,8 g | 44 % |
+| Fibres | 5,8 g | 23 % |
+| Sel | 4,1 g | 68 % |

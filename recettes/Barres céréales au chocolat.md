@@ -34,3 +34,18 @@ source: Perso
 - Noisettes : autres fruits à coque ou graines (tournesol, sésame, courge, lin, chia).
 - Chocolat : fruits secs (raisins, abricots, dattes).
 - Liants : miel, sirop d'agave, purée de fruits secs ; autre compote de fruit ou beurre de cacahuète à la place de la banane.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 barre (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 131 kcal | 7 % |
+| Protéines | 3,3 g | 7 % |
+| Glucides | 14 g | 5 % |
+| dont sucres | 4,4 g | 5 % |
+| Lipides | 6,2 g | 9 % |
+| dont acides gras saturés | 1,8 g | 9 % |
+| Fibres | 3,0 g | 12 % |
+| Sel | 0,0 g | 0 % |

@@ -89,3 +89,18 @@ Des lasagnes végétariennes, gourmandes et toutes vertes. Les feuilles de pâte
 21. Terminer par des feuilles qui dépassent un peu (elles deviendront croustillantes), le reste de béchamel et de garniture, puis beaucoup de parmesan et de mozzarella.
 22. Enfourner environ 30 minutes. Couvrir d'aluminium si le dessus colore trop vite, ou passer sous le gril s'il ne colore pas assez.
 23. Laisser reposer quelques minutes avant de couper.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 853 kcal | 43 % |
+| Protéines | 35 g | 70 % |
+| Glucides | 86 g | 33 % |
+| dont sucres | 11 g | 12 % |
+| Lipides | 39 g | 55 % |
+| dont acides gras saturés | 22 g | 109 % |
+| Fibres | 7,7 g | 31 % |
+| Sel | 2,1 g | 35 % |

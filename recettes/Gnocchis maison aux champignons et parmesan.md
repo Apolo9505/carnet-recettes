@@ -52,3 +52,18 @@ Des gnocchis de pommes de terre faits maison. Les pommes de terre sont cuites au
 10. Les sortir à l'écumoire et les mettre directement dans la poêle avec les champignons. Mélanger.
 11. Ajouter beaucoup de parmesan, une louche d'eau de cuisson, encore du parmesan et beaucoup de poivre. Mélanger délicatement jusqu'à ce que la sauce épaississe.
 12. Servir bien chaud dans des assiettes creuses, avec encore un peu de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 601 kcal | 30 % |
+| Protéines | 19 g | 38 % |
+| Glucides | 89 g | 34 % |
+| dont sucres | 4,9 g | 5 % |
+| Lipides | 16 g | 23 % |
+| dont acides gras saturés | 7,5 g | 37 % |
+| Fibres | 7,2 g | 29 % |
+| Sel | 1,9 g | 32 % |

@@ -49,3 +49,18 @@ Des blinis maison très moelleux, à base de yaourt grec et de blancs montés en
 4. Couvrir et laisser **30 minutes au frais**. Mettre la pâte en poche (ou utiliser une cuillère).
 5. Dans une poêle antiadhésive chaude légèrement huilée, pocher de petits blinis (ils s'étalent un peu). Cuire **1 minute** sur la première face et **30 à 45 secondes** sur la seconde.
 6. Garnir les blinis encore tièdes d'une petite quenelle de crème, d'œufs de truite, de zeste de citron, d'une pointe d'aneth, de poivre et de piment d'Espelette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 5 blinis garnis (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 300 kcal | 15 % |
+| Protéines | 10 g | 21 % |
+| Glucides | 22 g | 9 % |
+| dont sucres | 2,3 g | 3 % |
+| Lipides | 18 g | 26 % |
+| dont acides gras saturés | 7,8 g | 39 % |
+| Fibres | 1,2 g | 5 % |
+| Sel | 0,8 g | 13 % |

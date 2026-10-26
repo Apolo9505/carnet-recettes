@@ -76,3 +76,18 @@ Un gros raviolo par personne, en pâte fraîche aux œufs, farci de butternut r�
 10. Plonger délicatement chaque raviolo dans l'eau salée frémissante, en l'accompagnant pour qu'il n'accroche pas, et cuire **1 minute**.
 11. Pendant ce temps, ajouter une louche d'eau de cuisson au beurre et monter le feu pour obtenir une sauce liée et crémeuse.
 12. Transférer le raviolo dans le beurre et l'arroser, sans prolonger la cuisson. Dresser dans une assiette chaude, napper de beurre de sauge, et finir avec du poivre blanc, de la fleur de sel et, si on veut, du parmesan et de la ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 447 kcal | 22 % |
+| Protéines | 17 g | 33 % |
+| Glucides | 45 g | 17 % |
+| dont sucres | 3,5 g | 4 % |
+| Lipides | 21 g | 30 % |
+| dont acides gras saturés | 9,4 g | 47 % |
+| Fibres | 3,8 g | 15 % |
+| Sel | 0,9 g | 15 % |

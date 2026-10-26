@@ -66,3 +66,18 @@ Le sticky toffee pudding anglais, en version individuelle comme chez le chef lon
 
 9. Sortir la glace 10 à 15 minutes avant. Dans chaque assiette, mettre une ou deux boules de glace et trois petits gâteaux.
 10. Napper généreusement de sauce caramel chaude et finir avec une pincée de fleur de sel.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 746 kcal | 37 % |
+| Protéines | 7,6 g | 15 % |
+| Glucides | 91 g | 35 % |
+| dont sucres | 72 g | 80 % |
+| Lipides | 38 g | 55 % |
+| dont acides gras saturés | 25 g | 125 % |
+| Fibres | 4,6 g | 18 % |
+| Sel | 0,6 g | 9 % |

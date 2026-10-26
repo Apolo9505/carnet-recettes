@@ -43,3 +43,18 @@ Des gougères légères, en pâte à choux assaisonnée de poivre, de muscade et
 5. Mettre la pâte en poche et pocher des boules de même taille sur une plaque couverte de papier cuisson.
 6. Parsemer chaque gougère de comté râpé, un peu mais pas trop (ce qui déborde fait une croûte délicieuse). On peut les garder au frais jusqu'au moment de cuire.
 7. Cuire à **180 °C** (chaleur tournante) **sans jamais ouvrir le four**, jusqu'à ce qu'elles soient bien gonflées et dorées (temps non précisé dans la vidéo, environ 20 à 25 minutes). Couper le four et laisser 2 minutes porte ouverte avant de sortir.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 5 gougères (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 378 kcal | 19 % |
+| Protéines | 14 g | 28 % |
+| Glucides | 20 g | 8 % |
+| dont sucres | 1,5 g | 2 % |
+| Lipides | 27 g | 38 % |
+| dont acides gras saturés | 16 g | 81 % |
+| Fibres | 0,8 g | 3 % |
+| Sel | 0,7 g | 11 % |

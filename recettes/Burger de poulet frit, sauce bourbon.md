@@ -77,3 +77,18 @@ Le mélange du « bourbon chicken » de La Nouvelle-Orléans et du burger de pou
 10. Toaster les buns à la poêle.
 11. **Au dernier moment**, tremper le poulet dans la sauce bourbon chaude.
 12. Monter : mayo sur les deux faces du bun, pickles, poulet, montagne de cébette, chapeau.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1136 kcal | 57 % |
+| Protéines | 52 g | 103 % |
+| Glucides | 90 g | 35 % |
+| dont sucres | 24 g | 27 % |
+| Lipides | 60 g | 85 % |
+| dont acides gras saturés | 9,7 g | 49 % |
+| Fibres | 6,0 g | 24 % |
+| Sel | 4,4 g | 73 % |

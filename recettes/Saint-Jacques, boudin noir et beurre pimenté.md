@@ -55,3 +55,18 @@ Un terre-mer inspiré du Sargasso, à Margate (Kent) : dans la coquille, une tra
 7. Dans la même poêle, avec un filet d'huile d'olive, saisir les Saint-Jacques salées **sur une seule face**, juste pour les marquer. Les poser sur le boudin.
 8. Couvrir chaque noix d'une belle rondelle de beurre pimenté et passer **quelques minutes au four**, jusqu'à ce que le beurre fonde, la Saint-Jacques restant nacrée (le temps exact n'est pas précisé dans la vidéo).
 9. Servir aussitôt, en trempant bien la Saint-Jacques et le boudin dans le beurre.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 532 kcal | 27 % |
+| Protéines | 20 g | 41 % |
+| Glucides | 4,9 g | 2 % |
+| dont sucres | 1,3 g | 1 % |
+| Lipides | 48 g | 68 % |
+| dont acides gras saturés | 22 g | 110 % |
+| Fibres | 1,4 g | 6 % |
+| Sel | 1,7 g | 29 % |

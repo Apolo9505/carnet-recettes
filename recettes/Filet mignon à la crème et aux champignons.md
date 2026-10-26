@@ -64,3 +64,18 @@ Un grand classique familial : des médaillons de filet mignon de porc saisis, pu
 
 11. Cuire les tagliatelles au dernier moment pour qu'elles ne collent pas. Pendant ce temps, ciseler la ciboulette.
 12. Égoutter les pâtes et les disposer en lit dans l'assiette. Ajouter les médaillons, beaucoup de champignons et de sauce, du poivre du moulin et la ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 756 kcal | 38 % |
+| Protéines | 52 g | 104 % |
+| Glucides | 62 g | 24 % |
+| dont sucres | 7,1 g | 8 % |
+| Lipides | 31 g | 44 % |
+| dont acides gras saturés | 16 g | 79 % |
+| Fibres | 5,5 g | 22 % |
+| Sel | 1,9 g | 32 % |

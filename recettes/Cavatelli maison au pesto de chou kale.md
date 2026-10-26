@@ -84,3 +84,18 @@ Des cavatelli, des petites pâtes du sud de l'Italie faites seulement avec de la
 17. Déglacer la poêle de saucisse avec un peu d'eau de cuisson ou de vin blanc.
 18. Mettre les cavatelli dans la poêle avec de l'eau de cuisson et une bonne louche de pesto. **Couper le feu**, puis mélanger vigoureusement pour lier la sauce. Trop chauffé, le pesto perd sa couleur.
 19. Servir aussitôt dans des assiettes chaudes, avec un filet d'huile d'olive, beaucoup de pangrattato et du parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 701 kcal | 35 % |
+| Protéines | 20 g | 40 % |
+| Glucides | 77 g | 30 % |
+| dont sucres | 2,3 g | 3 % |
+| Lipides | 33 g | 47 % |
+| dont acides gras saturés | 8,3 g | 41 % |
+| Fibres | 6,1 g | 24 % |
+| Sel | 1,6 g | 27 % |

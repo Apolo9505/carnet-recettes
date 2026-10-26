@@ -56,3 +56,18 @@ Des spaghetti à la tomate relevés par l'ail, les anchois, les câpres et les o
 10. Transférer les pâtes à la pince dans la sauce, avec encore un peu d'eau de cuisson et le zeste du citron.
 11. Ajouter le persil en fin de cuisson et mélanger en faisant sauter, jusqu'à ce que la sauce enrobe les pâtes.
 12. Servir bien chaud, avec un filet d'huile d'olive et un peu de zeste de citron par-dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 441 kcal | 22 % |
+| Protéines | 14 g | 28 % |
+| Glucides | 67 g | 26 % |
+| dont sucres | 3,1 g | 3 % |
+| Lipides | 11 g | 16 % |
+| dont acides gras saturés | 1,9 g | 9 % |
+| Fibres | 4,4 g | 18 % |
+| Sel | 1,9 g | 31 % |

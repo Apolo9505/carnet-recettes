@@ -92,3 +92,18 @@ Un mélange de Sicile et de Jura. Un risotto au vin blanc du Jura, lié avec du 
 **Le service**
 
 19. Mettre la sauce au fond d'un bol, ajouter un filet d'huile d'olive et les arancini bien chauds, puis râper du comté 36 mois par-dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 892 kcal | 45 % |
+| Protéines | 27 g | 54 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 4,7 g | 5 % |
+| Lipides | 55 g | 79 % |
+| dont acides gras saturés | 20 g | 100 % |
+| Fibres | 3,1 g | 13 % |
+| Sel | 3,1 g | 51 % |

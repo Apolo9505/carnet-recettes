@@ -61,3 +61,18 @@ Un plat de semaine rapide : des cuisses de poulet désossées, à la peau croust
 **Le service**
 
 12. Dans l'assiette, disposer le riz, les pois gourmands et le poulet tranché, puis ajouter un trait de sauce.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 655 kcal | 33 % |
+| Protéines | 37 g | 74 % |
+| Glucides | 69 g | 26 % |
+| dont sucres | 8,2 g | 9 % |
+| Lipides | 24 g | 34 % |
+| dont acides gras saturés | 6,3 g | 32 % |
+| Fibres | 4,5 g | 18 % |
+| Sel | 7,4 g | 123 % |

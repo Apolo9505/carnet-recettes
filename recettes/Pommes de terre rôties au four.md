@@ -39,3 +39,18 @@ Les pommes de terre au four de la mère de Hugo (huile d'olive, ail, romarin), a
 5. Secouer les pommes de terre dans la passoire pour abîmer leur surface, puis les mettre dans l'huile chaude avec l'ail et beaucoup de romarin.
 6. Rôtir 25 à 30 minutes à 220 °C en les remuant régulièrement, jusqu'à ce qu'elles soient dorées et croustillantes.
 7. Assaisonner de fleur de sel et de poivre.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 369 kcal | 18 % |
+| Protéines | 5,7 g | 11 % |
+| Glucides | 41 g | 16 % |
+| dont sucres | 2,0 g | 2 % |
+| Lipides | 18 g | 26 % |
+| dont acides gras saturés | 2,8 g | 14 % |
+| Fibres | 4,8 g | 19 % |
+| Sel | 1,5 g | 26 % |

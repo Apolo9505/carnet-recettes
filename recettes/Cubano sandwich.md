@@ -82,3 +82,18 @@ Le sandwich cubain de Miami, cuit pressé. Une échine de porc est marinée une 
 12. Couper le pain en deux. Étaler beaucoup de moutarde, puis poser l'emmental, le jambon rôti, le porc effiloché et les pickles en tranches. Refermer.
 13. Badigeonner l'extérieur de beurre et cuire dans une presse à sandwich (ou à la poêle, avec une cocotte posée dessus), jusqu'à ce que le pain soit toasté et le fromage fondu.
 14. Couper en deux en diagonale.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1003 kcal | 50 % |
+| Protéines | 59 g | 118 % |
+| Glucides | 73 g | 28 % |
+| dont sucres | 7,5 g | 8 % |
+| Lipides | 51 g | 73 % |
+| dont acides gras saturés | 25 g | 126 % |
+| Fibres | 4,7 g | 19 % |
+| Sel | 5,4 g | 91 % |

@@ -61,3 +61,18 @@ Un curry express et très simple, tout fait dans une seule sauteuse. On saisit l
 
 11. Mouler le riz basmati chaud dans un bol et le démouler dans l'assiette. Napper de curry en veillant à ce que chacun ait du poulet, des petits pois et de la sauce.
 12. Ajouter du basilic frais et un quartier de citron vert.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 690 kcal | 34 % |
+| Protéines | 41 g | 82 % |
+| Glucides | 65 g | 25 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 27 g | 39 % |
+| dont acides gras saturés | 18 g | 90 % |
+| Fibres | 8,4 g | 34 % |
+| Sel | 1,6 g | 26 % |

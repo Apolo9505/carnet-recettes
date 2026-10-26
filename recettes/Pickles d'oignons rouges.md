@@ -41,3 +41,18 @@ Le bocal que Hugo a toujours au frigo : des oignons rouges émincés, couverts d
 3. Porter à ébullition l'eau, le vinaigre, le sucre, le sel, le poivre, le piment, l'ail, le laurier, l'anis et la coriandre.
 4. Filtrer la saumure (pour éviter les grains de poivre) et la verser bouillante sur les oignons.
 5. Laisser refroidir à température ambiante, puis conserver au frigo. Ils prennent leur couleur en quelques heures et se gardent des semaines.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 30 g de pickles. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 23 kcal | 1 % |
+| Protéines | 0,3 g | 1 % |
+| Glucides | 4,7 g | 2 % |
+| dont sucres | 2,9 g | 3 % |
+| Lipides | 0,1 g | 0 % |
+| dont acides gras saturés | 0,0 g | 0 % |
+| Fibres | 0,7 g | 3 % |
+| Sel | 0,1 g | 1 % |

@@ -37,3 +37,18 @@ De vrais œufs brouillés, onctueux et légers, et pas une omelette ratée en mo
 4. Quand la texture devient plus ferme et qu'on voit le fond de la poêle, mais que c'est encore crémeux, retirer du feu et ajouter le beurre. Mélanger pour qu'il fonde avec la chaleur résiduelle (remettre brièvement sur le feu si besoin).
 5. Verser dans une assiette et tapoter le dessous pour étaler en surface plane.
 6. Assaisonner de piment d'Espelette, de ciboulette et, si on veut, d'une bonne quantité de parmesan. Manger à la cuillère ou avec du pain.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 assiette (3 œufs). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 365 kcal | 18 % |
+| Protéines | 22 g | 45 % |
+| Glucides | 0,6 g | 0 % |
+| dont sucres | 0,6 g | 1 % |
+| Lipides | 30 g | 43 % |
+| dont acides gras saturés | 14 g | 72 % |
+| Fibres | 0,1 g | 1 % |
+| Sel | 1,6 g | 27 % |

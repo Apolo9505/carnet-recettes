@@ -41,3 +41,18 @@ Une recette végétarienne que Hugo fait chaque semaine en été (déjà dans le
 4. Les griller dans une poêle avec un peu d'huile, 3 à 4 minutes par face, côté chair puis côté peau.
 5. Verser la sauce teriyaki et la fécule délayée dans l'eau froide. Retourner les aubergines pour bien les laquer. Poivrer.
 6. Servir sur une montagne de riz blanc, avec de la cébette ciselée et du sésame.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 475 kcal | 24 % |
+| Protéines | 11 g | 23 % |
+| Glucides | 80 g | 31 % |
+| dont sucres | 18 g | 20 % |
+| Lipides | 9,9 g | 14 % |
+| dont acides gras saturés | 1,3 g | 6 % |
+| Fibres | 9,8 g | 39 % |
+| Sel | 5,6 g | 93 % |

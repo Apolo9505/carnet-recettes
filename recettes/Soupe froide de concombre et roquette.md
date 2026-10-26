@@ -40,3 +40,18 @@ Une soupe froide verte, très simple et rapide. Concombre, cébette, roquette et
 4. Ajouter le fromage frais et la roquette, puis mixer à nouveau quelques minutes, jusqu'à ce qu'il ne reste plus de morceaux de roquette.
 5. Ajouter le jus du citron vert, puis goûter et rectifier.
 6. Servir bien frais, avec quelques glaçons si on la mange tout de suite. Ajouter une cuillère de fromage frais, un filet d'huile d'olive et beaucoup de ciboulette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 147 kcal | 7 % |
+| Protéines | 4,4 g | 9 % |
+| Glucides | 6,2 g | 2 % |
+| dont sucres | 3,9 g | 4 % |
+| Lipides | 11 g | 16 % |
+| dont acides gras saturés | 3,3 g | 16 % |
+| Fibres | 2,0 g | 8 % |
+| Sel | 0,8 g | 13 % |

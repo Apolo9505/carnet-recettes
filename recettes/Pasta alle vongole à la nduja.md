@@ -54,3 +54,18 @@ Des spaghetti aux palourdes ouvertes au vin blanc, avec ail et persil. L'« ingr
 11. Peu avant la fin de la cuisson des pâtes, remettre les palourdes dans la sauce et poivrer.
 12. Ajouter les pâtes al dente, le jus d'½ citron, le persil et une généreuse louche d'eau de cuisson. Mélanger vigoureusement pour lier la sauce, en ajoutant de l'eau de cuisson si besoin.
 13. Dresser en nids, ajouter les palourdes entières, napper de sauce et finir avec un filet d'huile d'olive. Servir bien chaud.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 510 kcal | 25 % |
+| Protéines | 18 g | 36 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 2,7 g | 3 % |
+| Lipides | 16 g | 23 % |
+| dont acides gras saturés | 3,7 g | 19 % |
+| Fibres | 3,4 g | 14 % |
+| Sel | 1,4 g | 23 % |

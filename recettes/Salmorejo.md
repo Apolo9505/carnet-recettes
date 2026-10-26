@@ -43,3 +43,18 @@ Une cousine andalouse du gaspacho, plus rapide et plus onctueuse. On mixe des to
 6. Verser le reste de l'huile d'olive en filet en mixant encore quelques secondes, pour émulsionner la soupe.
 7. Cuire les œufs 9 minutes dans l'eau bouillante, les refroidir et les écaler. Les hacher grossièrement, ou les râper à la microplane pour obtenir une « neige » d'œuf.
 8. Servir le salmorejo frais, garni d'œuf, de lanières de jambon ibérique et d'une pointe de piment d'Espelette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 330 kcal | 17 % |
+| Protéines | 12 g | 24 % |
+| Glucides | 25 g | 10 % |
+| dont sucres | 7,1 g | 8 % |
+| Lipides | 19 g | 27 % |
+| dont acides gras saturés | 3,8 g | 19 % |
+| Fibres | 3,9 g | 16 % |
+| Sel | 2,1 g | 35 % |

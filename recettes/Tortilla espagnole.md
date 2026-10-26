@@ -52,3 +52,18 @@ La version « des anciens », avec seulement des œufs, des pommes de terre et d
 
 12. Assaisonner la roquette d'huile d'olive, de vinaigre, de poivre et de fleur de sel, sans l'écraser.
 13. Couper la tortilla, la servir avec la salade et râper un peu de manchego dessus.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 339 kcal | 17 % |
+| Protéines | 12 g | 25 % |
+| Glucides | 20 g | 8 % |
+| dont sucres | 1,1 g | 1 % |
+| Lipides | 23 g | 32 % |
+| dont acides gras saturés | 4,3 g | 22 % |
+| Fibres | 3,1 g | 12 % |
+| Sel | 1,3 g | 21 % |

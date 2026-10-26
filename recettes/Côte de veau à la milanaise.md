@@ -63,3 +63,18 @@ Une version « restaurant » de l'escalope milanaise : une côte de veau avec l'
 **Le service**
 
 10. Servir avec un demi-citron, de la fleur de sel et une branche de romarin (que l'on peut brûler pour la fumée). Assaisonner la salade et la couvrir de parmesan râpé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1139 kcal | 57 % |
+| Protéines | 54 g | 107 % |
+| Glucides | 41 g | 16 % |
+| dont sucres | 4,2 g | 5 % |
+| Lipides | 83 g | 119 % |
+| dont acides gras saturés | 22 g | 111 % |
+| Fibres | 3,3 g | 13 % |
+| Sel | 3,3 g | 54 % |

@@ -47,3 +47,18 @@ Une des salades d'été préférées de Hugo, un peu plus travaillée : des quar
 3. Mélanger le tahini, le miel, la harissa, le jus de citron et le sel (le mélange épaissit), puis le détendre avec de l'eau fraîche jusqu'à une sauce fluide.
 4. Arroser les aubergines d'huile d'olive, les saler et les griller sur des braises chaudes (ou au four, à la poêle) en les retournant, 10 à 15 minutes, jusqu'à ce qu'elles soient bien marquées et **fondantes**.
 5. Dresser : le boulgour, les aubergines, les pois chiches, beaucoup de sauce, les grains de grenade, la coriandre et un filet d'huile d'olive.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 366 kcal | 18 % |
+| Protéines | 10 g | 20 % |
+| Glucides | 37 g | 14 % |
+| dont sucres | 11 g | 12 % |
+| Lipides | 17 g | 25 % |
+| dont acides gras saturés | 2,5 g | 13 % |
+| Fibres | 10 g | 41 % |
+| Sel | 1,3 g | 22 % |

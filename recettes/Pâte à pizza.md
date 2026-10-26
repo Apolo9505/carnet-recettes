@@ -26,3 +26,18 @@ source: Perso
 5. Étaler au rouleau pour commencer, puis étirer à la main.
 
 > Ces proportions couvrent largement une plaque de four, ou deux pizzas rondes plus fines.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 pâte à pizza (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 805 kcal | 40 % |
+| Protéines | 17 g | 35 % |
+| Glucides | 130 g | 50 % |
+| dont sucres | 2,6 g | 3 % |
+| Lipides | 22 g | 31 % |
+| dont acides gras saturés | 3,4 g | 17 % |
+| Fibres | 6,4 g | 26 % |
+| Sel | 5,1 g | 86 % |

@@ -58,3 +58,18 @@ Un plat de printemps « chaud-froid » : des tranches de longe de thon crue, ass
 **Le dressage**
 
 6. Verser le beurre blanc chaud avec les fèves dans l'assiette, poser le thon froid par-dessus, ajouter les petits pois crus et parsemer de fleurs de sureau.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 516 kcal | 26 % |
+| Protéines | 31 g | 61 % |
+| Glucides | 9,4 g | 4 % |
+| dont sucres | 3,3 g | 4 % |
+| Lipides | 38 g | 54 % |
+| dont acides gras saturés | 20 g | 101 % |
+| Fibres | 4,3 g | 17 % |
+| Sel | 0,8 g | 13 % |

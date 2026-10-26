@@ -41,3 +41,18 @@ La recette romaine authentique, sans crème : des pâtes, du guanciale (joue de 
 8. Sortir les pâtes al dente à l'écumoire (ou garder de l'eau de cuisson) et les mettre directement dans le saladier avec la pâte de fromage, **hors du feu**. Mélanger vigoureusement : la chaleur des pâtes et l'eau de cuisson font fondre le fromage et lient la sauce. *On peut aussi faire ce mélange dans la poêle du guanciale, toujours hors du feu.*
 9. Ajouter le guanciale à la fin, sans trop de graisse, et mélanger encore. Ajuster avec un peu d'eau de cuisson si la sauce manque.
 10. Servir tout de suite, bien chaud, avec un peu de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 912 kcal | 46 % |
+| Protéines | 30 g | 59 % |
+| Glucides | 66 g | 25 % |
+| dont sucres | 2,2 g | 2 % |
+| Lipides | 58 g | 83 % |
+| dont acides gras saturés | 24 g | 119 % |
+| Fibres | 3,0 g | 12 % |
+| Sel | 4,0 g | 67 % |

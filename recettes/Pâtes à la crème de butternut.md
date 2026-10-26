@@ -56,3 +56,18 @@ La recette la plus vue de la chaîne. On rôtit une butternut au four avec de l'
 12. Servir dans des assiettes chaudes, avec un filet d'huile d'olive et beaucoup de parmesan.
 
 > **Astuce :** cette crème de butternut se garde et s'utilise aussi dans des croque-monsieur ou sur des pizzas.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 488 kcal | 24 % |
+| Protéines | 17 g | 35 % |
+| Glucides | 61 g | 24 % |
+| dont sucres | 6,5 g | 7 % |
+| Lipides | 17 g | 25 % |
+| dont acides gras saturés | 6,9 g | 34 % |
+| Fibres | 6,6 g | 27 % |
+| Sel | 1,1 g | 19 % |

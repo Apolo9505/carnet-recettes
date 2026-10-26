@@ -42,3 +42,18 @@ La cousine tomatée de la gricia : du guanciale fondu doucement, déglacé au vi
 8. Ajouter les pâtes al dente dans la poêle, puis le pecorino et une généreuse louche d'eau de cuisson. Retirer le piment.
 9. Mélanger sans s'arrêter pendant une à deux minutes, jusqu'à ce que la sauce enrobe les pâtes.
 10. Dresser en nids, ajouter un peu de sauce et de guanciale, un filet d'huile d'olive, du poivre et beaucoup de pecorino râpé.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 821 kcal | 41 % |
+| Protéines | 25 g | 50 % |
+| Glucides | 68 g | 26 % |
+| dont sucres | 4,2 g | 5 % |
+| Lipides | 48 g | 68 % |
+| dont acides gras saturés | 19 g | 94 % |
+| Fibres | 4,3 g | 17 % |
+| Sel | 4,2 g | 71 % |

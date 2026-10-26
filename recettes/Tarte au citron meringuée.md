@@ -70,3 +70,18 @@ La tarte au citron meringuée classique : une pâte sablée à la poudre d'amand
 11. Mixer la crème de citron refroidie avec le beurre, puis la verser dans le fond de tarte et la laisser prendre au frais.
 12. Recouvrir généreusement de meringue (à la cuillère, en faisant des pics, ou à la poche) et la colorer au chalumeau (ou 1 minute sous le gril, sans s'éloigner).
 13. Servir avec quelques zestes de citron.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 522 kcal | 26 % |
+| Protéines | 9,6 g | 19 % |
+| Glucides | 62 g | 24 % |
+| dont sucres | 44 g | 49 % |
+| Lipides | 26 g | 37 % |
+| dont acides gras saturés | 14 g | 70 % |
+| Fibres | 1,3 g | 5 % |
+| Sel | 0,3 g | 5 % |

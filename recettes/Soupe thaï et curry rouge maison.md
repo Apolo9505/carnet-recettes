@@ -63,3 +63,18 @@ Une soupe rapide d'inspiration thaïlandaise, sans prétendre à une recette tra
 8. Mouiller avec le bouillon, porter à ébullition et cuire 8 à 10 minutes.
 9. Ajouter le lait de coco et laisser frémir 2 à 3 minutes.
 10. Servir dans des bols avec un peu d'huile pimentée, du jus de citron vert, de la coriandre fraîche et des graines de sésame.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 340 kcal | 17 % |
+| Protéines | 11 g | 22 % |
+| Glucides | 13 g | 5 % |
+| dont sucres | 5,4 g | 6 % |
+| Lipides | 25 g | 36 % |
+| dont acides gras saturés | 18 g | 88 % |
+| Fibres | 7,7 g | 31 % |
+| Sel | 3,8 g | 64 % |

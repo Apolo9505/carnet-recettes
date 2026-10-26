@@ -52,3 +52,18 @@ Le chou chinois fermenté coréen, dans une version simple. Le chou est dégorg�
 7. Remplir le bocal en tassant au fur et à mesure pour chasser l'air, en laissant quelques centimètres de vide en haut.
 8. Poser le couvercle **sans le fermer** (les gaz de fermentation doivent s'échapper) et laisser au chaud au moins une semaine.
 9. Conserver ensuite au réfrigérateur, plusieurs semaines voire plusieurs mois.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 50 g de kimchi. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 15 kcal | 1 % |
+| Protéines | 0,8 g | 2 % |
+| Glucides | 1,9 g | 1 % |
+| dont sucres | 1,2 g | 1 % |
+| Lipides | 0,3 g | 0 % |
+| dont acides gras saturés | 0,0 g | 0 % |
+| Fibres | 1,0 g | 4 % |
+| Sel | 1,0 g | 16 % |

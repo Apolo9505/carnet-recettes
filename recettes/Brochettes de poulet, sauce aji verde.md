@@ -50,3 +50,18 @@ Des brochettes de cuisse de poulet (plus juteuses que le blanc), coupées en ban
 6. Les poser sur la grille bien chaude, sur des braises intenses, sans y toucher quelques minutes pour former une croûte, puis les tourner régulièrement. Fermer le couvercle un moment pour cuire à cœur. Laisser reposer un peu.
 7. Griller des cébettes et des citrons verts coupés en deux sur les braises.
 8. Servir les brochettes avec les légumes grillés et la sauce. Presser le citron vert grillé sur le poulet juste avant de manger.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 388 kcal | 19 % |
+| Protéines | 38 g | 75 % |
+| Glucides | 6,5 g | 3 % |
+| dont sucres | 2,4 g | 3 % |
+| Lipides | 23 g | 33 % |
+| dont acides gras saturés | 3,8 g | 19 % |
+| Fibres | 2,9 g | 12 % |
+| Sel | 1,4 g | 24 % |

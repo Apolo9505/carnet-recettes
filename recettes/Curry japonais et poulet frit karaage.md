@@ -84,3 +84,18 @@ Le karaage curry : du poulet frit japonais (hauts de cuisse marinés au soja, mi
 **Le service**
 
 13. Dans une assiette creuse : du riz, beaucoup de sauce curry, les morceaux de poulet, les pickles de carotte et une montagne de cébette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1108 kcal | 55 % |
+| Protéines | 39 g | 77 % |
+| Glucides | 126 g | 48 % |
+| dont sucres | 18 g | 20 % |
+| Lipides | 47 g | 67 % |
+| dont acides gras saturés | 14 g | 68 % |
+| Fibres | 8,3 g | 33 % |
+| Sel | 5,7 g | 96 % |

@@ -50,3 +50,18 @@ Une salade de pommes de terre très gourmande, liée à une mayonnaise maison fa
 5. Couper les pommes de terre (avec la peau) en morceaux égaux. Écaler les œufs et les couper en quartiers.
 6. Mélanger les pommes de terre, la mayonnaise, le zeste de citron, la pomme, les cornichons, l'échalote et presque toute la ciboulette.
 7. Dresser en dôme, ajouter le reste de ciboulette, les œufs, les guindillas, un filet d'huile d'olive et de la fleur de sel.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 629 kcal | 31 % |
+| Protéines | 12 g | 23 % |
+| Glucides | 38 g | 15 % |
+| dont sucres | 6,1 g | 7 % |
+| Lipides | 46 g | 66 % |
+| dont acides gras saturés | 6,0 g | 30 % |
+| Fibres | 4,9 g | 20 % |
+| Sel | 1,8 g | 30 % |

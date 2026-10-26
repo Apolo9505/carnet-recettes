@@ -76,3 +76,18 @@ Les temps de cuisson de base vus dans la vidéo, avec deux recettes : l'œuf à 
 **Le dressage**
 
 10. Étaler la hollandaise dans l'assiette, y casser l'œuf parfait, ajouter quelques morceaux d'asperge, des œufs de truite et la chapelure toastée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 635 kcal | 32 % |
+| Protéines | 16 g | 33 % |
+| Glucides | 12 g | 5 % |
+| dont sucres | 3,1 g | 3 % |
+| Lipides | 57 g | 82 % |
+| dont acides gras saturés | 34 g | 169 % |
+| Fibres | 2,6 g | 10 % |
+| Sel | 1,7 g | 28 % |

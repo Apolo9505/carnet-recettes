@@ -69,3 +69,18 @@ Un bourguignon pensé pour avoir une sauce de restaurant : onctueuse, brillante,
 13. Sortir la viande de la cocotte. Filtrer le jus sans trop presser la garniture.
 14. Faire réduire le jus à feu vif jusqu'à ce qu'il nappe la cuillère, en le gardant comme une sauce (pas un jus trop corsé). Rectifier le sel.
 15. Servir dans des assiettes chaudes avec une purée, un peu de chaque morceau de viande, la garniture, beaucoup de sauce et du persil.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 769 kcal | 38 % |
+| Protéines | 68 g | 136 % |
+| Glucides | 25 g | 10 % |
+| dont sucres | 7,1 g | 8 % |
+| Lipides | 37 g | 53 % |
+| dont acides gras saturés | 13 g | 67 % |
+| Fibres | 5,6 g | 22 % |
+| Sel | 3,4 g | 57 % |

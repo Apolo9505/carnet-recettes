@@ -52,3 +52,18 @@ La sauce crue d'Amérique du Sud, avec des ingrédients de supermarché : persil
 7. Baisser le feu, ajouter beurre, thym et ail, et arroser la viande de beurre moussant. Vérifier la cuisson au toucher.
 8. La laisser reposer quelques minutes sous aluminium, puis la trancher.
 9. Servir dans un plat avec son jus et de généreuses cuillerées de chimichurri bien remuée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 638 kcal | 32 % |
+| Protéines | 39 g | 79 % |
+| Glucides | 1,9 g | 1 % |
+| dont sucres | 0,6 g | 1 % |
+| Lipides | 52 g | 75 % |
+| dont acides gras saturés | 21 g | 105 % |
+| Fibres | 0,7 g | 3 % |
+| Sel | 1,7 g | 29 % |

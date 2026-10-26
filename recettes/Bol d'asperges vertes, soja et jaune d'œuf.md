@@ -40,3 +40,18 @@ Un bol d'inspiration japonaise : du riz chaud, des asperges vertes blanchies jus
 5. Griller la feuille de nori à la flamme (ou au four) et l'émietter.
 6. Mélanger les asperges avec la vinaigrette, le sésame et le nori.
 7. Dans des bols : du riz, les asperges (une tête pour chacun), un creux au centre pour le jaune d'œuf, et de la ciboulette finement ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 550 kcal | 28 % |
+| Protéines | 15 g | 30 % |
+| Glucides | 71 g | 27 % |
+| dont sucres | 10 g | 11 % |
+| Lipides | 20 g | 29 % |
+| dont acides gras saturés | 3,9 g | 19 % |
+| Fibres | 6,3 g | 25 % |
+| Sel | 2,9 g | 49 % |

@@ -47,3 +47,18 @@ Des pâtes prêtes en 12 minutes, le temps de leur cuisson : une sauce escabèch
 6. Couper le thon en morceaux de la taille des pâtes et le mettre directement dans la sauce, juste pour qu'il prenne la température, sans cuire.
 7. Ajouter les pâtes égouttées à l'araignée, les olives, un peu d'eau de cuisson et un filet d'huile d'olive, et mélanger.
 8. Finir avec un zeste ou un trait de citron, de la fleur de sel, les herbes et les fleurs de ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 670 kcal | 34 % |
+| Protéines | 36 g | 73 % |
+| Glucides | 77 g | 29 % |
+| dont sucres | 8,3 g | 9 % |
+| Lipides | 21 g | 30 % |
+| dont acides gras saturés | 3,4 g | 17 % |
+| Fibres | 6,3 g | 25 % |
+| Sel | 1,5 g | 25 % |

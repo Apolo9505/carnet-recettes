@@ -29,3 +29,18 @@ source: Perso
 6. Dégazer et diviser en 12 portions d'environ 40 g.
 7. Bouler, poser sur des carrés de papier cuisson et aplatir légèrement.
 8. Laisser reposer 15 min, puis cuire 10 à 12 min à la vapeur.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 2 baos (pâte seule). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 223 kcal | 11 % |
+| Protéines | 4,8 g | 10 % |
+| Glucides | 39 g | 15 % |
+| dont sucres | 2,7 g | 3 % |
+| Lipides | 4,7 g | 7 % |
+| dont acides gras saturés | 0,6 g | 3 % |
+| Fibres | 1,8 g | 7 % |
+| Sel | 0,5 g | 9 % |

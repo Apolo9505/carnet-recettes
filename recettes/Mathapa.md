@@ -24,3 +24,18 @@ source: Perso
 4. Râper les noix de coco (le mixeur fonctionne).
 5. Mélanger la coco et les cacahuètes, ajouter de l'eau tiède et presser pour extraire environ 2 l de lait.
 6. Ajouter ce lait au matapa et remettre sur le feu en mélangeant de temps en temps.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 436 kcal | 22 % |
+| Protéines | 12 g | 23 % |
+| Glucides | 11 g | 4 % |
+| dont sucres | 5,2 g | 6 % |
+| Lipides | 36 g | 51 % |
+| dont acides gras saturés | 22 g | 109 % |
+| Fibres | 12 g | 46 % |
+| Sel | 0,3 g | 4 % |

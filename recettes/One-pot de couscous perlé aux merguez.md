@@ -63,3 +63,18 @@ Tout cuit dans une seule casserole. Le couscous perlé se cuisine comme un risot
 10. En fin de cuisson, ajouter les épinards, couvrir quelques instants pour qu'ils tombent, puis mélanger. Ils doivent garder un peu de tenue.
 11. Ajuster avec un peu de bouillon : la texture doit être celle d'un risotto, ni trop liquide ni trop sèche. Goûter et rectifier.
 12. Servir dans des assiettes creuses avec une cuillère de sauce au yaourt, un filet d'huile d'olive, de la coriandre et une pincée de zaatar.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 630 kcal | 32 % |
+| Protéines | 25 g | 51 % |
+| Glucides | 48 g | 19 % |
+| dont sucres | 9,2 g | 10 % |
+| Lipides | 35 g | 50 % |
+| dont acides gras saturés | 12 g | 62 % |
+| Fibres | 7,8 g | 31 % |
+| Sel | 4,7 g | 78 % |

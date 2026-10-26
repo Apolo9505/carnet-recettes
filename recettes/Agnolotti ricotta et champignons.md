@@ -70,3 +70,18 @@ Des pâtes farcies maison au pliage simple et rapide : de petits points de farce
 11. Cuire les agnolotti **2 minutes maximum** dans l'eau salée bouillante. Dès qu'ils remontent, les mettre dans la poêle.
 12. Ajouter un peu d'eau de cuisson, saler, poivrer, et mélanger jusqu'à une sauce nappante.
 13. Servir aussitôt dans des assiettes chaudes, avec la sauce, les chanterelles, la sauge et beaucoup de parmesan.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 637 kcal | 32 % |
+| Protéines | 25 g | 51 % |
+| Glucides | 60 g | 23 % |
+| dont sucres | 4,1 g | 5 % |
+| Lipides | 32 g | 45 % |
+| dont acides gras saturés | 16 g | 81 % |
+| Fibres | 3,2 g | 13 % |
+| Sel | 1,7 g | 28 % |

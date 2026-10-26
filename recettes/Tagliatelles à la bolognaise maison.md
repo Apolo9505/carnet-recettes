@@ -74,3 +74,18 @@ Le vrai ragù alla bolognese, qui n'est pas une sauce tomate : c'est la viande q
 16. Mettre quelques louches de sauce dans une poêle. Cuire les tagliatelles 3 à 4 minutes dans une eau bien salée, en les plongeant petit à petit.
 17. Ajouter un peu d'eau de cuisson dans la sauce, puis les tagliatelles égouttées à la pince, et beaucoup de parmesan râpé. Mélanger vigoureusement.
 18. Dresser en nids (en les enroulant dans une louche), napper généreusement de sauce, finir avec un filet d'huile d'olive et du parmesan. Servir immédiatement.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 895 kcal | 45 % |
+| Protéines | 48 g | 96 % |
+| Glucides | 69 g | 27 % |
+| dont sucres | 4,8 g | 5 % |
+| Lipides | 45 g | 64 % |
+| dont acides gras saturés | 17 g | 83 % |
+| Fibres | 4,8 g | 19 % |
+| Sel | 3,9 g | 66 % |

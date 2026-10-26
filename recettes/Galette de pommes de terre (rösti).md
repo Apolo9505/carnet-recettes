@@ -57,3 +57,18 @@ Une grande galette de pommes de terre râpées en julienne, cuite doucement au b
 **Le service**
 
 12. Servir nature avec une salade, ou couper en quartiers et garnir chaque part de crème fraîche, d'une petite cuillère d'œufs de truite et de ciboulette ciselée.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 309 kcal | 15 % |
+| Protéines | 3,4 g | 7 % |
+| Glucides | 25 g | 9 % |
+| dont sucres | 1,4 g | 2 % |
+| Lipides | 21 g | 30 % |
+| dont acides gras saturés | 14 g | 70 % |
+| Fibres | 2,7 g | 11 % |
+| Sel | 1,0 g | 17 % |

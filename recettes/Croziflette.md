@@ -43,3 +43,18 @@ La cousine de la tartiflette, avec des crozets (petites pâtes carrées de Savoi
 8. Verser la sauce chaude sur les crozets et bien mélanger pour qu'ils soient tous enrobés.
 9. Poivrer généreusement, puis poser les reblochons dessus (coupés en deux dans l'épaisseur, croûte vers le haut, ou en lamelles). Ajouter un trait de vin si besoin.
 10. Enfourner 15 à 20 minutes, jusqu'à une belle croûte gratinée. Servir bien chaud.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1203 kcal | 60 % |
+| Protéines | 54 g | 108 % |
+| Glucides | 71 g | 27 % |
+| dont sucres | 4,1 g | 5 % |
+| Lipides | 77 g | 109 % |
+| dont acides gras saturés | 48 g | 238 % |
+| Fibres | 5,2 g | 21 % |
+| Sel | 3,9 g | 64 % |

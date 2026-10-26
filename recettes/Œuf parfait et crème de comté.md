@@ -41,3 +41,18 @@ Une entrée réconfortante avec des produits simples : un œuf parfait (cuit 45 
 5. Baisser le feu, ajouter le vin blanc et mixer au mixeur plongeant pour lisser et émulsionner. Laisser réduire quelques minutes si besoin, puis passer au tamis.
 6. Retirer la croûte du pain de mie, le couper en mouillettes et les toaster au beurre (ou au grille-pain).
 7. Dans une assiette creuse, casser l'œuf parfait, l'entourer de crème de comté, couvrir généreusement de ciboulette et servir avec les mouillettes.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 464 kcal | 23 % |
+| Protéines | 18 g | 36 % |
+| Glucides | 17 g | 7 % |
+| dont sucres | 3,6 g | 4 % |
+| Lipides | 35 g | 50 % |
+| dont acides gras saturés | 21 g | 106 % |
+| Fibres | 1,4 g | 6 % |
+| Sel | 0,8 g | 13 % |

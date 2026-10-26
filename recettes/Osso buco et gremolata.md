@@ -69,3 +69,18 @@ Des jarrets de veau farinés, saisis au beurre, puis braisés 1 h 30 au four dan
 
 10. Facultatif : retirer les jarrets et faire réduire la sauce d'au moins un tiers à feu vif, en remuant.
 11. Dresser les tagliatelles avec du parmesan, poser un jarret, napper d'une grosse louche de sauce et ajouter quelques touches de gremolata.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 1048 kcal | 52 % |
+| Protéines | 69 g | 138 % |
+| Glucides | 87 g | 33 % |
+| dont sucres | 9,3 g | 10 % |
+| Lipides | 44 g | 62 % |
+| dont acides gras saturés | 14 g | 69 % |
+| Fibres | 8,7 g | 35 % |
+| Sel | 3,4 g | 56 % |

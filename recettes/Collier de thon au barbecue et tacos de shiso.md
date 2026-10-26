@@ -41,3 +41,18 @@ Le collier, la pièce que les poissonniers et les chefs se gardent : cuit au bar
 3. Laquer le collier cuit avec le miel fermenté.
 4. Le parsemer d'herbes et de fleurs et le servir sur la table avec les feuilles de shiso, la mayonnaise et l'harissa.
 5. Chacun se fait un taco : une feuille de shiso, du thon effiloché (la partie ventrèche est plus grasse, la partie longe plus confite), un peu de mayonnaise, d'harissa, de cébette ou de concombre.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 383 kcal | 19 % |
+| Protéines | 38 g | 76 % |
+| Glucides | 12 g | 5 % |
+| dont sucres | 10 g | 11 % |
+| Lipides | 20 g | 29 % |
+| dont acides gras saturés | 2,9 g | 15 % |
+| Fibres | 0,8 g | 3 % |
+| Sel | 0,5 g | 8 % |

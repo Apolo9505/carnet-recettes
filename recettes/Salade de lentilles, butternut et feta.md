@@ -66,3 +66,18 @@ Une salade complète qui se mange froide ou tiède : des lentilles vertes encore
 10. Dans un saladier, mettre les lentilles, la butternut, la feta, la ciboulette, l'échalote et une partie des sardines. Garder une sardine par personne pour le service.
 11. Verser la vinaigrette et mélanger délicatement pour ne pas écraser les ingrédients.
 12. Servir avec une sardine sur chaque assiette, un filet d'huile d'olive et de la ciboulette.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 633 kcal | 32 % |
+| Protéines | 26 g | 52 % |
+| Glucides | 42 g | 16 % |
+| dont sucres | 7,4 g | 8 % |
+| Lipides | 37 g | 52 % |
+| dont acides gras saturés | 12 g | 60 % |
+| Fibres | 15 g | 59 % |
+| Sel | 2,2 g | 37 % |

@@ -64,3 +64,18 @@ Une soupe froide andalouse moins connue que le gaspacho. On mixe du pain rassis,
 **Le service**
 
 9. Verser la soupe bien froide dans des assiettes creuses. Ajouter le sésame, les pickles de groseilles, les coques ou les moules si on en met, la ciboulette et un filet d'huile d'olive.
+
+## 5. Valeurs nutritionnelles (estimation)
+
+Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
+
+| | Par portion | % apports journaliers |
+|---|---|---|
+| Énergie | 755 kcal | 38 % |
+| Protéines | 17 g | 34 % |
+| Glucides | 37 g | 14 % |
+| dont sucres | 12 g | 13 % |
+| Lipides | 57 g | 81 % |
+| dont acides gras saturés | 6,2 g | 31 % |
+| Fibres | 11 g | 44 % |
+| Sel | 1,8 g | 29 % |
