@@ -1,0 +1,94 @@
+# Configuration de l'éditeur en ligne (Sveltia CMS)
+# Dépôt GitHub : Apolo9505/carnet-recettes
+backend:
+  name: github
+  repo: Apolo9505/carnet-recettes
+  branch: main
+  commit_messages:
+    create: "Nouvelle recette : {{slug}}"
+    update: "Modification : {{slug}}"
+    delete: "Suppression : {{slug}}"
+    uploadMedia: "Photo : {{path}}"
+
+media_folder: images/uploads
+public_folder: images/uploads
+locale: fr
+
+collections:
+  - name: recettes
+    label: Recettes
+    label_singular: Recette
+    folder: recettes
+    extension: md
+    format: frontmatter
+    create: true
+    delete: true
+    identifier_field: titre
+    slug: "{{titre}}"
+    summary: "{{titre}}"
+    sortable_fields: [titre, categorie]
+    view_groups:
+      - {label: Catégorie, field: categorie}
+    fields:
+      - {label: Titre, name: titre, widget: string}
+      - label: Catégorie
+        name: categorie
+        widget: select
+        options:
+          - {label: "Entrées", value: "Entrée"}
+          - {label: "Salades", value: "Salade"}
+          - {label: "Soupes", value: "Soupe"}
+          - {label: "Italie", value: "Italien"}
+          - {label: "Méditerranée", value: "Mediterranéen"}
+          - {label: "Asie", value: "Asiat"}
+          - {label: "Inde", value: "Indien"}
+          - {label: "Plats mijotés", value: "Plat en sauce"}
+          - {label: "Plats au four", value: "Plat au four"}
+          - {label: "À la poêle", value: "Plat à la poelle"}
+          - {label: "Street-food", value: "Street-food"}
+          - {label: "Accompagnements", value: "Accompagnement"}
+          - {label: "Sauces & condiments", value: "Sauce et condiment"}
+          - {label: "Desserts", value: "Dessert"}
+      - label: Saison
+        name: saison
+        widget: select
+        default: toute saison
+        options: [printemps, été, automne-hiver, toute saison]
+      - label: Temps (préparation + cuisson, sans le repos)
+        name: temps
+        widget: select
+        options:
+          - "< 30 min"
+          - "< 30 min (repos < 3 h)"
+          - "< 30 min (repos 1 nuit)"
+          - "30 min – 1 h"
+          - "30 min – 1 h (repos < 3 h)"
+          - "30 min – 1 h (repos 1 nuit)"
+          - "1 h – 2 h"
+          - "1 h – 2 h (repos < 3 h)"
+          - "1 h – 2 h (repos 1 nuit)"
+          - "2 h +"
+          - "2 h + (repos < 3 h)"
+          - "2 h + (repos 1 nuit)"
+      - {label: Végétarien, name: vegetarien, widget: boolean, default: false}
+      - {label: Photo, name: image, widget: image, required: false}
+      - {label: Lien de la vidéo, name: video, widget: string, required: false, hint: "Lien YouTube, avec &t=…s si la vidéo contient plusieurs recettes"}
+      - {label: Source, name: source, widget: select, options: ["Whoogy's", Perso], default: Perso}
+      - label: Recette
+        name: body
+        widget: markdown
+        default: |
+          ## 1. Vidéo
+
+          ## 2. Présentation
+
+          - **Portions :**
+          - **Temps :**
+
+          ## 3. Ingrédients
+
+          - 
+
+          ## 4. Étapes
+
+          1. 
