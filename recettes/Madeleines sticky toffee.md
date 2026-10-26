@@ -21,6 +21,7 @@ Le sticky toffee pudding anglais, en version individuelle comme chez le chef lon
 
 - **Portions :** environ 6 à 8 personnes (estimation)
 - **Temps :** environ 1 h
+- **Calories :** environ 746 kcal par portion
 
 ## 3. Ingrédients
 
@@ -68,8 +69,6 @@ Le sticky toffee pudding anglais, en version individuelle comme chez le chef lon
 10. Napper généreusement de sauce caramel chaude et finir avec une pincée de fleur de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

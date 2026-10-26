@@ -19,6 +19,7 @@ Une huile d'un vert intense, parfumée à l'aneth, pour finir les plats : carpac
 
 - **Quantité :** environ 50 cl
 - **Temps :** environ 30 min (dont le filtrage)
+- **Calories :** environ 90 kcal pour 1 c. à soupe (environ 10 g)
 
 ## 3. Ingrédients
 
@@ -35,8 +36,6 @@ Une huile d'un vert intense, parfumée à l'aneth, pour finir les plats : carpac
 5. Conserver dans un flacon pipette hermétique : quelques semaines à température ambiante, ou plus longtemps au frigo.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 c. à soupe (environ 10 g). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ La « crado » des pâtes romaines, qui réunit amatriciana et carbonara : guanc
 
 - **Portions :** 2 personnes
 - **Temps :** environ 30 min
+- **Calories :** environ 1207 kcal par portion
 
 ## 3. Ingrédients
 
@@ -56,8 +57,6 @@ La « crado » des pâtes romaines, qui réunit amatriciana et carbonara : guanc
 13. Servir immédiatement, avec encore du pecorino râpé par-dessus.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

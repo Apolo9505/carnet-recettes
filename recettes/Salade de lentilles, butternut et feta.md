@@ -19,6 +19,7 @@ Une salade complète qui se mange froide ou tiède : des lentilles vertes encore
 
 - **Portions :** 4 personnes
 - **Temps :** environ 35 min
+- **Calories :** environ 633 kcal par portion
 
 ## 3. Ingrédients
 
@@ -68,8 +69,6 @@ Une salade complète qui se mange froide ou tiède : des lentilles vertes encore
 12. Servir avec une sardine sur chaque assiette, un filet d'huile d'olive et de la ciboulette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

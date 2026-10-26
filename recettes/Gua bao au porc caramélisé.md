@@ -19,6 +19,7 @@ Les petits pains briochés cuits à la vapeur de la street-food taïwanaise, fai
 
 - **Portions :** environ 12 baos
 - **Temps :** environ 4 h, dont 2 h de mijotage et 1 h 30 à 2 h de pousse (on peut préparer le porc et les pickles la veille)
+- **Calories :** environ 1297 kcal pour 3 baos garnis (recette pour 12)
 
 ## 3. Ingrédients
 
@@ -120,8 +121,6 @@ Les petits pains briochés cuits à la vapeur de la street-food taïwanaise, fai
 22. Garnir chaque bao avec deux tranches de porc, de la coriandre, des pickles, de la poudre de cacahuètes et un trait de mayo spicy.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 3 baos garnis (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

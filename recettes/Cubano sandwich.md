@@ -21,6 +21,7 @@ Le sandwich cubain de Miami, cuit pressé. Une échine de porc est marinée une 
 
 - **Portions :** 2 grands sandwichs ou 4 individuels (avec du porc en plus)
 - **Temps :** environ 1 h 30 de travail, une nuit de marinade, 5 h de four, 2 h 30 de pousse
+- **Calories :** environ 1003 kcal par portion
 
 ## 3. Ingrédients
 
@@ -84,8 +85,6 @@ Le sandwich cubain de Miami, cuit pressé. Une échine de porc est marinée une 
 14. Couper en deux en diagonale.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

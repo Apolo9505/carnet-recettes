@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.*
 
+- **Calories :** environ 319 kcal par portion
+
 ## Ingrédients
 - 200 g de sucre blanc
 - 4 œufs
@@ -25,8 +27,6 @@ source: Perso
 4. Laisser refroidir 10 min, démouler sur une assiette, puis mettre au frais.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un pesto inspiré du pesto alla genovese, fait au mortier avec de l'ail, des pig
 
 - **Portions :** 4 personnes
 - **Temps :** environ 10 à 15 min
+- **Calories :** environ 637 kcal par portion
 
 ## 3. Ingrédients
 
@@ -56,8 +57,6 @@ Un pesto inspiré du pesto alla genovese, fait au mortier avec de l'ail, des pig
 > **Variantes :** remplacer une partie du basilic par de la roquette, des épinards ou de l'ail des ours.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

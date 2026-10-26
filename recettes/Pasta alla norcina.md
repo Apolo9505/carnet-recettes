@@ -19,6 +19,7 @@ Des pâtes d'hiver très réconfortantes. On fait caraméliser longuement de la 
 
 - **Portions :** 4 à 5 personnes
 - **Temps :** environ 35 min
+- **Calories :** environ 694 kcal par portion
 
 ## 3. Ingrédients
 
@@ -46,8 +47,6 @@ Des pâtes d'hiver très réconfortantes. On fait caraméliser longuement de la 
 10. Servir aussitôt dans des assiettes creuses, avec un peu de truffe râpée si on en a.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Des pavlovas individuelles pour finir le repas sur une note fraîche : une merin
 
 - **Portions :** environ 6 pavlovas (estimation)
 - **Temps :** environ 40 min de préparation, 1 h 15 de cuisson des meringues, et au moins 2 h au frais pour les poires
+- **Calories :** environ 361 kcal par portion
 
 ## 3. Ingrédients
 
@@ -71,8 +72,6 @@ Des pavlovas individuelles pour finir le repas sur une note fraîche : une merin
 9. Ajouter une quenelle de glace (faite avec une cuillère chaude), puis coiffer de crème montée. Servir aussitôt.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

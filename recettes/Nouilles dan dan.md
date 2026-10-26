@@ -19,6 +19,7 @@ Un plat de nouilles du Sichuan. La sauce, onctueuse et pimentée, est à base de
 
 - **Portions :** 2 à 3 personnes
 - **Temps :** environ 20 min
+- **Calories :** environ 777 kcal par portion
 
 ## 3. Ingrédients (pour 2 à 3 personnes)
 
@@ -65,8 +66,6 @@ Un plat de nouilles du Sichuan. La sauce, onctueuse et pimentée, est à base de
 13. Ajouter la viande chaude, beaucoup de vert de ciboule et les cacahuètes.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Un gâteau aux pommes moelleux à la cannelle, couvert d'un crumble en gros morc
 
 - **Portions :** 8 personnes (estimation, un moule d'environ 24 cm)
 - **Temps :** environ 1 h 15, plus le refroidissement de la crème anglaise
+- **Calories :** environ 623 kcal par portion
 
 ## 3. Ingrédients
 
@@ -81,8 +82,6 @@ Un gâteau aux pommes moelleux à la cannelle, couvert d'un crumble en gros morc
 13. Servir une part de gâteau avec **beaucoup** de crème anglaise froide (filtrée si on veut retirer la gousse).
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

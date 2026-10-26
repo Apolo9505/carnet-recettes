@@ -21,6 +21,7 @@ Des pâtes farcies maison au pliage simple et rapide : de petits points de farce
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 1 h 30, dont 1 h de repos de la pâte
+- **Calories :** environ 637 kcal par portion
 
 ## 3. Ingrédients
 
@@ -72,8 +73,6 @@ Des pâtes farcies maison au pliage simple et rapide : de petits points de farce
 13. Servir aussitôt dans des assiettes chaudes, avec la sauce, les chanterelles, la sauge et beaucoup de parmesan.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

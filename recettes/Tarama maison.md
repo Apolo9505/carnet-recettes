@@ -21,6 +21,7 @@ Un tarama fait maison, bien plus pâle que celui du commerce et beaucoup moins c
 
 - **Portions :** 4 à 6 personnes à l'apéritif (estimation)
 - **Temps :** environ 15 min
+- **Calories :** environ 384 kcal par portion
 
 ## 3. Ingrédients
 
@@ -41,8 +42,6 @@ Un tarama fait maison, bien plus pâle que celui du commerce et beaucoup moins c
 5. Servir bien frais dans un ramequin, avec un filet d'huile d'olive et du pain tout juste grillé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Le burger classique, fait de A à Z : des buns briochés maison (une recette plu
 
 - **Portions :** 6 à 7 burgers (avec des buns de 90 g)
 - **Temps :** environ 1 h de préparation, 2 h 30 de pousse
+- **Calories :** environ 782 kcal par portion
 
 ## 3. Ingrédients
 
@@ -74,8 +75,6 @@ Le burger classique, fait de A à Z : des buns briochés maison (une recette plu
 13. Monter : sauce sur le bun, salade, tomate assaisonnée, steak, cornichons, sauce sous le chapeau. Écraser légèrement et servir.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

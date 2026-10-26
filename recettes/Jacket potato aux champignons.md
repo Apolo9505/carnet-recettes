@@ -21,6 +21,7 @@ L'institution britannique, la pomme de terre « en veste » : une grosse bintje 
 
 - **Portions :** 4 personnes
 - **Temps :** environ 1 h 15 (dont 40 min à 1 h de four)
+- **Calories :** environ 560 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ L'institution britannique, la pomme de terre « en veste » : une grosse bintje 
 5. Inciser les pommes de terre au centre, écraser un peu la chair, puis garnir de crème de champignons, de champignons rôtis, de pickles d'échalotes, de parmesan et de ciboulette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

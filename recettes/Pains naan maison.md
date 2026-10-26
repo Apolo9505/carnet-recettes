@@ -19,6 +19,7 @@ Des pains plats indiens très moelleux grâce au yaourt grec, cuits à la poêle
 
 - **Portions :** 6 à 8 naans
 - **Temps :** environ 20 min de travail, 1 h à 1 h 30 de pousse, et environ 3 min de cuisson par naan
+- **Calories :** environ 253 kcal pour 1 naan (recette pour 7)
 
 ## 3. Ingrédients
 
@@ -65,8 +66,6 @@ Des pains plats indiens très moelleux grâce au yaourt grec, cuits à la poêle
 14. Badigeonner les naans chauds au pinceau.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 naan (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

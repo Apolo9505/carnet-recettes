@@ -19,6 +19,7 @@ Des falafels croustillants dehors et moelleux dedans, très verts grâce à beau
 
 - **Portions :** environ 20 falafels
 - **Temps :** 12 h de trempage, puis environ 45 min
+- **Calories :** environ 450 kcal pour 5 falafels et un peu de sauce (recette pour 20)
 
 ## 3. Ingrédients
 
@@ -74,8 +75,6 @@ Des falafels croustillants dehors et moelleux dedans, très verts grâce à beau
 13. Servir chaud avec la sauce, un quartier de citron et un filet d'huile d'olive.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 5 falafels et un peu de sauce (recette pour 20). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

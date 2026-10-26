@@ -21,6 +21,7 @@ Un grand carpaccio de saumon à partager, en tranches plutôt épaisses pour gar
 
 - **Portions :** 6 personnes en entrée (estimation)
 - **Temps :** environ 40 min
+- **Calories :** environ 310 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ Un grand carpaccio de saumon à partager, en tranches plutôt épaisses pour gar
 7. Finir avec un peu de piment d'Espelette et un filet de jus de citron.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un dahl vegan et réconfortant, cuit dans une seule cocotte. On fait revenir de 
 
 - **Portions :** 4 personnes
 - **Temps :** environ 35 min
+- **Calories :** environ 624 kcal par portion
 
 ## 3. Ingrédients
 
@@ -54,8 +55,6 @@ Un dahl vegan et réconfortant, cuit dans une seule cocotte. On fait revenir de 
 10. Servir le dahl bien chaud dans des assiettes creuses, avec un filet d'huile pimentée, beaucoup de coriandre et du riz ou un naan.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

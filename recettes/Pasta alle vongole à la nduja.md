@@ -19,6 +19,7 @@ Des spaghetti aux palourdes ouvertes au vin blanc, avec ail et persil. L'« ingr
 
 - **Portions :** 4 personnes
 - **Temps :** environ 20 min, plus 1 h environ pour dégorger les palourdes
+- **Calories :** environ 510 kcal par portion
 
 ## 3. Ingrédients
 
@@ -56,8 +57,6 @@ Des spaghetti aux palourdes ouvertes au vin blanc, avec ail et persil. L'« ingr
 13. Dresser en nids, ajouter les palourdes entières, napper de sauce et finir avec un filet d'huile d'olive. Servir bien chaud.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

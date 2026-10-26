@@ -19,6 +19,7 @@ Un ragoût d'agneau de printemps, idéal pour Pâques. L'épaule désossée est 
 
 - **Portions :** 4 à 6 personnes (estimation)
 - **Temps :** environ 45 min de préparation et 2 h 30 de four
+- **Calories :** environ 672 kcal par portion
 
 ## 3. Ingrédients
 
@@ -55,8 +56,6 @@ Un ragoût d'agneau de printemps, idéal pour Pâques. L'épaule désossée est 
 13. Servir dans des assiettes creuses : viande, pommes de terre, navets, carottes, pois gourmands, et beaucoup de sauce.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

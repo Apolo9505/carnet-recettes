@@ -23,6 +23,7 @@ Un tartare prêt en sept minutes, avec la chair grattée entre les arêtes du th
 
 - **Portions :** 2 personnes en entrée (estimation)
 - **Temps :** environ 10 min (l'eau de tomate préparée à l'avance)
+- **Calories :** environ 230 kcal par portion
 
 ## 3. Ingrédients
 
@@ -41,8 +42,6 @@ Un tartare prêt en sept minutes, avec la chair grattée entre les arêtes du th
 4. Verser l'eau de tomate autour, ajouter quelques perles d'huile pimentée et servir aussitôt.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

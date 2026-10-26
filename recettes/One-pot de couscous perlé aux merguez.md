@@ -19,6 +19,7 @@ Tout cuit dans une seule casserole. Le couscous perlé se cuisine comme un risot
 
 - **Portions :** 2 à 3 personnes
 - **Temps :** environ 20 min
+- **Calories :** environ 630 kcal par portion
 
 ## 3. Ingrédients
 
@@ -65,8 +66,6 @@ Tout cuit dans une seule casserole. Le couscous perlé se cuisine comme un risot
 12. Servir dans des assiettes creuses avec une cuillère de sauce au yaourt, un filet d'huile d'olive, de la coriandre et une pincée de zaatar.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un curry express et très simple, tout fait dans une seule sauteuse. On saisit l
 
 - **Portions :** 4 personnes
 - **Temps :** environ 30 min
+- **Calories :** environ 690 kcal par portion
 
 ## 3. Ingrédients (pour 4 personnes)
 
@@ -63,8 +64,6 @@ Un curry express et très simple, tout fait dans une seule sauteuse. On saisit l
 12. Ajouter du basilic frais et un quartier de citron vert.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

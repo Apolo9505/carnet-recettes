@@ -19,6 +19,7 @@ Une version plus ancienne du gravlax. Un filet de saumon est mariné 24 heures s
 
 - **Portions :** 8 à 10 personnes (un filet entier, estimation)
 - **Temps :** environ 1 h, plus 24 h de marinade (à préparer la veille)
+- **Calories :** environ 437 kcal par portion
 
 ## 3. Ingrédients
 
@@ -69,8 +70,6 @@ Une version plus ancienne du gravlax. Un filet de saumon est mariné 24 heures s
 10. Sur chaque blini (éventuellement toasté) : une cuillère de crème, une tranche de saumon, quelques pluches d'aneth et un peu de zeste de citron.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 9). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

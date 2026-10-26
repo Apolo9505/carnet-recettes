@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion (recette d'origine en portugais, traduite).*
 
+- **Calories :** environ 739 kcal par portion
+
 ## Ingrédients
 - Poulet
 - Lait de coco
@@ -27,8 +29,6 @@ source: Perso
 4. Verser la sauce sur le poulet.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

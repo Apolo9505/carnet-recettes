@@ -21,6 +21,7 @@ Une des salades d'été préférées de Hugo, un peu plus travaillée : des quar
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 40 min
+- **Calories :** environ 366 kcal par portion
 
 ## 3. Ingrédients
 
@@ -49,8 +50,6 @@ Une des salades d'été préférées de Hugo, un peu plus travaillée : des quar
 5. Dresser : le boulgour, les aubergines, les pois chiches, beaucoup de sauce, les grains de grenade, la coriandre et un filet d'huile d'olive.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

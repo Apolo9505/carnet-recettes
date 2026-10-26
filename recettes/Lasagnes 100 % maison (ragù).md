@@ -19,6 +19,7 @@ Des lasagnes du dimanche, faites entièrement maison, en trois préparations. Le
 
 - **Portions :** 8 personnes
 - **Temps :** environ 4 h (dont 1 h de repos de la pâte, le mijotage du ragù et 30 à 45 min de four)
+- **Calories :** environ 1128 kcal par portion
 
 ## 3. Ingrédients
 
@@ -91,8 +92,6 @@ Des lasagnes du dimanche, faites entièrement maison, en trois préparations. Le
 22. Couper en parts avec une large spatule pour garder les étages intacts.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

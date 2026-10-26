@@ -19,6 +19,7 @@ Des udon enrobés d'une sauce crue au beurre de cacahuète, sauce soja, huile pi
 
 - **Portions :** 2 bols
 - **Temps :** environ 15 min
+- **Calories :** environ 376 kcal par portion
 
 ## 3. Ingrédients
 
@@ -44,8 +45,6 @@ Des udon enrobés d'une sauce crue au beurre de cacahuète, sauce soja, huile pi
 8. Bien mélanger pour enrober, ajouter une à deux cuillères d'huile pimentée, du sésame et un petit tas de cébette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

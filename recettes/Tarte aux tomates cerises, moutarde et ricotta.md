@@ -19,6 +19,7 @@ Une version élégante de la tarte à la tomate familiale. Sur une pâte feuille
 
 - **Portions :** 4 personnes
 - **Temps :** environ 10 min de préparation et 25 min de four
+- **Calories :** environ 333 kcal par portion
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ Une version élégante de la tarte à la tomate familiale. Sur une pâte feuille
 10. Servir avec de la roquette assaisonnée de vinaigre balsamique, d'huile d'olive et de fleur de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

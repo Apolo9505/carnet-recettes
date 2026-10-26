@@ -21,6 +21,7 @@ Un dessert gourmand mais léger, peu sucré : une ganache au chocolat noir parfu
 
 - **Portions :** environ 6 personnes (estimation)
 - **Temps :** environ 1 h, plus le temps de prise de la ganache et de refroidissement des poires
+- **Calories :** environ 650 kcal par portion
 
 ## 3. Ingrédients
 
@@ -79,8 +80,6 @@ Un dessert gourmand mais léger, peu sucré : une ganache au chocolat noir parfu
 13. Finir avec une tuile ou des éclats de tuile.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

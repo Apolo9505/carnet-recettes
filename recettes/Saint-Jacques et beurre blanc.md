@@ -19,6 +19,7 @@ Une entrée de fête : des noix de Saint-Jacques saisies (dorées dehors, nacré
 
 - **Portions :** 4 personnes
 - **Temps :** environ 45 min
+- **Calories :** environ 558 kcal par portion
 
 ## 3. Ingrédients
 
@@ -70,8 +71,6 @@ Une entrée de fête : des noix de Saint-Jacques saisies (dorées dehors, nacré
 12. Finir avec quelques gouttes d'huile verte et un peu de cressonnette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

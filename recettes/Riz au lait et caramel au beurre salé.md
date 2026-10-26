@@ -21,6 +21,7 @@ Un riz au lait crémeux à la vanille et à la cannelle, retiré du feu quand il
 
 - **Portions :** 6 à 8 personnes (estimation)
 - **Temps :** environ 1 h, plus le refroidissement
+- **Calories :** environ 438 kcal par portion
 
 ## 3. Ingrédients
 
@@ -59,8 +60,6 @@ Un riz au lait crémeux à la vanille et à la cannelle, retiré du feu quand il
 9. Réchauffer légèrement le riz pour le servir tiède dans de petits bols, avec un filet de caramel (à la poche ou à la cuillère) et une pincée de fleur de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

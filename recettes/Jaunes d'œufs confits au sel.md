@@ -21,6 +21,7 @@ Des jaunes d'œufs enfouis 48 heures dans un mélange sel-sucre-piment, puis sé
 
 - **Portions :** 2 jaunes (on peut en faire 10 d'un coup)
 - **Temps :** 5 min de préparation, 48 h au frais, puis 1 h de séchage au four
+- **Calories :** environ 59 kcal pour 1 jaune confit
 
 ## 3. Ingrédients
 
@@ -55,8 +56,6 @@ Des jaunes d'œufs enfouis 48 heures dans un mélange sel-sucre-piment, puis sé
 9. Dresser en nid (en enroulant les pâtes dans une louche), verser un peu de sauce et râper le jaune confit par-dessus.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 jaune confit. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

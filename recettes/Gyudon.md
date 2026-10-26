@@ -19,6 +19,7 @@ Un bol de riz japonais garni de bœuf en tranches très fines et d'oignons mijot
 
 - **Portions :** 2 personnes
 - **Temps :** environ 25 min
+- **Calories :** environ 949 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ Un bol de riz japonais garni de bœuf en tranches très fines et d'oignons mijot
 9. Dans un bol, mettre le riz, une montagne de bœuf et d'oignons, l'œuf onsen écalé, puis un peu de bouillon.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

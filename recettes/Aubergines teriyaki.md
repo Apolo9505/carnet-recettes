@@ -21,6 +21,7 @@ Une recette végétarienne que Hugo fait chaque semaine en été (déjà dans le
 
 - **Portions :** 2 personnes
 - **Temps :** environ 50 min (dont 30 à 40 min de four)
+- **Calories :** environ 475 kcal par portion
 
 ## 3. Ingrédients
 
@@ -43,8 +44,6 @@ Une recette végétarienne que Hugo fait chaque semaine en été (déjà dans le
 6. Servir sur une montagne de riz blanc, avec de la cébette ciselée et du sésame.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

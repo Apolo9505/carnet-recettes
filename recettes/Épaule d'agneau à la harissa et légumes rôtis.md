@@ -21,6 +21,7 @@ Une épaule d'agneau marinée à la harissa fumée et aux épices (coriandre, fe
 
 - **Portions :** 6 à 8 personnes (une épaule ; en prendre deux pour une grande tablée)
 - **Temps :** environ 45 min de préparation, 5 à 6 h de cuisson au four (marinade de 30 min à une nuit)
+- **Calories :** environ 712 kcal par portion
 
 ## 3. Ingrédients
 
@@ -90,8 +91,6 @@ Une épaule d'agneau marinée à la harissa fumée et aux épices (coriandre, fe
 11. Dans un grand plat, mettre les légumes rôtis de chaque côté et l'agneau au centre, avec un peu de jus et de légumes de cuisson. Servir la sauce au yaourt froide à côté.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

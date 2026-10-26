@@ -23,6 +23,7 @@ La tatin du chef William Lamagnère : les pommes sont taillées en longues bande
 
 - **Portions :** 8 personnes (estimation)
 - **Temps :** environ 45 min de préparation, 2 h 25 de cuisson au four, puis refroidissement
+- **Calories :** environ 381 kcal par portion
 
 ## 3. Ingrédients
 
@@ -62,8 +63,6 @@ La tatin du chef William Lamagnère : les pommes sont taillées en longues bande
 10. Si elle a été faite à l'avance, la réchauffer un peu au four pour la servir tiède, avec de la crème fraîche.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

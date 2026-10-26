@@ -19,6 +19,7 @@ Des spaghetti à la tomate relevés par l'ail, les anchois, les câpres et les o
 
 - **Portions :** 4 personnes
 - **Temps :** environ 20 min
+- **Calories :** environ 441 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ Des spaghetti à la tomate relevés par l'ail, les anchois, les câpres et les o
 12. Servir bien chaud, avec un filet d'huile d'olive et un peu de zeste de citron par-dessus.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ La soupe vietnamienne de nouilles au bœuf. Un bouillon clair est mijoté 8 heur
 
 - **Portions :** 4 personnes, avec du bouillon en plus
 - **Temps :** environ 1 h de préparation, 8 h de mijotage et une nuit au frais
+- **Calories :** environ 488 kcal par portion
 
 ## 3. Ingrédients
 
@@ -66,8 +67,6 @@ La soupe vietnamienne de nouilles au bœuf. Un bouillon clair est mijoté 8 heur
 13. Ajouter l'oignon, la coriandre, le basilic thaï, un piment entier à laisser infuser, la cébette frisée et beaucoup de jus de citron vert.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

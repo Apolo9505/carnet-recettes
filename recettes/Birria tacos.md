@@ -19,6 +19,7 @@ Le birria tacos, découvert par Hugo à Los Angeles et à New York. Du paleron m
 
 - **Portions :** 15 tacos
 - **Temps :** environ 1 h de préparation et 4 à 5 h de four
+- **Calories :** environ 846 kcal pour 3 tacos (recette pour 15)
 
 ## 3. Ingrédients
 
@@ -76,8 +77,6 @@ Le birria tacos, découvert par Hugo à Los Angeles et à New York. Du paleron m
 13. Servir le jus de cuisson (en prenant le moins de gras possible) dans un petit bol, avec de l'oignon, de la coriandre et du jus de citron vert. Tremper chaque taco dedans avant de croquer.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 3 tacos (recette pour 15). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

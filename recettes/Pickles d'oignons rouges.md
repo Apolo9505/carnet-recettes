@@ -19,6 +19,7 @@ Le bocal que Hugo a toujours au frigo : des oignons rouges émincés, couverts d
 
 - **Quantité :** 1 à 2 bocaux
 - **Temps :** environ 10 min, puis quelques heures de repos
+- **Calories :** environ 23 kcal pour 30 g de pickles
 
 ## 3. Ingrédients
 
@@ -43,8 +44,6 @@ Le bocal que Hugo a toujours au frigo : des oignons rouges émincés, couverts d
 5. Laisser refroidir à température ambiante, puis conserver au frigo. Ils prennent leur couleur en quelques heures et se gardent des semaines.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 30 g de pickles. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Une épaule d'agneau entière, colorée puis confite 3 h 30 à 4 h à 120 °C da
 
 - **Portions :** 6 personnes environ (une épaule de 2 kg)
 - **Temps :** environ 1 h de préparation et 4 h de four
+- **Calories :** environ 818 kcal par portion
 
 ## 3. Ingrédients
 
@@ -67,8 +68,6 @@ Une épaule d'agneau entière, colorée puis confite 3 h 30 à 4 h à 120 °C da
 14. Dresser : un nid de purée, des morceaux d'agneau effilochés à la cuillère (avec un peu de peau croustillante), beaucoup de sauce et de la ciboulette ciselée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

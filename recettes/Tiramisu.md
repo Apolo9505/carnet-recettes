@@ -19,6 +19,7 @@ Le dessert préféré de Hugo, dans la version de sa compagne belge : une fine c
 
 - **Portions :** un grand plat, environ 10 à 12 personnes (estimation, non précisé dans la vidéo)
 - **Temps :** environ 30 à 40 min de préparation, puis une nuit au frais (ou au moins de la matinée au soir)
+- **Calories :** environ 498 kcal par portion
 
 ## 3. Ingrédients
 
@@ -67,8 +68,6 @@ Le dessert préféré de Hugo, dans la version de sa compagne belge : une fine c
 15. Servir à la spatule ou à la cuillère, en allant bien jusqu'au fond.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 11). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un gaspacho classique avec un petit plus : les tomates sont légèrement brûlé
 
 - **Portions :** 4 personnes
 - **Temps :** environ 20 min de préparation et 2 h de repos au frais (conseillé)
+- **Calories :** environ 226 kcal par portion
 
 ## 3. Ingrédients
 
@@ -51,8 +52,6 @@ Un gaspacho classique avec un petit plus : les tomates sont légèrement brûlé
 9. Servir avec les petits dés de légumes assaisonnés et un filet d'huile d'olive.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

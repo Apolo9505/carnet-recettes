@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Empreinte sucrée](https://empreintesucree.fr/flan-patissier-vanille/)
 
+- **Calories :** environ 483 kcal par portion
+
 ## Ingrédients
 
 **Pâte sucrée**
@@ -50,8 +52,6 @@ source: Perso
 12. Laisser refroidir au moins 3 h avant de retirer le cercle. Conserver au frais et servir à température ambiante.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

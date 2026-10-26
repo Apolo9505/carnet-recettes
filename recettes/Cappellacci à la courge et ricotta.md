@@ -21,6 +21,7 @@ Des pâtes fraîches farcies, très gourmandes. La farce mélange de la butternu
 
 - **Portions :** 4 personnes
 - **Temps :** environ 2 h 30 (dont 1 h de four et 1 h de repos de la pâte, en parallèle)
+- **Calories :** environ 568 kcal par portion
 
 ## 3. Ingrédients
 
@@ -89,8 +90,6 @@ Des pâtes fraîches farcies, très gourmandes. La farce mélange de la butternu
 20. Servir aussitôt dans des assiettes creuses, nappées de sauce, avec du poivre du moulin, du parmesan et quelques noix concassées.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

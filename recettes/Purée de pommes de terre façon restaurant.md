@@ -21,6 +21,7 @@ La purée de restaurant, très riche en beurre, sur le principe de celle de Joë
 
 - **Portions :** 4 à 6 personnes (estimation)
 - **Temps :** environ 45 min
+- **Calories :** environ 546 kcal par portion
 
 ## 3. Ingrédients
 
@@ -40,8 +41,6 @@ La purée de restaurant, très riche en beurre, sur le principe de celle de Joë
 7. Assaisonner : beaucoup de muscade, du poivre blanc, du sel. Servir aussitôt.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

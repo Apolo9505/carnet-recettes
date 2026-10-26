@@ -21,6 +21,7 @@ Un bourguignon pensé pour avoir une sauce de restaurant : onctueuse, brillante,
 
 - **Portions :** 4 personnes
 - **Temps :** environ 1 h de préparation et au moins 3 h 30 de four
+- **Calories :** environ 769 kcal par portion
 
 ## 3. Ingrédients
 
@@ -71,8 +72,6 @@ Un bourguignon pensé pour avoir une sauce de restaurant : onctueuse, brillante,
 15. Servir dans des assiettes chaudes avec une purée, un peu de chaque morceau de viande, la garniture, beaucoup de sauce et du persil.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

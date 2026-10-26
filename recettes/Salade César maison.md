@@ -19,6 +19,7 @@ Une salade César entièrement maison. La sauce est mixée au robot avec des jau
 
 - **Portions :** 4 personnes
 - **Temps :** environ 1 h
+- **Calories :** environ 817 kcal par portion
 
 ## 3. Ingrédients (pour 4 personnes)
 
@@ -91,8 +92,6 @@ Une salade César entièrement maison. La sauce est mixée au robot avec des jau
 16. Dresser en volume. Ajouter des copeaux de parmesan (à l'économe), quelques pickles, de l'aneth, puis le reste des croûtons et du poulet.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

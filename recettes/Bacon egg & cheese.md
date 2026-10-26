@@ -21,6 +21,7 @@ Le sandwich des lendemains difficiles, concurrent du McMuffin : un bun toasté d
 
 - **Portions :** 1 sandwich (à multiplier)
 - **Temps :** environ 15 min
+- **Calories :** environ 630 kcal pour 1 sandwich
 
 ## 3. Ingrédients
 
@@ -39,8 +40,6 @@ Le sandwich des lendemains difficiles, concurrent du McMuffin : un bun toasté d
 4. Monter le sandwich : mayonnaise sriracha, une ou deux tranches de fromage, le bacon, puis l'œuf au plat. Refermer.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 sandwich. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

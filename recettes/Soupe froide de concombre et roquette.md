@@ -19,6 +19,7 @@ Une soupe froide verte, très simple et rapide. Concombre, cébette, roquette et
 
 - **Portions :** 4 personnes
 - **Temps :** environ 10 min
+- **Calories :** environ 147 kcal par portion
 
 ## 3. Ingrédients
 
@@ -42,8 +43,6 @@ Une soupe froide verte, très simple et rapide. Concombre, cébette, roquette et
 6. Servir bien frais, avec quelques glaçons si on la mange tout de suite. Ajouter une cuillère de fromage frais, un filet d'huile d'olive et beaucoup de ciboulette ciselée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

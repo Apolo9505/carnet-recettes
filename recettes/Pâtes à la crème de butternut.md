@@ -19,6 +19,7 @@ La recette la plus vue de la chaîne. On rôtit une butternut au four avec de l'
 
 - **Portions :** 3 à 4 personnes
 - **Temps :** environ 50 min (dont 30 à 40 min de four)
+- **Calories :** environ 488 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ La recette la plus vue de la chaîne. On rôtit une butternut au four avec de l'
 > **Astuce :** cette crème de butternut se garde et s'utilise aussi dans des croque-monsieur ou sur des pizzas.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

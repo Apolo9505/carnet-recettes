@@ -23,6 +23,7 @@ Un tartare végétarien assaisonné comme un tartare de bœuf classique : de la 
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 40 min, plus 1 h de cuisson des betteraves (à faire à l'avance)
+- **Calories :** environ 140 kcal par portion
 
 ## 3. Ingrédients
 
@@ -59,8 +60,6 @@ Un tartare végétarien assaisonné comme un tartare de bœuf classique : de la 
 7. Dresser à l'emporte-pièce sur une assiette, en tassant légèrement. Creuser un petit puits à la cuillère, y poser le jaune d'œuf et finir avec un peu de fleur de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

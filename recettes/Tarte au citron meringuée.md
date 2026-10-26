@@ -21,6 +21,7 @@ La tarte au citron meringuée classique : une pâte sablée à la poudre d'amand
 
 - **Portions :** 8 personnes (estimation)
 - **Temps :** environ 1 h 30, plus 1 à 2 h de repos de la pâte et le temps de prise de la crème
+- **Calories :** environ 522 kcal par portion
 
 ## 3. Ingrédients
 
@@ -72,8 +73,6 @@ La tarte au citron meringuée classique : une pâte sablée à la poudre d'amand
 13. Servir avec quelques zestes de citron.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 8). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

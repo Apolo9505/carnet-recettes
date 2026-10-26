@@ -315,8 +315,6 @@ def recipe_page(r, recipes):
     if repos(r["temps"]):
         chips.append(f'<span class="tag">+ repos {esc(repos(r["temps"]))}</span>')
     chips.append(f'<span class="tag">{esc(r["saison"])}</span>')
-    if kcal(r):
-        chips.append(f'<span class="tag">≈ {kcal(r)} kcal / portion</span>')
     if r.get("vegetarien"):
         chips.append(f'<span class="tag veg">{ICON_LEAF}Végétarien</span>')
     if r.get("source") == "Perso":

@@ -19,6 +19,7 @@ La version de la moussaka du chef. Le plat se monte en couches : une base de pom
 
 - **Portions :** 6 personnes
 - **Temps :** environ 2 h (dont 45 min de four pour la cuisson finale)
+- **Calories :** environ 789 kcal par portion
 
 ## 3. Ingrédients
 
@@ -88,8 +89,6 @@ La version de la moussaka du chef. Le plat se monte en couches : une base de pom
 23. **Laisser reposer 5 à 10 minutes** avant de servir, pour que les parts se tiennent.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

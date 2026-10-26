@@ -21,6 +21,7 @@ Des blinis maison très moelleux, à base de yaourt grec et de blancs montés en
 
 - **Portions :** une trentaine de petits blinis (estimation)
 - **Temps :** environ 45 min, dont 30 min de repos de la pâte
+- **Calories :** environ 300 kcal pour 5 blinis garnis (recette pour 30)
 
 ## 3. Ingrédients
 
@@ -51,8 +52,6 @@ Des blinis maison très moelleux, à base de yaourt grec et de blancs montés en
 6. Garnir les blinis encore tièdes d'une petite quenelle de crème, d'œufs de truite, de zeste de citron, d'une pointe d'aneth, de poivre et de piment d'Espelette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 5 blinis garnis (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ La tourte de pommes de terre du centre de la France (pâté bourbonnais, creusoi
 
 - **Portions :** 6 personnes (estimation)
 - **Temps :** environ 30 min de préparation et 1 h à 1 h 15 de four
+- **Calories :** environ 537 kcal par portion
 
 ## 3. Ingrédients
 
@@ -49,8 +50,6 @@ La tourte de pommes de terre du centre de la France (pâté bourbonnais, creusoi
 9. Couper en parts et servir avec un peu de crème fraîche, chaud ou froid.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

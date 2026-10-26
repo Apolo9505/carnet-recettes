@@ -19,6 +19,7 @@ Le classique américain, végétarien et pas cher. Des coquillettes sous-cuites 
 
 - **Portions :** 6 personnes environ
 - **Temps :** environ 35 min
+- **Calories :** environ 757 kcal par portion
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ Le classique américain, végétarien et pas cher. Des coquillettes sous-cuites 
 9. Passer 5 minutes sous le gril du four, juste pour dorer le dessus. Servir aussitôt.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

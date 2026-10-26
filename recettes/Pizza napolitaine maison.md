@@ -19,6 +19,7 @@ Une vraie pâte napolitaine, légère et pleine d'alvéoles. On met très peu de
 
 - **Portions :** 5 pizzas (pâtons d'environ 250 g)
 - **Temps :** environ 30 min de travail, 24 h + 3 h de fermentation, et 1 à quelques minutes de cuisson par pizza
+- **Calories :** environ 845 kcal pour 1 pizza tomate-mozzarella (recette pour 5)
 
 ## 3. Ingrédients
 
@@ -83,8 +84,6 @@ Une vraie pâte napolitaine, légère et pleine d'alvéoles. On met très peu de
 > **Astuce :** une version de la pâte avec une fermentation plus courte est indiquée dans la description de la vidéo, mais le chef recommande la version longue.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 pizza tomate-mozzarella (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

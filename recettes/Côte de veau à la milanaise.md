@@ -19,6 +19,7 @@ Une version « restaurant » de l'escalope milanaise : une côte de veau avec l'
 
 - **Portions :** 1 à 2 personnes par côte
 - **Temps :** environ 30 min
+- **Calories :** environ 1139 kcal par portion
 
 ## 3. Ingrédients
 
@@ -65,8 +66,6 @@ Une version « restaurant » de l'escalope milanaise : une côte de veau avec l'
 10. Servir avec un demi-citron, de la fleur de sel et une branche de romarin (que l'on peut brûler pour la fumée). Assaisonner la salade et la couvrir de parmesan râpé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

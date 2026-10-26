@@ -19,6 +19,7 @@ Des nems maison avec une farce au porc haché, carotte, oignon, vermicelles de h
 
 - **Portions :** environ 20 nems
 - **Temps :** environ 1 h
+- **Calories :** environ 681 kcal pour 4 nems avec la sauce (recette pour 20)
 
 ## 3. Ingrédients
 
@@ -79,8 +80,6 @@ Des nems maison avec une farce au porc haché, carotte, oignon, vermicelles de h
 15. Servir chaud : enrouler chaque nem dans une feuille de laitue avec de la menthe, puis le tremper dans la sauce.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 4 nems avec la sauce (recette pour 20). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

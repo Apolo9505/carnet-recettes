@@ -19,6 +19,7 @@ Une soupe froide andalouse moins connue que le gaspacho. On mixe du pain rassis,
 
 - **Portions :** 4 personnes
 - **Temps :** environ 20 min, plus le temps au frais
+- **Calories :** environ 755 kcal par portion
 
 ## 3. Ingrédients
 
@@ -66,8 +67,6 @@ Une soupe froide andalouse moins connue que le gaspacho. On mixe du pain rassis,
 9. Verser la soupe bien froide dans des assiettes creuses. Ajouter le sésame, les pickles de groseilles, les coques ou les moules si on en met, la ciboulette et un filet d'huile d'olive.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

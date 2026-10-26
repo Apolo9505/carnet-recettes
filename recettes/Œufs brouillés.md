@@ -21,6 +21,7 @@ De vrais œufs brouillés, onctueux et légers, et pas une omelette ratée en mo
 
 - **Portions :** 1 personne (à multiplier)
 - **Temps :** environ 10 min
+- **Calories :** environ 365 kcal pour 1 assiette (3 œufs)
 
 ## 3. Ingrédients
 
@@ -39,8 +40,6 @@ De vrais œufs brouillés, onctueux et légers, et pas une omelette ratée en mo
 6. Assaisonner de piment d'Espelette, de ciboulette et, si on veut, d'une bonne quantité de parmesan. Manger à la cuillère ou avec du pain.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 assiette (3 œufs). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

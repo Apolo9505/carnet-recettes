@@ -21,6 +21,7 @@ Les frites belges, en double cuisson : un premier bain à 140 °C pour cuire l'i
 
 - **Portions :** 3 à 4 personnes (estimation)
 - **Temps :** environ 45 min
+- **Calories :** environ 426 kcal par portion
 
 ## 3. Ingrédients
 
@@ -39,8 +40,6 @@ Les frites belges, en double cuisson : un premier bain à 140 °C pour cuire l'i
 7. Saler généreusement et servir avec sa sauce préférée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

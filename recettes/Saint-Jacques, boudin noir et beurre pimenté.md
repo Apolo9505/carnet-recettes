@@ -21,6 +21,7 @@ Un terre-mer inspiré du Sargasso, à Margate (Kent) : dans la coquille, une tra
 
 - **Portions :** 4 coquilles (2 personnes en entrée, ou 4 pour une bouchée)
 - **Temps :** environ 40 min
+- **Calories :** environ 532 kcal par portion
 
 ## 3. Ingrédients
 
@@ -57,8 +58,6 @@ Un terre-mer inspiré du Sargasso, à Margate (Kent) : dans la coquille, une tra
 9. Servir aussitôt, en trempant bien la Saint-Jacques et le boudin dans le beurre.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un classique du Sichuan : du porc haché bien grillé, une sauce relevée au dou
 
 - **Portions :** 3 à 4 personnes (estimation)
 - **Temps :** environ 30 min
+- **Calories :** environ 337 kcal par portion
 
 ## 3. Ingrédients
 
@@ -64,8 +65,6 @@ Un classique du Sichuan : du porc haché bien grillé, une sauce relevée au dou
 13. Servir dans des bols, parsemer du vert de ciboule, avec le riz et les concombres saupoudrés de sésame.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

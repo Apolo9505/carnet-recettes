@@ -21,6 +21,7 @@ Un poulet en croûte, inspiré d'un restaurant du Somerset : un blanc de poulet 
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 2 h de préparation (dont plusieurs passages au congélateur), plus le jus de volaille la veille (4 à 5 h de mijotage)
+- **Calories :** environ 898 kcal par portion
 
 ## 3. Ingrédients
 
@@ -92,8 +93,6 @@ Un poulet en croûte, inspiré d'un restaurant du Somerset : un blanc de poulet 
 17. Dans une assiette chaude : une tranche de pithiviers, la purée, une bonne quantité de jus réduit, quelques gouttes d'huile verte, des herbes fraîches (oseille, cerfeuil) et un peu de fleur de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

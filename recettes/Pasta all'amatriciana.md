@@ -19,6 +19,7 @@ La cousine tomatée de la gricia : du guanciale fondu doucement, déglacé au vi
 
 - **Portions :** 4 personnes
 - **Temps :** environ 25 min
+- **Calories :** environ 821 kcal par portion
 
 ## 3. Ingrédients
 
@@ -44,8 +45,6 @@ La cousine tomatée de la gricia : du guanciale fondu doucement, déglacé au vi
 10. Dresser en nids, ajouter un peu de sauce et de guanciale, un filet d'huile d'olive, du poivre et beaucoup de pecorino râpé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

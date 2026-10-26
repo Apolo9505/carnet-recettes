@@ -19,6 +19,7 @@ Des cavatelli, des petites pâtes du sud de l'Italie faites seulement avec de la
 
 - **Portions :** 4 personnes
 - **Temps :** environ 30 min de pétrissage et façonnage, 30 à 60 min de repos, puis 30 min de séchage et 20 min de cuisson
+- **Calories :** environ 701 kcal par portion
 
 ## 3. Ingrédients
 
@@ -86,8 +87,6 @@ Des cavatelli, des petites pâtes du sud de l'Italie faites seulement avec de la
 19. Servir aussitôt dans des assiettes chaudes, avec un filet d'huile d'olive, beaucoup de pangrattato et du parmesan.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

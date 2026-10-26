@@ -19,6 +19,7 @@ Un bloc de feta emballé dans de la pâte filo, nappé de miel et de sésame, pu
 
 - **Portions :** 4 personnes (un demi-bloc par personne)
 - **Temps :** environ 10 min de préparation et 15 à 20 min de four
+- **Calories :** environ 523 kcal par portion
 
 ## 3. Ingrédients (pour 4 personnes)
 
@@ -70,8 +71,6 @@ Un bloc de feta emballé dans de la pâte filo, nappé de miel et de sésame, pu
 12. Servir un demi-bloc de feta par assiette avec la salade, ou toute la feta prédécoupée dans un grand plat à partager. Les bords de la pâte sont croustillants, mais le centre reste moelleux à cause de la feta et du miel : c'est normal.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

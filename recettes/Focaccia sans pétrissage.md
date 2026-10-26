@@ -19,6 +19,7 @@ Une focaccia très aérée et croustillante, sans pétrissage. On mélange à la
 
 - **Portions :** 1 grande focaccia (environ 8 sandwichs)
 - **Temps :** environ 15 min de travail, 12 h au frais, 1 h 30 à 2 h de pousse et 30 min de four
+- **Calories :** environ 446 kcal pour 1/8 de focaccia (sans garniture)
 
 ## 3. Ingrédients
 
@@ -70,8 +71,6 @@ Une focaccia très aérée et croustillante, sans pétrissage. On mélange à la
 17. Refermer, appuyer légèrement et couper en portions.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1/8 de focaccia (sans garniture). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

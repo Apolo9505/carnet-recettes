@@ -19,6 +19,7 @@ La saucisse purée des bons bistrots, entièrement faite maison : une saucisse d
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 1 h 30 de préparation au total, en deux jours (repos d'une nuit pour la saucisse et les pickles)
+- **Calories :** environ 1036 kcal par portion
 
 ## 3. Ingrédients
 
@@ -82,8 +83,6 @@ La saucisse purée des bons bistrots, entièrement faite maison : une saucisse d
 15. Dans des assiettes chaudes : une grosse cuillère de purée en volcan, la saucisse, une cascade de jus et une cuillère de pickles de graines de moutarde.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

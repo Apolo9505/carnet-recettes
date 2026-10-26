@@ -21,6 +21,7 @@ Le melon-jambon transformé en vraie salade en quelques minutes : de fines tranc
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 10 min
+- **Calories :** environ 195 kcal par portion
 
 ## 3. Ingrédients
 
@@ -38,8 +39,6 @@ Le melon-jambon transformé en vraie salade en quelques minutes : de fines tranc
 4. Ajouter le jambon cru en chiffonnade, en donnant du volume, puis des feuilles de basilic.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Une soupe d'hiver lisse et veloutée. Le potimarron cuit avec sa peau dans un bo
 
 - **Portions :** 4 personnes
 - **Temps :** environ 45 min
+- **Calories :** environ 456 kcal par portion
 
 ## 3. Ingrédients
 
@@ -71,8 +72,6 @@ Une soupe d'hiver lisse et veloutée. Le potimarron cuit avec sa peau dans un bo
 16. Servir bien chaud avec les croûtons, des morceaux de chips de jambon et un filet d'huile d'olive ou d'huile pimentée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

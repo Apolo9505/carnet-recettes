@@ -19,6 +19,7 @@ Une recette sicilienne de Catane : des pâtes avec des aubergines rôties au fou
 
 - **Portions :** 2 personnes
 - **Temps :** environ 35 min (dont 20 à 25 min de four pour les aubergines)
+- **Calories :** environ 862 kcal par portion
 
 ## 3. Ingrédients (pour 2 personnes)
 
@@ -63,8 +64,6 @@ Une recette sicilienne de Catane : des pâtes avec des aubergines rôties au fou
 14. Servir dans des assiettes creuses, en mettant de l'aubergine dans chaque assiette. Ajouter un filet d'huile d'olive, beaucoup de feuilles de basilic frais et un peu de ricotta salata râpée, sans en mettre trop car elle est salée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

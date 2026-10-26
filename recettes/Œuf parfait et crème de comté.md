@@ -21,6 +21,7 @@ Une entrée réconfortante avec des produits simples : un œuf parfait (cuit 45 
 
 - **Portions :** 4 à 6 personnes (1 œuf par personne ; estimation)
 - **Temps :** environ 50 min (dont 45 min de cuisson des œufs sans surveillance)
+- **Calories :** environ 464 kcal par portion
 
 ## 3. Ingrédients
 
@@ -43,8 +44,6 @@ Une entrée réconfortante avec des produits simples : un œuf parfait (cuit 45 
 7. Dans une assiette creuse, casser l'œuf parfait, l'entourer de crème de comté, couvrir généreusement de ciboulette et servir avec les mouillettes.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

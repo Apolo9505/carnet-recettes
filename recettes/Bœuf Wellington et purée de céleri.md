@@ -21,6 +21,7 @@ Le grand classique en croûte : un filet de bœuf saisi et badigeonné de moutar
 
 - **Portions :** 4 à 6 personnes (filet de 700 g)
 - **Temps :** environ 2 h, dont plusieurs passages au frais
+- **Calories :** environ 915 kcal par portion
 
 ## 3. Ingrédients
 
@@ -90,8 +91,6 @@ Le grand classique en croûte : un filet de bœuf saisi et badigeonné de moutar
 15. Couper au couteau-scie pour la pâte, puis au couteau de cuisine pour la viande. Servir chaque tranche à cheval sur une cuillerée de purée de céleri chaude, avec un filet d'huile d'olive et de la ciboulette ciselée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

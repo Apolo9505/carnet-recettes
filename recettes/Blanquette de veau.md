@@ -19,6 +19,7 @@ Le grand classique familial. Le veau (collier et poitrine, plus moelleux grâce 
 
 - **Portions :** 4 personnes
 - **Temps :** environ 3 h 30 (dont 2 h 30 de mijotage)
+- **Calories :** environ 966 kcal par portion
 
 ## 3. Ingrédients (pour 4 personnes)
 
@@ -74,8 +75,6 @@ Le grand classique familial. Le veau (collier et poitrine, plus moelleux grâce 
 14. Servir bien chaud avec du riz blanc, une bonne louche de sauce, du poivre du moulin et de la ciboulette ciselée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

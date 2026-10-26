@@ -21,6 +21,7 @@ Une « fausse » mousseline, plus simple que la vraie (une hollandaise montée) 
 
 - **Portions :** 2 à 3 personnes (estimation)
 - **Temps :** environ 25 min
+- **Calories :** environ 577 kcal par portion
 
 ## 3. Ingrédients
 
@@ -49,8 +50,6 @@ Une « fausse » mousseline, plus simple que la vraie (une hollandaise montée) 
 8. Saler encore un peu les asperges tièdes et les napper de sauce. À manger tout de suite.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

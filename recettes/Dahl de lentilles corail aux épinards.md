@@ -19,6 +19,7 @@ Un plat réconfortant et végétarien, fait presque entièrement avec des produi
 
 - **Portions :** 4 personnes
 - **Temps :** environ 35 min
+- **Calories :** environ 483 kcal par portion
 
 ## 3. Ingrédients
 
@@ -46,8 +47,6 @@ Un plat réconfortant et végétarien, fait presque entièrement avec des produi
 8. Servir chaud dans des assiettes creuses, avec un peu d'huile pimentée, beaucoup de coriandre et un filet de citron. On peut l'accompagner d'un pain plat.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

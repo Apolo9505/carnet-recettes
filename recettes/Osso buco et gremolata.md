@@ -19,6 +19,7 @@ Des jarrets de veau farinés, saisis au beurre, puis braisés 1 h 30 au four dan
 
 - **Portions :** 3 personnes
 - **Temps :** environ 30 min de préparation et 1 h 30 de four
+- **Calories :** environ 1048 kcal par portion
 
 ## 3. Ingrédients
 
@@ -71,8 +72,6 @@ Des jarrets de veau farinés, saisis au beurre, puis braisés 1 h 30 au four dan
 11. Dresser les tagliatelles avec du parmesan, poser un jarret, napper d'une grosse louche de sauce et ajouter quelques touches de gremolata.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

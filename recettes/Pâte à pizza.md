@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Voir aussi la fiche « Pizza napolitaine maison » (version à fermentation longue).
 
+- **Calories :** environ 805 kcal pour 1 pâte à pizza (recette pour 2)
+
 ## Ingrédients (une plaque de four entière / ou version plus grande)
 - 350 g de farine (ou 500 g)
 - 25 cl d'eau tiède (ou 35,7 cl)
@@ -28,8 +30,6 @@ source: Perso
 > Ces proportions couvrent largement une plaque de four, ou deux pizzas rondes plus fines.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 pâte à pizza (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

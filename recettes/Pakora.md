@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Lal Qila](https://lalqila.fr/pakora-vegan-recette-simple/)
 
+- **Calories :** environ 448 kcal par portion
+
 ## Ingrédients
 - 250 g de farine de pois chiche
 - 300 g de légumes variés coupés finement (oignon, pomme de terre, chou-fleur, carotte…)
@@ -30,8 +32,6 @@ source: Perso
 6. Égoutter et servir chaud avec un chutney de coriandre, une sauce au yaourt ou du citron vert.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

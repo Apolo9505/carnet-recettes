@@ -21,6 +21,7 @@ Un gros raviolo par personne, en pâte fraîche aux œufs, farci de butternut r�
 
 - **Portions :** 4 à 6 raviolos (1 par personne)
 - **Temps :** environ 1 h 30, dont 1 h de repos de la pâte (pendant la cuisson de la butternut)
+- **Calories :** environ 447 kcal par portion
 
 ## 3. Ingrédients
 
@@ -78,8 +79,6 @@ Un gros raviolo par personne, en pâte fraîche aux œufs, farci de butternut r�
 12. Transférer le raviolo dans le beurre et l'arroser, sans prolonger la cuisson. Dresser dans une assiette chaude, napper de beurre de sauge, et finir avec du poivre blanc, de la fleur de sel et, si on veut, du parmesan et de la ciboulette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

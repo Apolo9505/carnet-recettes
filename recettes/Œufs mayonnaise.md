@@ -21,6 +21,7 @@ Le grand classique de bistrot, dans la version du restaurant Bilili à Paris : d
 
 - **Portions :** 2 personnes en entrée (4 demi-œufs ; estimation)
 - **Temps :** environ 30 min
+- **Calories :** environ 629 kcal par portion
 
 ## 3. Ingrédients
 
@@ -61,8 +62,6 @@ Le grand classique de bistrot, dans la version du restaurant Bilili à Paris : d
 8. Napper généreusement de mayonnaise, puis parsemer de croûtons, de chips de jambon brisées et d'herbes fraîches. Quelques gouttes d'huile verte, si on en a.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

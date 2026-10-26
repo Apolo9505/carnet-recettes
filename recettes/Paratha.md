@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Lal Qila](https://lalqila.fr/paratha-maison-recette-simple/) — voir aussi la version de la fiche « Poulet tikka masala et paratha ».
 
+- **Calories :** environ 207 kcal pour 1 paratha
+
 ## Ingrédients
 - 2 tasses de farine de blé complet (ou moitié T65, moitié seigle blond)
 - ¾ tasse d'eau tiède (à ajuster)
@@ -28,8 +30,6 @@ source: Perso
 6. Empiler dans un torchon pour garder chaleur et souplesse.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 paratha. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Le dessert classique, avec peu d'ingrédients : une crème entière infusée à 
 
 - **Portions :** 4 à 6 ramequins (selon leur taille)
 - **Temps :** environ 45 min, plus 3 à 4 h au frais
+- **Calories :** environ 431 kcal par portion
 
 ## 3. Ingrédients
 
@@ -42,8 +43,6 @@ Le dessert classique, avec peu d'ingrédients : une crème entière infusée à 
 8. Au moment de servir, couvrir toute la surface d'une couche de sucre et la caraméliser au chalumeau zone par zone, sans rester trop longtemps au même endroit.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

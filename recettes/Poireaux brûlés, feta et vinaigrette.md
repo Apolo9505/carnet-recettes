@@ -19,6 +19,7 @@ Des poireaux coupés en deux dans la longueur et rôtis à four très chaud jusq
 
 - **Portions :** 2 à 4 personnes
 - **Temps :** environ 30 min
+- **Calories :** environ 322 kcal par portion
 
 ## 3. Ingrédients
 
@@ -56,8 +57,6 @@ Des poireaux coupés en deux dans la longueur et rôtis à four très chaud jusq
 9. Répartir la vinaigrette, émietter la feta à la main et parsemer du persil gardé de côté.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

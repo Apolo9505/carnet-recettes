@@ -21,6 +21,7 @@ Un accompagnement trop méconnu, qui ressemble à un gratin dauphinois plus lég
 
 - **Portions :** 6 personnes (estimation)
 - **Temps :** environ 1 h de préparation (dont 45 min pour les oignons) et 1 h 25 de four
+- **Calories :** environ 362 kcal par portion
 
 ## 3. Ingrédients
 
@@ -43,8 +44,6 @@ Un accompagnement trop méconnu, qui ressemble à un gratin dauphinois plus lég
 7. Servir en parts au couteau, ou à la cuillère.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

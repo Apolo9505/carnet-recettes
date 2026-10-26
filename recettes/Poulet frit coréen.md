@@ -19,6 +19,7 @@ Du poulet frit à la coréenne : des morceaux de cuisse avec la peau, marinés �
 
 - **Portions :** 4 personnes
 - **Temps :** environ 45 min, plus 1 h de marinade
+- **Calories :** environ 782 kcal par portion
 
 ## 3. Ingrédients
 
@@ -71,8 +72,6 @@ Du poulet frit à la coréenne : des morceaux de cuisse avec la peau, marinés �
 10. Servir avec un filet de mayonnaise, des graines de sésame et la cébette frisée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ La cousine de la tartiflette, avec des crozets (petites pâtes carrées de Savoi
 
 - **Portions :** 6 personnes environ
 - **Temps :** environ 40 min
+- **Calories :** environ 1203 kcal par portion
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ La cousine de la tartiflette, avec des crozets (petites pâtes carrées de Savoi
 10. Enfourner 15 à 20 minutes, jusqu'à une belle croûte gratinée. Servir bien chaud.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

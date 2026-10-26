@@ -19,6 +19,7 @@ Une version express du ramen, à mi-chemin entre les nouilles dan dan et le rame
 
 - **Portions :** 2 à 3 bols
 - **Temps :** environ 1 h, plus au moins 4 h de marinade pour les œufs
+- **Calories :** environ 1063 kcal par portion
 
 ## 3. Ingrédients
 
@@ -88,8 +89,6 @@ Une version express du ramen, à mi-chemin entre les nouilles dan dan et le rame
 13. Garnir de pak-choï, de trois cuillerées de porc, de pousses de soja, d'un œuf mariné coupé en deux, de cébette, d'un peu d'huile pimentée et de sésame noir.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

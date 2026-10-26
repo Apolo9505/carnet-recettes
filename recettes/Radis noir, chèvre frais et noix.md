@@ -21,6 +21,7 @@ Un canapé frais et sans cuisson : de fines tranches de radis noir qui restent c
 
 - **Portions :** environ 6 personnes à l'apéritif (estimation)
 - **Temps :** environ 20 min
+- **Calories :** environ 135 kcal par portion
 
 ## 3. Ingrédients
 
@@ -42,8 +43,6 @@ Un canapé frais et sans cuisson : de fines tranches de radis noir qui restent c
 5. Plaquer un demi-cerneau de noix sur chaque quenelle, ajouter une goutte d'huile d'olive et couvrir généreusement de ciboulette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

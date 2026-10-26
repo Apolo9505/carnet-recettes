@@ -21,6 +21,7 @@ Des œufs mollets marinés quelques heures dans un mélange soja, ail, piment, c
 
 - **Portions :** 4 œufs, environ 2 personnes (estimation)
 - **Temps :** environ 20 min, puis quelques heures de marinade au frais
+- **Calories :** environ 233 kcal par portion
 
 ## 3. Ingrédients
 
@@ -60,8 +61,6 @@ Des œufs mollets marinés quelques heures dans un mélange soja, ail, piment, c
 9. Arroser généreusement de marinade, sur les œufs et sur le riz, et ajouter quelques rondelles de piment.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

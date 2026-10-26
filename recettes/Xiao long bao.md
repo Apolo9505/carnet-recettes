@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Marc Winer](https://marcwiner.com/xiao-long-bao/#recette)
 
+- **Calories :** environ 381 kcal pour 6 xiao long bao (recette pour 30)
+
 ## Ingrédients
 
 **Gelée de porc**
@@ -67,8 +69,6 @@ source: Perso
 > Se congèlent crus et se cuisent directement congelés (environ 15 min).
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 6 xiao long bao (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

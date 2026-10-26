@@ -19,6 +19,7 @@ La sauce crue d'Amérique du Sud, avec des ingrédients de supermarché : persil
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 15 min pour la sauce, 10 min pour la viande
+- **Calories :** environ 638 kcal par portion
 
 ## 3. Ingrédients
 
@@ -54,8 +55,6 @@ La sauce crue d'Amérique du Sud, avec des ingrédients de supermarché : persil
 9. Servir dans un plat avec son jus et de généreuses cuillerées de chimichurri bien remuée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

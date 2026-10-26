@@ -21,6 +21,7 @@ Une soupe de nouilles inspirée du ramen, avec des produits qu'on trouve partout
 
 - **Portions :** 2 personnes
 - **Temps :** environ 30 min
+- **Calories :** environ 631 kcal par portion
 
 ## 3. Ingrédients
 
@@ -47,8 +48,6 @@ Une soupe de nouilles inspirée du ramen, avec des produits qu'on trouve partout
 8. Finir avec le vert de cébette et l'huile pimentée (ou de sésame).
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

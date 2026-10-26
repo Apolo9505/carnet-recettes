@@ -19,6 +19,7 @@ Un crumble salé pour l'automne. Le potimarron, rôti avec sa peau, devient fond
 
 - **Portions :** 4 personnes
 - **Temps :** environ 1 h (dont environ 55 min de four en deux fois)
+- **Calories :** environ 895 kcal par portion
 
 ## 3. Ingrédients
 
@@ -58,8 +59,6 @@ Un crumble salé pour l'automne. Le potimarron, rôti avec sa peau, devient fond
 11. Servir chaud.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

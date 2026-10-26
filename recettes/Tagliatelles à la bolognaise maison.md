@@ -19,6 +19,7 @@ Le vrai ragù alla bolognese, qui n'est pas une sauce tomate : c'est la viande q
 
 - **Portions :** 3 à 4 personnes (estimation)
 - **Temps :** environ 1 h de préparation (dont les pâtes), 3 h de mijotage, 30 min de repos pour la pâte
+- **Calories :** environ 895 kcal par portion
 
 ## 3. Ingrédients
 
@@ -76,8 +77,6 @@ Le vrai ragù alla bolognese, qui n'est pas une sauce tomate : c'est la viande q
 18. Dresser en nids (en les enroulant dans une louche), napper généreusement de sauce, finir avec un filet d'huile d'olive et du parmesan. Servir immédiatement.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Un amuse-bouche qui marie la pomme de terre et le caviar : des pommes de terre r
 
 - **Portions :** environ 6 à 8 personnes en amuse-bouche (estimation : 1 kg de pommes de terre)
 - **Temps :** environ 1 h, plus une nuit au frais (ou au moins quelques heures)
+- **Calories :** environ 358 kcal par portion
 
 ## 3. Ingrédients
 
@@ -61,8 +62,6 @@ Un amuse-bouche qui marie la pomme de terre et le caviar : des pommes de terre r
 9. Ajouter un peu de sel et de zeste de citron, puis du caviar en quinconce sur la crème, et finir avec la ciboulette très finement ciselée. Servir aussitôt.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Un ragoût de champignons à la manière d'un bourguignon, sans chercher à imit
 
 - **Portions :** 4 à 6 personnes (estimation)
 - **Temps :** environ 1 h 15
+- **Calories :** environ 732 kcal par portion
 
 ## 3. Ingrédients
 
@@ -88,8 +89,6 @@ Un ragoût de champignons à la manière d'un bourguignon, sans chercher à imit
 14. Dans une assiette chaude, étaler une bonne cuillerée de polenta, ajouter le bourguignon et son jus, beaucoup de ciboulette et les oignons caramélisés.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

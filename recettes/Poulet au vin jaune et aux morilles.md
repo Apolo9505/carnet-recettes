@@ -19,6 +19,7 @@ Le plat de fin d'année rituel de Hugo. Un poulet de Bresse est découpé, farin
 
 - **Portions :** 4 personnes (estimation)
 - **Temps :** environ 1 h 30, plus quelques heures pour réhydrater les morilles
+- **Calories :** environ 1309 kcal par portion
 
 ## 3. Ingrédients
 
@@ -70,8 +71,6 @@ Le plat de fin d'année rituel de Hugo. Un poulet de Bresse est découpé, farin
 14. Couper les filets en deux. Servir les spätzle dans des assiettes creuses avec le poulet et beaucoup de sauce aux morilles.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

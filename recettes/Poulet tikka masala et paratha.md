@@ -19,6 +19,7 @@ Un plat crémeux et épicé, cousin du butter chicken, qui serait né à Glasgow
 
 - **Portions :** 4 personnes
 - **Temps :** au moins 1 h de marinade (idéalement une nuit), puis environ 1 h 30
+- **Calories :** environ 1215 kcal par portion
 
 ## 3. Ingrédients (pour 4 personnes)
 
@@ -93,8 +94,6 @@ Un plat crémeux et épicé, cousin du butter chicken, qui serait né à Glasgow
 22. Servir avec le riz, des parathas et de la coriandre fraîche.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

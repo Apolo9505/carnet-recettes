@@ -21,6 +21,7 @@ Des gougères légères, en pâte à choux assaisonnée de poivre, de muscade et
 
 - **Portions :** une trentaine de gougères (estimation)
 - **Temps :** environ 45 min
+- **Calories :** environ 378 kcal pour 5 gougères (recette pour 30)
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ Des gougères légères, en pâte à choux assaisonnée de poivre, de muscade et
 7. Cuire à **180 °C** (chaleur tournante) **sans jamais ouvrir le four**, jusqu'à ce qu'elles soient bien gonflées et dorées (temps non précisé dans la vidéo, environ 20 à 25 minutes). Couper le four et laisser 2 minutes porte ouverte avant de sortir.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 5 gougères (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

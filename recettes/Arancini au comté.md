@@ -19,6 +19,7 @@ Un mélange de Sicile et de Jura. Un risotto au vin blanc du Jura, lié avec du 
 
 - **Portions :** 4 à 6 personnes (environ 20 arancini)
 - **Temps :** environ 40 min de risotto, une nuit au frais (ou quelques heures), puis environ 45 min
+- **Calories :** environ 892 kcal par portion
 
 ## 3. Ingrédients
 
@@ -94,8 +95,6 @@ Un mélange de Sicile et de Jura. Un risotto au vin blanc du Jura, lié avec du 
 19. Mettre la sauce au fond d'un bol, ajouter un filet d'huile d'olive et les arancini bien chauds, puis râper du comté 36 mois par-dessus.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

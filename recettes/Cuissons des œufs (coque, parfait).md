@@ -31,6 +31,7 @@ Les temps de cuisson de base vus dans la vidéo, avec deux recettes : l'œuf à 
 
 - **Portions :** œuf parfait pour 3 personnes (d'après la liste)
 - **Temps :** 10 min pour l'œuf coque ; environ 1 h pour l'œuf parfait (dont 45 min de cuisson sans surveillance)
+- **Calories :** environ 635 kcal par portion
 
 ## 3. Ingrédients
 
@@ -78,8 +79,6 @@ Les temps de cuisson de base vus dans la vidéo, avec deux recettes : l'œuf à 
 10. Étaler la hollandaise dans l'assiette, y casser l'œuf parfait, ajouter quelques morceaux d'asperge, des œufs de truite et la chapelure toastée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

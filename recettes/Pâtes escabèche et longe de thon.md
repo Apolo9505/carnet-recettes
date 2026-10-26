@@ -23,6 +23,7 @@ Des pâtes prêtes en 12 minutes, le temps de leur cuisson : une sauce escabèch
 
 - **Portions :** 2 à 4 personnes (estimation)
 - **Temps :** environ 15 min
+- **Calories :** environ 670 kcal par portion
 
 ## 3. Ingrédients
 
@@ -49,8 +50,6 @@ Des pâtes prêtes en 12 minutes, le temps de leur cuisson : une sauce escabèch
 8. Finir avec un zeste ou un trait de citron, de la fleur de sel, les herbes et les fleurs de ciboulette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

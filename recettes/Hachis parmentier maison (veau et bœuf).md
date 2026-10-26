@@ -19,6 +19,7 @@ Un hachis parmentier maison, très éloigné de celui de la cantine. On hache so
 
 - **Portions :** 6 personnes
 - **Temps :** environ 1 h 30
+- **Calories :** environ 868 kcal par portion
 
 ## 3. Ingrédients
 
@@ -86,8 +87,6 @@ Un hachis parmentier maison, très éloigné de celui de la cantine. On hache so
 18. Servir une belle part de hachis avec la salade.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

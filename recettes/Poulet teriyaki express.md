@@ -19,6 +19,7 @@ Un plat de semaine rapide : des cuisses de poulet désossées, à la peau croust
 
 - **Portions :** 2 personnes
 - **Temps :** environ 25 min
+- **Calories :** environ 655 kcal par portion
 
 ## 3. Ingrédients (pour 2 personnes)
 
@@ -63,8 +64,6 @@ Un plat de semaine rapide : des cuisses de poulet désossées, à la peau croust
 12. Dans l'assiette, disposer le riz, les pois gourmands et le poulet tranché, puis ajouter un trait de sauce.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

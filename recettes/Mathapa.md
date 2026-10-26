@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.*
 
+- **Calories :** environ 436 kcal par portion
+
 ## Ingrédients
 - Feuilles de manioc
 - 2 noix de coco
@@ -26,8 +28,6 @@ source: Perso
 6. Ajouter ce lait au matapa et remettre sur le feu en mélangeant de temps en temps.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

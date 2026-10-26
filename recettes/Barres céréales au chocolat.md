@@ -11,6 +11,8 @@ source: Perso
 
 ![Barres de céréales au chocolat](https://image.over-blog.com/VdeBn0qE_AIREXHaWrXsQjP86Qw=/filters:no_upscale()/image%2F0651923%2F20250430%2Fob_0756e8_barre-cereales-healthy.jpg)
 
+- **Calories :** environ 131 kcal pour 1 barre (recette pour 12)
+
 *Fiche importée depuis Notion.* Source : [Amandine Cooking](https://www.amandinecooking.com/2016/09/barres-de-cereales-maison-avoine-banane-noisettes-et-chocolat.html)
 
 ## Ingrédients (12 barres d'environ 35 g)
@@ -36,8 +38,6 @@ source: Perso
 - Liants : miel, sirop d'agave, purée de fruits secs ; autre compote de fruit ou beurre de cacahuète à la place de la banane.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 barre (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

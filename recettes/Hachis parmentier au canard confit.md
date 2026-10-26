@@ -19,6 +19,7 @@ Un hachis parmentier au canard plutôt qu'au bœuf. On effiloche des cuisses de 
 
 - **Portions :** 6 personnes
 - **Temps :** environ 1 h 15
+- **Calories :** environ 747 kcal par portion
 
 ## 3. Ingrédients
 
@@ -86,8 +87,6 @@ Un hachis parmentier au canard plutôt qu'au bœuf. On effiloche des cuisses de 
 20. Servir le hachis bien chaud avec la salade et la sauce au vin rouge.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Un plat de fête qui cuit tout seul. Des joues de bœuf saisies sont confites 6 
 
 - **Portions :** 5 à 6 personnes
 - **Temps :** environ 1 h de préparation, 6 h de four (de 4 à 10 h selon l'envie)
+- **Calories :** environ 628 kcal par portion
 
 ## 3. Ingrédients
 
@@ -82,8 +83,6 @@ Un plat de fête qui cuit tout seul. Des joues de bœuf saisies sont confites 6 
 19. Dresser : purée, un morceau de joue, beaucoup de jus et les girolles par-dessus.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

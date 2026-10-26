@@ -19,6 +19,7 @@ Le grand classique des bistrots français, préparé dans les règles : du pain 
 
 - **Portions :** 4 croques
 - **Temps :** environ 30 min de préparation, le temps que la béchamel refroidisse, puis environ 10 min de cuisson
+- **Calories :** environ 860 kcal par portion
 
 ## 3. Ingrédients (pour 4 croques)
 
@@ -59,8 +60,6 @@ Le grand classique des bistrots français, préparé dans les règles : du pain 
 > **Astuce :** l'intérieur ne cuit pas complètement à la poêle, c'est normal : le passage au four termine la cuisson et fait fondre le fromage.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

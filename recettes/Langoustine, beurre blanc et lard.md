@@ -21,6 +21,7 @@ Un carpaccio de langoustines crues aplaties à la presse, nappé d'un beurre bla
 
 - **Portions :** 2 à 4 personnes en entrée (estimation : 8 langoustines)
 - **Temps :** environ 45 min
+- **Calories :** environ 703 kcal par portion
 
 ## 3. Ingrédients
 
@@ -61,8 +62,6 @@ Un carpaccio de langoustines crues aplaties à la presse, nappé d'un beurre bla
 8. Faire fondre le lard doucement au chalumeau, sans le brûler, en insistant un peu au centre pour le caraméliser. Servir tout de suite.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

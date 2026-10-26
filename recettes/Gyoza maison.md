@@ -19,6 +19,7 @@ Des raviolis japonais faits entièrement maison. La pâte est préparée à l'ea
 
 - **Portions :** environ 30 gyoza
 - **Temps :** environ 1 h 15, dont 30 min de repos de la pâte
+- **Calories :** environ 635 kcal pour 7 à 8 gyozas avec la sauce (recette pour 30)
 
 ## 3. Ingrédients
 
@@ -91,8 +92,6 @@ Des raviolis japonais faits entièrement maison. La pâte est préparée à l'ea
 19. Servir aussitôt, arrosé de sauce.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 7 à 8 gyozas avec la sauce (recette pour 30). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

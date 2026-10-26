@@ -19,6 +19,7 @@ Un chou-fleur entier massé au beurre et aux épices torréfiées (coriandre, cu
 
 - **Portions :** 2 à 4 personnes
 - **Temps :** environ 15 min de préparation et 1 h 15 de four
+- **Calories :** environ 330 kcal par portion
 
 ## 3. Ingrédients
 
@@ -74,8 +75,6 @@ Un chou-fleur entier massé au beurre et aux épices torréfiées (coriandre, cu
 13. Ajouter un peu d'huile pimentée si on veut, beaucoup d'herbes fraîches et les oignons au sumac. Servir tiède.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

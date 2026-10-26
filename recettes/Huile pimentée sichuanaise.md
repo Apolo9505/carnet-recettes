@@ -19,6 +19,7 @@ L'huile pimentée qui sert de base aux nouilles dan dan, et qu'on finit par mett
 
 - **Quantité :** environ 40 cl
 - **Temps :** environ 30 min
+- **Calories :** environ 99 kcal pour 1 c. à soupe (environ 12 g)
 
 ## 3. Ingrédients
 
@@ -47,8 +48,6 @@ L'huile pimentée qui sert de base aux nouilles dan dan, et qu'on finit par mett
 *Version express :* verser l'huile infusée bouillante et filtrée sur du piment en poudre grossièrement moulu et une cuillère à café de sel.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 c. à soupe (environ 12 g). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

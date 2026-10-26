@@ -18,6 +18,7 @@ source: Whoogy's
 Deux façons anti-gaspi d'utiliser les graines d'une courge (butternut, potimarron ou autre) au lieu de les jeter. Les **graines grillées au curry** font un apéritif croustillant, qu'on peut aussi parsemer sur une salade ou un plat. Le **pesto de graines de courge** remplace les pignons par les graines, pour beaucoup moins cher.
 
 - **Temps :** environ 10 min de préparation, plus 15 à 20 min de four pour les graines grillées
+- **Calories :** environ 236 kcal pour 30 g de pesto et une poignée de graines
 
 ## 3. Ingrédients
 
@@ -60,8 +61,6 @@ Deux façons anti-gaspi d'utiliser les graines d'une courge (butternut, potimarr
 10. Se conserve au frais, couvert d'un filet d'huile d'olive. On peut l'utiliser dans le crumble de potimarron.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 30 g de pesto et une poignée de graines. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

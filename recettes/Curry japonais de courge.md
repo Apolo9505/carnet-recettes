@@ -19,6 +19,7 @@ Une version maison du curry japonais (kare raisu), sans les cubes tout faits du 
 
 - **Portions :** 4 personnes
 - **Temps :** environ 45 min
+- **Calories :** environ 722 kcal par portion
 
 ## 3. Ingrédients
 
@@ -70,8 +71,6 @@ Une version maison du curry japonais (kare raisu), sans les cubes tout faits du 
 13. Servir le riz bien chaud, napper de deux ou trois louches de curry chaud, puis ajouter de la coriandre, de l'oignon rouge et des pickles.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -19,6 +19,7 @@ Des pâtes d'été sans crème : des petits dés de courgettes saisis al dente, 
 
 - **Portions :** 3 à 4 personnes
 - **Temps :** environ 30 min
+- **Calories :** environ 706 kcal par portion
 
 ## 3. Ingrédients
 
@@ -51,8 +52,6 @@ Des pâtes d'été sans crème : des petits dés de courgettes saisis al dente, 
 11. Servir bien chaud, avec encore un peu de zeste de citron et de parmesan.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

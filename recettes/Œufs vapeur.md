@@ -21,6 +21,7 @@ Une recette chinoise très simple : des œufs battus avec une fois et demie leur
 
 - **Portions :** 1 à 2 personnes
 - **Temps :** environ 20 min
+- **Calories :** environ 130 kcal par portion
 
 ## 3. Ingrédients
 
@@ -40,8 +41,6 @@ Une recette chinoise très simple : des œufs battus avec une fois et demie leur
 5. Quadriller la surface à la cuillère, verser un peu de sauce soja et d'huile pimentée, et parsemer de ciboulette ou de cébette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

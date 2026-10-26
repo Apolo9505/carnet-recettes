@@ -19,6 +19,7 @@ Un plat très simple et difficile à rater, prêt en 20 minutes vaisselle compri
 
 - **Portions :** 2 personnes
 - **Temps :** environ 20 min
+- **Calories :** environ 710 kcal par portion
 
 ## 3. Ingrédients (pour 2 personnes)
 
@@ -52,8 +53,6 @@ Un plat très simple et difficile à rater, prêt en 20 minutes vaisselle compri
 > **Astuce :** pour réchauffer le plat, ajouter un peu d'eau afin de retrouver la sauce.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

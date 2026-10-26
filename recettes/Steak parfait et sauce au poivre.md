@@ -19,6 +19,7 @@ Une vidéo « 2 en 1 » : la cuisson d'une belle pièce de bœuf (un T-bone dans
 
 - **Portions :** 2 personnes (selon la pièce)
 - **Temps :** environ 25 min
+- **Calories :** environ 1110 kcal par portion
 
 ## 3. Ingrédients
 
@@ -57,8 +58,6 @@ Une vidéo « 2 en 1 » : la cuisson d'une belle pièce de bœuf (un T-bone dans
 10. Napper de sauce, ou la servir à part.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

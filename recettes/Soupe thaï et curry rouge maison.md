@@ -19,6 +19,7 @@ Une soupe rapide d'inspiration thaïlandaise, sans prétendre à une recette tra
 
 - **Portions :** 2 à 3 personnes (estimation)
 - **Temps :** environ 35 min (dont 15 à 20 min de pilon)
+- **Calories :** environ 340 kcal par portion
 
 ## 3. Ingrédients
 
@@ -65,8 +66,6 @@ Une soupe rapide d'inspiration thaïlandaise, sans prétendre à une recette tra
 10. Servir dans des bols avec un peu d'huile pimentée, du jus de citron vert, de la coriandre fraîche et des graines de sésame.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Une tarte sans précuisson : un rectangle de pâte feuilletée, une crème de ri
 
 - **Portions :** 2 à 4 personnes (estimation)
 - **Temps :** environ 30 min
+- **Calories :** environ 461 kcal par portion
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ Une tarte sans précuisson : un rectangle de pâte feuilletée, une crème de ri
 8. Laisser 1 à 2 minutes sur une grille, puis couper en parts. On peut ajouter un peu de zeste et de parmesan au moment de servir.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

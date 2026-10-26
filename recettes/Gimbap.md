@@ -19,6 +19,7 @@ Un rouleau coréen de riz et de nori, bien garni : bœuf mariné façon bulgogi 
 
 - **Portions :** 4 rouleaux environ (estimation)
 - **Temps :** environ 1 h 15
+- **Calories :** environ 673 kcal par portion
 
 ## 3. Ingrédients
 
@@ -76,8 +77,6 @@ Un rouleau coréen de riz et de nori, bien garni : bœuf mariné façon bulgogi 
 13. Badigeonner d'huile de sésame (et parsemer de sésame), puis couper en tranches avec un couteau bien aiguisé et mouillé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

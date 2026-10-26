@@ -24,6 +24,7 @@ Le rouleau de printemps est en fait une enveloppe qu'on peut garnir de ce qu'on 
 
 - **Portions :** 4 rouleaux par version
 - **Temps :** environ 30 min par version
+- **Calories :** environ 685 kcal pour 2 rouleaux et un peu de sauce (recette pour 12)
 
 ## 3. Ingrédients (pour 4 rouleaux par version)
 
@@ -100,8 +101,6 @@ Le rouleau de printemps est en fait une enveloppe qu'on peut garnir de ce qu'on 
 20. *Sauce cacahuète :* mélanger le beurre de cacahuète, la sauce soja, le vinaigre et l'huile pimentée. Le mélange épaissit vite : ajouter de l'eau froide petit à petit jusqu'à ce que la sauce soit nappante.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 2 rouleaux et un peu de sauce (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

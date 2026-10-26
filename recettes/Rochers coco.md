@@ -11,12 +11,12 @@ source: Perso
 
 *Fiche importée depuis Notion (notes personnelles, recette à compléter).*
 
+- **Calories :** environ 223 kcal pour 2 rochers (recette pour 12)
+
 ## Notes
 - 1re tentative : 120 g de coco, 120 g de sucre, 2 blancs d'œufs. Bon mais trop sucré : réduire largement le sucre, ajouter un blanc d'œuf et cuire un peu moins.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 2 rochers (recette pour 12). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

@@ -21,6 +21,7 @@ Un rösti suisse pour le petit-déjeuner (ou le brunch), fait avec des pommes de
 
 - **Portions :** 2 à 3 personnes (estimation)
 - **Temps :** environ 40 min, plus la cuisson des pommes de terre la veille
+- **Calories :** environ 607 kcal par portion
 
 ## 3. Ingrédients
 
@@ -48,8 +49,6 @@ Un rösti suisse pour le petit-déjeuner (ou le brunch), fait avec des pommes de
 6. Servir le rösti avec la truite fumée, la crème et les cornichons.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

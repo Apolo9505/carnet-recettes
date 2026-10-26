@@ -23,6 +23,7 @@ Un plat de printemps « chaud-froid » : des tranches de longe de thon crue, ass
 
 - **Portions :** 2 à 4 personnes en entrée (estimation)
 - **Temps :** environ 30 min, plus 1 h d'infusion du beurre blanc
+- **Calories :** environ 516 kcal par portion
 
 ## 3. Ingrédients
 
@@ -60,8 +61,6 @@ Un plat de printemps « chaud-froid » : des tranches de longe de thon crue, ass
 6. Verser le beurre blanc chaud avec les fèves dans l'assiette, poser le thon froid par-dessus, ajouter les petits pois crus et parsemer de fleurs de sureau.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

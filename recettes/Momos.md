@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Du voyage à l'assiette](https://duvoyagealassiette.com/recette-de-momos-nepalais/)
 
+- **Calories :** environ 569 kcal pour 1/10 de la recette (avec les sauces)
+
 ## Ingrédients
 
 **Pâte**
@@ -52,8 +54,6 @@ source: Perso
 > Variante dessert : momos fourrés d'un morceau de Snickers.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1/10 de la recette (avec les sauces). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

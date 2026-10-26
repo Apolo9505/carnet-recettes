@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Petite Charlotte](https://www.petite-charlotte.fr/comment-reussir-pate-bao-parfaite-7-astuces-chef-petits-pains-vapeur-moelleux/) — voir aussi la fiche « Gua bao au porc caramélisé ».
 
+- **Calories :** environ 223 kcal pour 2 baos (pâte seule)
+
 ## Ingrédients (environ 12 pains)
 - 300 g de farine T45 (ou farine spéciale bao)
 - 1 c. à café de levure boulangère sèche
@@ -31,8 +33,6 @@ source: Perso
 8. Laisser reposer 15 min, puis cuire 10 à 12 min à la vapeur.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 2 baos (pâte seule). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

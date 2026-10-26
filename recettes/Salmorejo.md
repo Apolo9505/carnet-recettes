@@ -19,6 +19,7 @@ Une cousine andalouse du gaspacho, plus rapide et plus onctueuse. On mixe des to
 
 - **Portions :** 4 personnes
 - **Temps :** environ 15 min
+- **Calories :** environ 330 kcal par portion
 
 ## 3. Ingrédients
 
@@ -45,8 +46,6 @@ Une cousine andalouse du gaspacho, plus rapide et plus onctueuse. On mixe des to
 8. Servir le salmorejo frais, garni d'œuf, de lanières de jambon ibérique et d'une pointe de piment d'Espelette.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

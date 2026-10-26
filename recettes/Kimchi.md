@@ -19,6 +19,7 @@ Le chou chinois fermenté coréen, dans une version simple. Le chou est dégorg�
 
 - **Quantité :** un grand bocal
 - **Temps :** environ 30 min de préparation, 2 h de dégorgement, au moins 1 semaine de fermentation
+- **Calories :** environ 15 kcal pour 50 g de kimchi
 
 ## 3. Ingrédients
 
@@ -54,8 +55,6 @@ Le chou chinois fermenté coréen, dans une version simple. Le chou est dégorg�
 9. Conserver ensuite au réfrigérateur, plusieurs semaines voire plusieurs mois.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 50 g de kimchi. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

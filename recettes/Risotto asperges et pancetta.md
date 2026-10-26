@@ -21,6 +21,7 @@ Un risotto de printemps bien crémeux, avec des asperges vertes, de la pancetta 
 
 - **Portions :** 2 personnes
 - **Temps :** environ 35 min
+- **Calories :** environ 745 kcal par portion
 
 ## 3. Ingrédients (pour 2 personnes)
 
@@ -51,8 +52,6 @@ Un risotto de printemps bien crémeux, avec des asperges vertes, de la pancetta 
 11. Servir aussitôt avec la pancetta croustillante par-dessus et un peu de fromage râpé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

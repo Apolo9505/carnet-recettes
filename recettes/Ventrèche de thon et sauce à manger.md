@@ -23,6 +23,7 @@ La ventrèche, partie la plus grasse du thon (le « magret de la mer »), juste 
 
 - **Portions :** 2 à 4 personnes (estimation)
 - **Temps :** environ 30 min (avec un jus de volaille déjà prêt)
+- **Calories :** environ 386 kcal par portion
 
 ## 3. Ingrédients
 
@@ -49,8 +50,6 @@ La ventrèche, partie la plus grasse du thon (le « magret de la mer »), juste 
 6. Verser la sauce dans l'assiette et y poser les tranches de ventrèche. Finir avec des croûtons.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 3). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

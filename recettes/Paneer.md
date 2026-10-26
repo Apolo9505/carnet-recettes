@@ -11,6 +11,8 @@ source: Perso
 
 *Fiche importée depuis Notion.* Source : [Lal Qila](https://lalqila.fr/secrets-paneer-maison/)
 
+- **Calories :** environ 150 kcal pour 50 g de paneer
+
 ## Ingrédients
 - 2 l de lait entier (cru ou microfiltré de préférence)
 - 40 ml de jus de citron (ou de vinaigre blanc)
@@ -26,8 +28,6 @@ source: Perso
 7. Démouler, couper en cubes, ou conserver au frais dans de l'eau salée.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 50 g de paneer. Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

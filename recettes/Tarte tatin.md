@@ -19,6 +19,7 @@ La tarte aux pommes renversée. Les pommes, bien serrées à la verticale dans u
 
 - **Portions :** 6 à 8 personnes
 - **Temps :** environ 30 min de préparation et 1 h de four
+- **Calories :** environ 515 kcal par portion
 
 ## 3. Ingrédients
 
@@ -72,8 +73,6 @@ La tarte aux pommes renversée. Les pommes, bien serrées à la verticale dans u
 17. Servir tiède avec de la crème crue.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 7). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

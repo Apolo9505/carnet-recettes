@@ -19,6 +19,7 @@ Une soupe japonaise prête en moins de 20 minutes. Des nouilles udon baignent da
 
 - **Portions :** 2 bols
 - **Temps :** environ 20 min
+- **Calories :** environ 423 kcal par portion
 
 ## 3. Ingrédients (pour 2 bols)
 
@@ -68,8 +69,6 @@ Une soupe japonaise prête en moins de 20 minutes. Des nouilles udon baignent da
 > **Astuce :** les étapes peuvent se faire en même temps (bouillon, œufs et udon) pour aller plus vite.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 2). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

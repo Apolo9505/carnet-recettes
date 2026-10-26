@@ -19,6 +19,7 @@ La recette de pâtes la plus simple et peut-être la plus technique : seulement 
 
 - **Portions :** 4 personnes
 - **Temps :** environ 15 min
+- **Calories :** environ 616 kcal par portion
 
 ## 3. Ingrédients
 
@@ -40,8 +41,6 @@ La recette de pâtes la plus simple et peut-être la plus technique : seulement 
 9. *Dressage :* enrouler les pâtes à la pince dans une louche tenue à la verticale, les déposer en dôme dans l'assiette, puis napper de sauce. Ajouter du poivre frais et un peu de fromage râpé.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 4). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

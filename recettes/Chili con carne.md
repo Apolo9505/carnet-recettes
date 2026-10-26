@@ -19,6 +19,7 @@ Un chili pour recevoir, loin de la version au bœuf haché et aux haricots en bo
 
 - **Portions :** 6 personnes
 - **Temps :** une nuit de trempage, environ 45 min de préparation et 3 h à 3 h 30 de cuisson
+- **Calories :** environ 690 kcal par portion
 
 ## 3. Ingrédients
 
@@ -89,8 +90,6 @@ Un chili pour recevoir, loin de la version au bœuf haché et aux haricots en bo
 17. Servir le chili bien chaud avec une cuillère de crème fraîche, la cébette frisée, des pickles d'oignon rouge, de la coriandre, du citron vert et les chips.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 6). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|

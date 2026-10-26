@@ -19,6 +19,7 @@ Un ragù où la viande n'est pas hachée : du plat de côtes de bœuf, bien sais
 
 - **Portions :** 4 à 6 personnes (estimation)
 - **Temps :** environ 1 h de préparation (dont les pâtes), 3 h 30 à 5 h de four, 30 min à 1 h de repos pour la pâte
+- **Calories :** environ 1028 kcal par portion
 
 ## 3. Ingrédients
 
@@ -77,8 +78,6 @@ Un ragù où la viande n'est pas hachée : du plat de côtes de bœuf, bien sais
 21. Dresser en nid dans des assiettes chaudes, napper de ragù et de son jus, puis servir avec du parmesan et un filet d'huile d'olive.
 
 ## 5. Valeurs nutritionnelles (estimation)
-
-Pour 1 portion (recette pour 5). Calcul fait à partir des ingrédients de la fiche avec la table de composition Ciqual de l'Anses ; les accompagnements servis à part ne sont comptés que s'ils figurent dans la liste. Les % se rapportent aux apports de référence d'un adulte (règlement européen 1169/2011, et EFSA pour les fibres).
 
 | | Par portion | % apports journaliers |
 |---|---|---|
